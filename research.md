@@ -13,11 +13,11 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/find/
   * [Cherlin&#8217;s conjecture for sporadic simple groups](https://arxiv.org/abs/1705.05150) (with Francesca Dalla Volta and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) 
   * [Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1](https://arxiv.org/abs/1705.01344) (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) 
   * [Binary groups: Alternating and classical groups](https://arxiv.org/abs/1610.01792) (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
-  * [Conway groupoids, regular two-graphs and supersimple designs](http://arxiv.org/abs/1510.06680) (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/))</ul> 
+  * [Conway groupoids, regular two-graphs and supersimple designs](http://arxiv.org/abs/1510.06680) (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/))
 
 ## Published academic papers
         
- 0.  Conway&#8217;s groupoid and its relatives</a> (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), to appear in the _AMS Contemporary Mathematics Series_ volume in honour of John H. Conway. 
+ 0.  Conway&#8217;s groupoid and its relatives (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), to appear in the _AMS Contemporary Mathematics Series_ volume in honour of John H. Conway. 
  0. Abelian covers of alternating groups (with Daniel Barrantes and Jeremias Ramirez), to appear in _Archiv der Mathematik._
  0. Perfect commuting graphs (with [John Britnell](http://www2.imperial.ac.uk/~jbritnel/)), to appear in _Journal of Group Theory._
  0. Quasirandom group actions, to appear in _Forum of Mathematics (Sigma)._

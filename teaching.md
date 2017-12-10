@@ -8,7 +8,7 @@ guid: http://boolesrings.org/nickgill/?page_id=95
 ---
 ## Lecture courses
 
-  * 2016 (summer) &#8211; [Crecimiento en grupos y otras estructuras](http://boolesrings.org/nickgill/2016/07/19/crecimiento-en-grupos-y-otras-estructuras/): Universidad de Costa Rica, Universidad Nacional Autònoma de Nicaragua &#8211; Leon.
+  * 2016 (summer) &#8211; [Crecimiento en grupos y otras estructuras](files/2016/07/19/crecimiento-en-grupos-y-otras-estructuras/): Universidad de Costa Rica, Universidad Nacional Autònoma de Nicaragua &#8211; Leon.
   * 2016 (summer) &#8211; [Galois Theory](http://www.rnta.eu/nap/): 2 week module for an M.Phil. course at Tribhuvan University, Nepal.
   * 2016 (spring)  &#8211; [MS1S424: Real analysis](https://icis.southwales.ac.uk/studentmodules/10232/studentmodulespecifications): USW.
   * 2015 &#8211; 16 (full year) &#8211; [AM2H30: Further mathematics for engineers](https://icis.southwales.ac.uk/studentmodules/101/studentmodulespecifications): USW.
