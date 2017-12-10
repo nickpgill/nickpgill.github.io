@@ -10,11 +10,11 @@ categories:
 ---
 This two-day event will take place on 23rd and 30th June 2015 at the University of South Wales. The event is being held to [celebrate the appointment](http://www.lms.ac.uk/grants/celebrating-new-appointments-scheme-1) of four new lecturers in the maths dept of USW. It will consist of four sessions of general talks, each hosted by a new lecturer. All are welcome!
 
-There is no registration fee, but please register your attendance or obtain any further details by contacting [Nick Gill](mailto:Nicholas.Gill@southwales.ac.uk). All events are held in rooms G310 and G311. Morning tea, lunch and afternoon tea are included and complementary. There are limited funds available for dinner &#8212; please let us know if you would like to join us.
+There is no registration fee, but please register your attendance or obtain any further details by contacting [Nick Gill](mailto:Nick.Gill@southwales.ac.uk). All events are held in rooms G310 and G311. Morning tea, lunch and afternoon tea are included and complementary. There are limited funds available for dinner &#8212; please let us know if you would like to join us.
 
-**New**: A list of titles and abstracts for all talks [is now available](http://boolesrings.org/nickgill/files/2015/06/talks.pdf).
+A list of titles and abstracts for all talks [is now available](files/2015/06/talks.pdf).
 
-##Tuesday 23rd June 2015
+## Tuesday 23rd June 2015
    
 
 <table>
@@ -103,7 +103,7 @@ There is no registration fee, but please register your attendance or obtain any 
   </tr>
 </table>
 
-##Tuesday 30th June 2015
+## Tuesday 30th June 2015
 
 <table>
   <tr>

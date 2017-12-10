@@ -7,11 +7,11 @@ layout: page
 guid: http://boolesrings.org/nickgill/?page_id=154
 ---
 
-{% for post in site.posts limit: 6 %}
+{% for post in site.posts %}
 
 [{{ post.title }}]({{ post.url }})
 
-{{ post.categories }} posted on {{ post.date | date: "%b %-d, %Y" }}
+Posted on {{ post.date | date: "%b %-d, %Y" }}
 {% endfor %}
 
 subscribe via [rss]({{ site.baseurl }}/feed.xml)
