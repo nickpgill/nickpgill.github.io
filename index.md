@@ -9,7 +9,7 @@ layout: page
 <table width="100%">
   <tr>
     <td>
-<img class="alignleft size-full wp-image-53" src="files/2014/03/me.jpg" alt="me"/>
+<img class="alignleft size-full wp-image-53" src="files/2014/03/me.jpg" width=275 alt="me"/>
 </td><td>
 I am a lecturer in the department of computing and mathematical sciences, University of South Wales. I started work here in January 2015. In the photo I&#8217;m the one on the left.
 </td></tr></table>
