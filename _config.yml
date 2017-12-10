@@ -28,7 +28,7 @@ github_username:  nickpgill
 
 # Build settings
 markdown: kramdown
-theme: Tale
+theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
