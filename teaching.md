@@ -32,7 +32,7 @@ Below are slides and lecture notes for various seminars and short courses that I
   * [Conway groupoids](2016/04/groupoids.pdf), Seminar Slides, 2015, Conference on Groups and Geometries, Banff, Canada. [Video](https://www.birs.ca/events/2015/5-day-workshops/15w5017/videos/watch/201505071749-Gill.html) also available.
   * [Regular maps and finite simple groups](regularmaps.pdf), Invited talk at international conference [GEMS 2013](http://univac.savbb.sk:8080/gems13/), Slovakia.
   * <a>Regular maps</a>, Contributed talk to conference on Geometric and Topological Graph Theory 2013, Bristol.
-  * Finite simple groups [1](fg1.pdf) and [2](fg2.pdf): Seminar slides, 2012, two colloquia on the classification of finite simple groups, Open University.
+  * Finite simple groups [1](fg1.pdf) and [2](2014/03/fg2.pdf): Seminar slides, 2012, two colloquia on the classification of finite simple groups, Open University.
   * [The width of a finite simple group](Banfftalk.pdf): Seminar slides, 2012, Conference on Groups and Geometries, Banff, Canada. [Video](http://www.birs.ca/events/2012/5-day-workshops/12w5034/videos/watch/201209050941-Gill.mp4) also available.
   * [Approximate groups, growth and width](modeltalk.pdf): Seminar slides, 2012, Model Theory Workshop, Royal Holloway.
-  * [Is Babai afraid of spiders?: Seminar slides, 2011, British Combinatorial Conference, Exeter.](spidertalk2.pdf)
+  * [Is Babai afraid of spiders?: Seminar slides, 2011, British Combinatorial Conference, Exeter.](/2014/03/spidertalk2.pdf)
