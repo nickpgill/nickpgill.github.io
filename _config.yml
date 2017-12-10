@@ -20,8 +20,7 @@ description: ""
 title: Nick Gill
 email: nick.gill@southwales.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Department of Mathematics, Boise State University, 1910 University Dr,
-  Boise, ID 83725-1555.
+  Nick Gill's website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nickpgill.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
@@ -29,7 +28,7 @@ github_username:  nickpgill
 
 # Build settings
 markdown: kramdown
-theme: Freshman21
+theme: Freshman
 exclude:
   - Gemfile
   - Gemfile.lock
