@@ -28,7 +28,7 @@ github_username:  nickpgill
 
 # Build settings
 markdown: kramdown
-theme: architect
+theme: cayman
 exclude:
   - Gemfile
   - Gemfile.lock
