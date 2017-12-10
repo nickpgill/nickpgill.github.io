@@ -12,7 +12,7 @@ This two-day event will take place on 23rd and 30th June 2015 at the University 
 
 There is no registration fee, but please register your attendance or obtain any further details by contacting [Nick Gill](mailto:Nick.Gill@southwales.ac.uk). All events are held in rooms G310 and G311. Morning tea, lunch and afternoon tea are included and complementary. There are limited funds available for dinner &#8212; please let us know if you would like to join us.
 
-A list of titles and abstracts for all talks [is now available](files/2015/06/talks.pdf).
+A list of titles and abstracts for all talks [is now available](/files/2015/06/talks.pdf).
 
 ## Tuesday 23rd June 2015
    
