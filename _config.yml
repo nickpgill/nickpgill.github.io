@@ -29,7 +29,7 @@ github_username:  nickpgill
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: Freshman21
 exclude:
   - Gemfile
   - Gemfile.lock
