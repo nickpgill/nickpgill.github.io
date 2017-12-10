@@ -6,7 +6,9 @@ author: nickgill
 layout: page
 guid: http://boolesrings.org/nickgill/?page_id=4
 ---
-[<img class="alignleft size-full wp-image-53" src="http://boolesrings.org/nickgill/files/2014/03/me.jpg" alt="me" width="275" height="206" />](http://boolesrings.org/nickgill/files/2014/03/me.jpg)I am a lecturer in the department of computing and mathematical sciences, University of South Wales. I started work here in January 2015.
+[<img class="alignleft size-full wp-image-53" src="files/2014/03/me.jpg" alt="me" width="275" height="206" />](http://boolesrings.org/nickgill/files/2014/03/me.jpg)
+
+I am a lecturer in the department of computing and mathematical sciences, University of South Wales. I started work here in January 2015.
 
 In the photo I&#8217;m the one on the left.
 
