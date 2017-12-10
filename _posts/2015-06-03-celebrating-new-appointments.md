@@ -4,7 +4,6 @@ title: Celebrating New Appointments
 date: 2015-06-03T13:09:34+00:00
 author: nickgill
 layout: post
-guid: http://boolesrings.org/nickgill/?p=410
 permalink: /2015/06/03/celebrating-new-appointments/
 categories:
   - Uncategorized
@@ -15,9 +14,8 @@ There is no registration fee, but please register your attendance or obtain any 
 
 **New**: A list of titles and abstracts for all talks [is now available](http://boolesrings.org/nickgill/files/2015/06/talks.pdf).
 
-**Tuesday 23rd June 2015
-  
-** 
+##Tuesday 23rd June 2015
+   
 
 <table>
   <tr>
@@ -105,9 +103,7 @@ There is no registration fee, but please register your attendance or obtain any 
   </tr>
 </table>
 
-**Tuesday 30th June 2015
-  
-** 
+##Tuesday 30th June 2015
 
 <table>
   <tr>

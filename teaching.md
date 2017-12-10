@@ -34,5 +34,5 @@ Below are slides and lecture notes for various seminars and short courses that I
   * <a>Regular maps</a>, Contributed talk to conference on Geometric and Topological Graph Theory 2013, Bristol.
   * Finite simple groups [1](files/2014/03/fg1.pdf) and [2](files/2014/03/fg2.pdf): Seminar slides, 2012, two colloquia on the classification of finite simple groups, Open University.
   * [The width of a finite simple group](files/2014/03/Banfftalk.pdf): Seminar slides, 2012, Conference on Groups and Geometries, Banff, Canada. [Video](http://www.birs.ca/events/2012/5-day-workshops/12w5034/videos/watch/201209050941-Gill.mp4) also available.
-  * [Approximate groups, growth and width](modeltalk.pdf): Seminar slides, 2012, Model Theory Workshop, Royal Holloway.
+  * [Approximate groups, growth and width](files/2014/03/modeltalk.pdf): Seminar slides, 2012, Model Theory Workshop, Royal Holloway.
   * [Is Babai afraid of spiders?: Seminar slides, 2011, British Combinatorial Conference, Exeter.](files/2014/03/spidertalk2.pdf)
