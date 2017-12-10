@@ -11,13 +11,14 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/find/
 ## Submitted papers
 
   * [Cherlin&#8217;s conjecture for sporadic simple groups](https://arxiv.org/abs/1705.05150) (with Francesca Dalla Volta and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) 
-      * [Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1](https://arxiv.org/abs/1705.01344) (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) 
-          * [Binary groups: Alternating and classical groups](https://arxiv.org/abs/1610.01792) (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
-          * [Conway groupoids, regular two-graphs and supersimple designs](http://arxiv.org/abs/1510.06680) (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/))</ul> 
-        ## Published academic papers
+  * [Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1](https://arxiv.org/abs/1705.01344) (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) 
+  * [Binary groups: Alternating and classical groups](https://arxiv.org/abs/1610.01792) (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
+  * [Conway groupoids, regular two-graphs and supersimple designs](http://arxiv.org/abs/1510.06680) (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/))</ul> 
+
+## Published academic papers
         
-          1. Conway&#8217;s groupoid and its relatives</a> (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), to appear in the _AMS Contemporary Mathematics Series_ volume in honour of John H. Conway. 
-              * Abelian covers of alternating groups (with Daniel Barrantes and Jeremias Ramirez), to appear in _Archiv der Mathematik._
+ 0.  Conway&#8217;s groupoid and its relatives</a> (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), to appear in the _AMS Contemporary Mathematics Series_ volume in honour of John H. Conway. 
+ 0. Abelian covers of alternating groups (with Daniel Barrantes and Jeremias Ramirez), to appear in _Archiv der Mathematik._
               * Perfect commuting graphs (with [John Britnell](http://www2.imperial.ac.uk/~jbritnel/)), to appear in _Journal of Group Theory._
               * Quasirandom group actions, to appear in _Forum of Mathematics (Sigma)._
               * (with Neil Gillespie and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)) Conway groupoids and completely transitive codes, to appear in _Combinatorica._
@@ -44,7 +45,9 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/find/
               * Polar spaces and embeddings of classical groups. _New Zealand Journal of Mathematics_, 36 (2007), 175–184.
               * Linear spaces with significant characteristic prime. __Innovations in Incidence Geometry, 3 (2006), 109–119.
               * Nilpotent Singer groups. _Electronic Journal of Combinatorics_, 13 (2006), no.1, R94.</ol> 
-            ## Other activity
+{: reversed="reversed"}
+
+## Other activity
             
               * I wrote [this note](http://boolesrings.org/nickgill/files/2014/07/alternatingproduct.pdf) in response to [this MathOverflow question](http://mathoverflow.net/questions/169128/finite-groups-factorized-into-two-simple-alternating-groups). Shortly afterwards I realised that Mohammad Reza Darafsheh [had beaten me to it](http://www.ams.org/mathscinet-getitem?mr=2101830), so this note is unlikely to be published.
               * Marcus Hum, Dömötör Pálvölgyi and I answered the MathOverflow question [Is there always a maximum anti-rectangle with a corner square?](http://mathoverflow.net/questions/147013/is-there-always-a-maximum-anti-rectangle-with-a-corner-square). Our answer was cited in [this economics(!) paper](http://econ.biu.ac.il/files/economics/working-papers/2014-01.pdf).
