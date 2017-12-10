@@ -33,9 +33,9 @@ Esta material es más clasica, entonces hay muchas referencias posibles. Si no h
 
 ## Referencias sobre crecimiento
     
-    La mayoría de estas referencias estan un poco avanzadas. Yo he incluido dos referencias generales (por Tao y por Tao&#8211;Vu) que contienen mucho material fondamental &#8212; malafortunadamente, el libro de Tao y Vu no es disponible en una forma gratuita en la web.
+La mayoría de estas referencias estan un poco avanzadas. Yo he incluido dos referencias generales (por Tao y por Tao&#8211;Vu) que contienen mucho material fondamental &#8212; malafortunadamente, el libro de Tao y Vu no es disponible en una forma gratuita en la web.
     
-    Mi primera recomendación es las lecturas de Helfgott, &#8220;_Crecimiento y espansión en SL2&#8243;. _Primeramente, son en español(!) pero también comenzan a un nivel bastante fácil y, rapidamente, presentan un resultado muy importante de Helfgott sí mismo, sobre crecimiento en el grupo SL(2,p).
+Mi primera recomendación es las lecturas de Helfgott, &#8220;_Crecimiento y espansión en SL2&#8243;. _Primeramente, son en español(!) pero también comenzan a un nivel bastante fácil y, rapidamente, presentan un resultado muy importante de Helfgott sí mismo, sobre crecimiento en el grupo SL(2,p).
     
   * Breuillard, [Lectures on approximate groups](/files/2016/07/Breuillard-Lectures-on-approximate-groups.pdf).
    * Green, [Notes on approximate structures](/files/2016/07/Green-Notes-on-approximate-structures.pdf).
