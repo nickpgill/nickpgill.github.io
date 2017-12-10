@@ -19,17 +19,17 @@ guid: http://boolesrings.org/nickgill/?page_id=95
   * 2014 &#8211; [MA1004: Álgebra lineal](http://boolesrings.org/nickgill/2014/07/29/ma1004-algebra-lineal/): Universidad de Costa Rica.
   * 2014 &#8211; [MA460: Álgebra lineal II](http://boolesrings.org/nickgill/2014/05/22/algebra-lineal-ii/): Universidad de Costa Rica.
   * 2014 &#8211; [MA708: Topics in Group Theory](/2014/03/11/topics-in-group-theory/): Universidad de Costa Rica.
-  * 2013 &#8211; [Finite Classical Groups](http://boolesrings.org/nickgill/?p=97): [London Taught Course Center](http://www.ltcc.ac.uk/).
-  * 2010 &#8211; [Growth and expanders](http://boolesrings.org/nickgill/?p=101): University of Western Australia.
-  * 2009 &#8211; [Galois Theory I](http://boolesrings.org/nickgill/?p=104): University of Bristol.
+  * 2013 &#8211; [Finite Classical Groups](2014/03/11/finite-classical-groups/): [London Taught Course Center](http://www.ltcc.ac.uk/).
+  * 2010 &#8211; [Growth and expanders](2014/03/11/expanders-and-growth-in-groups/): University of Western Australia.
+  * 2009 &#8211; [Galois Theory I](2014/03/11/galois-theory/): University of Bristol.
 
 ## Seminars
 
 Below are slides and lecture notes for various seminars and short courses that I&#8217;ve given. I generally prefer to give \`chalk-talks&#8217; so only a small number of my seminars are represented.
 
-  * [On Cherlin&#8217;s conjecture](http://boolesrings.org/nickgill/files/2016/07/cherlin_herst.pdf), Talk at Herstmonceux conference on Algebraic Combinatorics and Group Actions, July 2016 (some slides are a little warped by the &#8220;handout&#8221; command).
-  * [On Cherlin&#8217;s conjecture](http://boolesrings.org/nickgill/files/2016/04/cherlin.pdf), Invited talk at Open University Winter Combinatorics Meeting, January 2016 (more general than the previous).
-  * [Conway groupoids](http://boolesrings.org/nickgill/files/2016/04/groupoids.pdf), Seminar Slides, 2015, Conference on Groups and Geometries, Banff, Canada. [Video](https://www.birs.ca/events/2015/5-day-workshops/15w5017/videos/watch/201505071749-Gill.html) also available.
+  * [On Cherlin&#8217;s conjecture](2016/07/cherlin_herst.pdf), Talk at Herstmonceux conference on Algebraic Combinatorics and Group Actions, July 2016 (some slides are a little warped by the &#8220;handout&#8221; command).
+  * [On Cherlin&#8217;s conjecture](2016/04/cherlin.pdf), Invited talk at Open University Winter Combinatorics Meeting, January 2016 (more general than the previous).
+  * [Conway groupoids](2016/04/groupoids.pdf), Seminar Slides, 2015, Conference on Groups and Geometries, Banff, Canada. [Video](https://www.birs.ca/events/2015/5-day-workshops/15w5017/videos/watch/201505071749-Gill.html) also available.
   * [Regular maps and finite simple groups](regularmaps.pdf), Invited talk at international conference [GEMS 2013](http://univac.savbb.sk:8080/gems13/), Slovakia.
   * <a>Regular maps</a>, Contributed talk to conference on Geometric and Topological Graph Theory 2013, Bristol.
   * Finite simple groups [1](fg1.pdf) and [2](fg2.pdf): Seminar slides, 2012, two colloquia on the classification of finite simple groups, Open University.

@@ -49,12 +49,12 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/find/
 
 ## Other activity
             
- * I wrote [this note](http://boolesrings.org/nickgill/files/2014/07/alternatingproduct.pdf) in response to [this MathOverflow question](http://mathoverflow.net/questions/169128/finite-groups-factorized-into-two-simple-alternating-groups). Shortly afterwards I realised that Mohammad Reza Darafsheh [had beaten me to it](http://www.ams.org/mathscinet-getitem?mr=2101830), so this note is unlikely to be published.
+ * I wrote [this note](2014/07/alternatingproduct.pdf) in response to [this MathOverflow question](http://mathoverflow.net/questions/169128/finite-groups-factorized-into-two-simple-alternating-groups). Shortly afterwards I realised that Mohammad Reza Darafsheh [had beaten me to it](http://www.ams.org/mathscinet-getitem?mr=2101830), so this note is unlikely to be published.
  * Marcus Hum, Dömötör Pálvölgyi and I answered the MathOverflow question [Is there always a maximum anti-rectangle with a corner square?](http://mathoverflow.net/questions/147013/is-there-always-a-maximum-anti-rectangle-with-a-corner-square). Our answer was cited in [this economics(!) paper](http://econ.biu.ac.il/files/economics/working-papers/2014-01.pdf).
  * A letter [in the Guardian](http://www.guardian.co.uk/letters/story/0,,1876288,00.html);
  * An article on [free journals in mathematics](http://infochangeindia.org/200806107173/Technology/Features/Knowledge-for-all.html). The article gives some of the reasons why I, and many others, choose to publish in [low-cost or free](http://www.mathematik.uni-bielefeld.de/~rehmann/BIB/AMS/Price_per_Volume.html) journals.
             
-I am a reviewer for [Zentralblatt](http://zbmath.org/?q=(rv:+Nick+Gill)), [MathSciNet](http://www.ams.org/mathscinet/) and the [Newsletter of the London Maths. Soc](http://www.lms.ac.uk/newsletter/10.html#2). I have refereed articles for many different journals, but [I won&#8217;t referee for Elsevier](http://boolesrings.org/nickgill/?p=92).
+I am a reviewer for [Zentralblatt](http://zbmath.org/?q=(rv:+Nick+Gill)), [MathSciNet](http://www.ams.org/mathscinet/) and the [Newsletter of the London Maths. Soc](http://www.lms.ac.uk/newsletter/10.html#2). I have refereed articles for many different journals, but [I won&#8217;t referee for Elsevier](2014/03/11/letter-to-the-journal-of-algebra/).
             
 I am an associate member of, and the webmaster for, the European Mathematical Society&#8217;s [Commission for Developing Countries](http://euro-math-soc.eu/EMS-CDC/index.php).
             
