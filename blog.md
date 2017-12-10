@@ -6,3 +6,16 @@ author: nickgill
 layout: page
 guid: http://boolesrings.org/nickgill/?page_id=154
 ---
+
+{% for post in site.posts limit: 6 %}
+
+[{{ post.title }}]({{ post.url }})
+{{ post.excerpt | remove: '
+
+' | remove: '
+
+' | strip }}
+{{ post.categories }} posted on {{ post.date | date: "%b %-d, %Y" }}
+{% endfor %}
+
+subscribe via [rss]({{ site.baseurl }}/feed.xml)
