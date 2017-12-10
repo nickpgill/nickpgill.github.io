@@ -1,3 +1,44 @@
 url: http://boolesrings.org/nickgill
 name: Nick Gill
 description: ""
+
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Nick Gill
+email: nick.gill@southwales.ac.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Department of Mathematics, Boise State University, 1910 University Dr,
+  Boise, ID 83725-1555.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nickpgill.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  nickpgill
+
+# Build settings
+markdown: kramdown
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Sam config
+excerpt_separator: <!--more-->
+permalink: /:title
+header_pages:
+  - blog.md
+  - research.md
+  - teaching.md
+
