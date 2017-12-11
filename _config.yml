@@ -22,6 +22,7 @@ url: "https://nickpgill.github.io" # the base hostname & protocol for your site
 github_username:  nickpgill
 
 # Build settings
+markdown: kramdown
 theme: minima
 exclude:
   - Gemfile
