@@ -7,7 +7,7 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-#### This year's meeting will be held at Gregynog Hall, Newtown, Powys on 21-23 May 2018. 
+#### This year's meeting will be held at Gregynog Hall, Newtown on 21-23 May 2018. 
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
