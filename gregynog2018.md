@@ -9,6 +9,12 @@ layout: page
 
 #### This year's meeting will be held at Gregynog Hall, Newtown, Powys on 21-23 May 2018. 
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 |---|---|----|----|----|----|
 | [Overview](gregynog2018.md) |  [Registration](gregynog-registration.md) |  [Practical Information](gregynog-practical.md) | [How to find us](gregynog-how-to-find-us.md) | Programme | Abstracts |
 |-----|-----|----|----|----|----|
