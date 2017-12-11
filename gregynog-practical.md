@@ -26,7 +26,7 @@ layout: page
 ## Practical information
 Information for your visit to the Gregynog Welsh Mathematics Colloquium 2017.
 
-### Times
+## Times
 
 The workshop will run from the afternoon of Monday 21 May until lunchtime Wednesday 23 May 2018.
 
