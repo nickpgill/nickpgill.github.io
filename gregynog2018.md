@@ -15,10 +15,11 @@ layout: page
         }
 </style>
 
+<p>
 <table width="100%" border="1">
   <tr>
     <td> <a href = "gregynog2018.md">Overview</a> </td><td>  <a href = "gregynog-registration.md">Registration</a> </td><td>  <a href = "gregynog-practical.md">Practical Information</a> </td><td> <a href = "gregynog-how-to-find-us.md">How to find us</a> </td><td> Programme </td><td> Abstracts </td></tr></table>
-
+</p>
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK. <img style="float: right;" src="/files/2017/12/gregynog.jpg" width="350pt" alt="Gregynog" />
 
