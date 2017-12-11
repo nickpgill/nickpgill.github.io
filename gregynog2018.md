@@ -11,6 +11,7 @@ layout: page
 
 
 | [Overview](gregynog2018.md) |  [Registration](gregynog-registration.md) |  [Practical Information](gregynog-practical.md) | [How to find us](gregynog-how-to-find-us.md) | Programme | Abstracts |
+
 |-----|-----|----|----|----|----|
 
 This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK. <img style="float: right;" src="/files/2017/12/gregynog.jpg" width="350pt" alt="Gregynog" />
