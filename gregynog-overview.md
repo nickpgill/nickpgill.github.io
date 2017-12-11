@@ -20,4 +20,3 @@ The following invited plenary speakers have agreed to give keynote lectures:
 
 The organisers of the Colloquium are [Nick Gill](http://boolesrings.org/nickgill) and [Francis Hunt](http://staff.southwales.ac.uk/users/3853-fhhunt) (University of South Wales School of Mathematics). Some financial support is available for UK-based research students. The Colloquium is supported by an London Mathematical Society (LMS) conference grant.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScENF3J7uWR1C-DLOUP6Lj5wca2rTZ1_Ce3-yTNASKJC2C1RQ/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
