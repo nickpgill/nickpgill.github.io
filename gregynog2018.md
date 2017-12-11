@@ -15,7 +15,7 @@ layout: page
         }
 </style>
 
-<table width="100%" align=center>
+<table width="100%">
   <tr>
     <td> [Overview](gregynog2018.md) </td><td>  [Registration](gregynog-registration.md) </td><td>  [Practical Information](gregynog-practical.md) </td><td> [How to find us](gregynog-how-to-find-us.md) </td><td> Programme </td><td> Abstracts </td></td></table>
 
