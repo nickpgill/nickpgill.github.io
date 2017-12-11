@@ -7,6 +7,22 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
+#### This year's meeting will be held at Gregynog Hall, Newtown, Powys on 21-23 May 2018. 
+
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
+
+
+<p>
+<table width="100%" border="1">
+  <tr>
+    <td align="center"> <a href = "gregynog2018.md">Overview</a> </td><td align="center">  <a href = "gregynog-registration.md">Registration</a> </td><td align="center">  <a href = "gregynog-practical.md">Practical Information</a> </td><td align="center"> <a href = "gregynog-how-to-find-us.md">How to find us</a> </td><td align="center"> Programme </td><td align="center"> Abstracts </td></tr></table>
+</p>
+
 ## How to find us
 
 Gregynog is located near the quiet village of Tregynon, 6 miles north of Newtown in Powys.
