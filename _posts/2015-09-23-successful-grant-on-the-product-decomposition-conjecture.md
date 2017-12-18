@@ -9,7 +9,7 @@ permalink: /2015/09/23/successful-grant-on-the-product-decomposition-conjecture/
 categories:
   - Uncategorized
 ---
-I have just found that my application for EPSRC-funding has been successful. I have been awarded funding via their _&#8220;first grant&#8221; _scheme. The grant will buy me out of 50% of my teaching and admin duties, thereby allowing me to focus on the problem of proving &#8220;The Product Decomposition Conjecture&#8221;.
+I have just found that my application for EPSRC-funding has been successful. I have been awarded funding via their &#8220;first grant&#8221; scheme. The grant will buy me out of 50% of my teaching and admin duties, thereby allowing me to focus on the problem of proving &#8220;The Product Decomposition Conjecture&#8221;.
 
 The [case for support](http://boolesrings.org/nickgill/files/2015/09/case-for-support.pdf) document from my grant application gives details of this conjecture, its importance, and the strategies that I hope to employ to work on it.
 
