@@ -13,7 +13,7 @@ Esta pagina es para un curso a la universidad de Costa Rica. El curso empeza el 
 
 **Plan del curso**
 
-<table>
+<table border="1">
   <tr>
     <td>
       <b>Semana</b>
@@ -269,4 +269,4 @@ Esta pagina es para un curso a la universidad de Costa Rica. El curso empeza el 
 Si tiene más preguntas, se puede
 
   * mandarme un correo: chatwithgill [at] gmail [dot] com 
-  * visitarme en mi oficina: las horas de oficina son 9-12 lunes y 10-12, jueves. (Pero si estoy en mi oficina, siempre estoy contento discutir el curso. Si quiere estar seguro que yo sea aquí, ¡escríbame!) </ul>
+  * visitarme en mi oficina: las horas de oficina son 9-12 lunes y 10-12, jueves. (Pero si estoy en mi oficina, siempre estoy contento discutir el curso. Si quiere estar seguro que yo sea aquí, ¡escríbame!)
