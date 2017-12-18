@@ -1,13 +1,9 @@
 ---
-id: 459a
 title: 'Successful grant: on Cherlin's Conjecture'
 date: 2017-12-19T14:27:08+00:00
 author: nickgill
 layout: post
-guid: http://boolesrings.org/nickgill/?p=459a
 permalink: /2017/12/19/successful-grant-on-cherlins-conjecture/
-categories:
-  - Uncategorized
 ---
 
 I have just found that my application for EPSRC-funding has been successful. I have been awarded funding via their &#8220;standard grant&#8221; scheme. The grant will buy me out of 50% of my teaching and admin duties, thereby allowing me to focus on the problem of proving &#8220;Cherlin's conjecture for finite primitive binary permutation groups&#8221;.
