@@ -1,6 +1,6 @@
 ---
 id: 459
-title: 'Successful grant: on the Product Decomposition Conjecture'
+title: 'Successful grant: on Cherlins Conjecture'
 date: 2015-09-23T14:27:08+00:00
 author: nickgill
 layout: post
