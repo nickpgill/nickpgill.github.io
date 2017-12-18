@@ -1,4 +1,3 @@
-
 ---
 id: 4591
 title: 'Successful grant: on Cherlin's Conjecture'
