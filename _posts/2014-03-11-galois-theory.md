@@ -9,7 +9,7 @@ permalink: /2014/03/11/galois-theory/
 categories:
   - Teaching
 ---
-[Harald Helfgott](http://maths.bris.ac.uk/~mahah) and I are teaching Galois Theory in Teaching Block 1, starting October 2009. Information about (my part of) the course will appear below. </p> 
+[Harald Helfgott](http://maths.bris.ac.uk/~mahah) and I are teaching Galois Theory in Teaching Block 1, starting October 2009. Information about (my part of) the course will appear below.
 
   * **Course page**: A description of the course, as it appeared in the handbook, can be found [here](http://www.maths.bristol.ac.uk/study/undergrad/current_units/unit/?id=183) 
   * **Timetable**: Lectures are at 9am on Monday, Wednesday, and Friday, starting Monday 5th October. The venue will be Portacabin Room 1. Great! 
