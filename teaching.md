@@ -16,9 +16,9 @@ guid: http://boolesrings.org/nickgill/?page_id=95
   * 2015 (autumn) &#8211; [MS2S01: Abstract and linear algebra](https://icis.southwales.ac.uk/studentmodules/8362/studentmodulespecifications): USW.
   * 2015 (spring) &#8211; [MS1S401: Mathematics and statistics for computing](https://icis.southwales.ac.uk/studentmodules/1676/studentmodulespecifications): USW.
   * 2015 (spring) &#8211; [AM2H30: Further mathematics for engineers](https://icis.southwales.ac.uk/studentmodules/101/studentmodulespecifications): USW.
-  * 2014 &#8211; [MA1004: Álgebra lineal](http://boolesrings.org/nickgill/2014/07/29/ma1004-algebra-lineal/): Universidad de Costa Rica.
-  * 2014 &#8211; [MA460: Álgebra lineal II](http://boolesrings.org/nickgill/2014/05/22/algebra-lineal-ii/): Universidad de Costa Rica.
-  * 2014 &#8211; [MA708: Topics in Group Theory](/2014/03/11/topics-in-group-theory/): Universidad de Costa Rica.
+  * 2014 &#8211; [MA1004: Álgebra lineal](2014/07/29/ma1004-algebra-lineal/): Universidad de Costa Rica.
+  * 2014 &#8211; [MA460: Álgebra lineal II](2014/05/22/algebra-lineal-ii/): Universidad de Costa Rica.
+  * 2014 &#8211; [MA708: Topics in Group Theory](2014/03/11/topics-in-group-theory/): Universidad de Costa Rica.
   * 2013 &#8211; [Finite Classical Groups](2014/03/11/finite-classical-groups/): [London Taught Course Center](http://www.ltcc.ac.uk/).
   * 2010 &#8211; [Growth and expanders](2014/03/11/expanders-and-growth-in-groups/): University of Western Australia.
   * 2009 &#8211; [Galois Theory I](2014/03/11/galois-theory/): University of Bristol.

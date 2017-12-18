@@ -39,14 +39,14 @@ This website is for the 4th year course at the Universidad de Costa Rica startin
   * [Lecture 15](http://boolesrings.org/nickgill/files/2014/06/Lecture15.pdf) &#8211; Abstract polar spaces. (This lecture is in draft form; its content is not officially part of the course.) 
   * [Lecture 16](http://boolesrings.org/nickgill/files/2014/07/Lecture16.pdf) &#8211; Symplectic groups. 
   * [Lecture 17](http://boolesrings.org/nickgill/files/2014/07/Lecture17.pdf) &#8211; Unitary groups. 
-  * [Lecture 18](http://boolesrings.org/nickgill/files/2014/07/Lecture18.pdf) &#8211; Orthogonal groups. </ul> 
+  * [Lecture 18](http://boolesrings.org/nickgill/files/2014/07/Lecture18.pdf) &#8211; Orthogonal groups. 
 
 **Exercises**
 
  I will provide full answers for the first set, thereafter answers will only be provided on request.
                                                                         
-  * [Exercises 1 and 2](http://boolesrings.org/nickgill/files/2014/03/Exercises1and2.pdf) | [Answers 1 and 2](http://boolesrings.org/nickgill/files/2014/03/Answers1and21.pdf).
-  * [Exercises 3](http://boolesrings.org/nickgill/files/2014/03/Exercises3.pdf) | [Answers 3](http://boolesrings.org/nickgill/files/2014/04/Answers3.pdf).
+  * [Exercises 1 and 2](http://boolesrings.org/nickgill/files/2014/03/Exercises1and2.pdf) -- [Answers 1 and 2](http://boolesrings.org/nickgill/files/2014/03/Answers1and21.pdf).
+  * [Exercises 3](http://boolesrings.org/nickgill/files/2014/03/Exercises3.pdf) -- [Answers 3](http://boolesrings.org/nickgill/files/2014/04/Answers3.pdf).
   * [Exercises 4](http://boolesrings.org/nickgill/files/2014/03/Exercises4.pdf).
   * [Exercises 5](http://boolesrings.org/nickgill/files/2014/03/Exercises5.pdf).
   * [Exercises 6](http://boolesrings.org/nickgill/files/2014/03/Exercises6.pdf).
