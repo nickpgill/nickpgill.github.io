@@ -5,7 +5,7 @@ date: 2017-12-19T14:27:08+00:00
 author: nickgill
 layout: post
 guid: http://boolesrings.org/nickgill/?p=459a
-permalink: /2015/09/23/successful-grant-on-Cherlins-conjecture/
+permalink: /2017/12/19/successful-grant-on-Cherlins-conjecture/
 categories:
   - Uncategorized
 ---
