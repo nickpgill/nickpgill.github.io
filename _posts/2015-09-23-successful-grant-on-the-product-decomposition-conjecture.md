@@ -1,4 +1,3 @@
-
 ---
 id: 459
 title: 'Successful grant: on the Product Decomposition Conjecture'
