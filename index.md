@@ -11,7 +11,7 @@ layout: page
     <td>
 <img src="files/2014/03/me.jpg" width="650pt" alt="me" />
 </td><td>
-I am a lecturer in the department of computing and <br/> mathematical sciences, University of South Wales. <br/>I started work here in January 2015. <br/>In the photo I&#8217;m the one on the left.
+I am a lecturer in the department of computing and mathematical sciences, University of South Wales. I started work here in January 2015. In the photo I&#8217;m the one on the left.
 </td></tr></table>
 
 &nbsp;
