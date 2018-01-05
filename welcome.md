@@ -17,7 +17,7 @@ I am a lecturer in the department of computing and mathematical sciences, Univer
 
 &nbsp;
 
-<table width="100%">
+<table width="100%" cellpadding="5">
   <tr>
     <td>
       <span style="color: #888888"><i><a href="https://maps.google.co.uk/maps?q=University+of+South+Wales+-+Treforest+Campus,+Pontypridd&hl=en&ll=51.594615,-3.332806&spn=0.044202,0.077162&sll=51.677665,-3.415375&sspn=0.705937,1.234589&oq=university+of+so&hq=University+of+South+Wales+-+Treforest+Campus,+Pontypridd&t=m&z=14"><span style="color: #888888">Address</span></a>:<br /> </i></span><span style="color: #888888">Department of Mathematics</span><br /> <span style="color: #888888"><a href="http://www.ucr.ac.cr/"><span style="color: #888888">University</span></a> of South Wales</span><span style="color: #888888"><br /> Treforest, CF37 1DL<br /> </span><span style="color: #888888">United Kingdom</span>
