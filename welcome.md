@@ -7,7 +7,7 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-<table width="100%">
+<table width="100%" cellspacing="5" cellpadding="5">
   <tr>
     <td>
 <img class="alignleft size-full wp-image-53" src="files/2014/03/me.jpg" alt="me" width="275" height="206" />

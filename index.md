@@ -6,7 +6,7 @@ author: nickgill
 layout: page
 ---
 
-<table width="100%">
+<table width="100%" cellspacing="5" cellpadding="5">
   <tr>
     <td>
 <img src="files/2014/03/me.jpg" width="650pt" alt="me" />
