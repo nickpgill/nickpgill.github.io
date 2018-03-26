@@ -9,6 +9,8 @@ layout: page
 
 #### This year's meeting will be held at Gregynog Hall, Newtown on 21-23 May 2018. 
 
+#### Please note that registration will close at the end of March 2018.
+
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 1px solid black;
@@ -32,7 +34,7 @@ The workshop will run from the afternoon of Monday 21 May until lunchtime Wednes
 
 ## Registration deadline
 
-The deadline for [registration](gregynog-registration.md) is Friday 27 April 2018.
+The deadline for [registration](gregynog-registration.md) is Saturday 31 March 2018.
 
 ## Accommodation and subsistence
 
