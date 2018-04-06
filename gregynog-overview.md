@@ -7,11 +7,11 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-#### This year's meeting will be held at Gregynog Hall, Newtown, Powys on 21-23 May 2018. <img style="float: right;" src="/files/2017/12/gregynog.jpg" width="350pt" alt="Gregynog" /> 
+#### This year's meeting will be held at Gregynog Hall, Newtown, Powys on 21-23 May 2018. 
 
-#### Please note that registration will close at the end of March 2018.
+#### Registration is now closed.
 
-This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK.
+This is a long-standing annual event with a broad mathematical outlook across areas of pure and applied mathematics, statistics and OR. It is aimed at bringing together mathematicians at Welsh HEIs, while also welcoming mathematicians from other parts of the UK. <img style="float: right;" src="/files/2017/12/gregynog.jpg" width="350pt" alt="Gregynog" /> 
 
 It plays an important role in fostering mathematical discussion and collaboration between staff and postgraduates in Wales, both on research topics and on higher education policy, and offers a stimulating environment for postgraduate researchers to present their results with ample time for follow-up discussion.
 

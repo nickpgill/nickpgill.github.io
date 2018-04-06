@@ -9,7 +9,7 @@ layout: page
 
 #### This year's meeting will be held at Gregynog Hall, Newtown on 21-23 May 2018. 
 
-#### Please note that registration will close at the end of March 2018.
+#### Registration is now closed.
 
 <style>
 .tablelines table, .tablelines td, .tablelines th {
