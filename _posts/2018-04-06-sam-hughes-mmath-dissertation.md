@@ -1,5 +1,5 @@
 ---
-title: 'MMath student submits thesis on Mathieu groups'
+title: 'MMath thesis on Mathieu groups'
 date: 2018-04-06
 author: nickgill
 layout: post
