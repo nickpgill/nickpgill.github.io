@@ -11,7 +11,7 @@ categories:
 
 My MMath student, Sam Hughes, recently submitted his dissertation entitled "*Representation and character theory of the small Mathieu groups*"; a copy is <a href = "/MMath_Sam.Hughes.pdf">here</a>.
 
-The dissertation studies the ordinary (complex) character theory of *M<sub>11</sub>* and *M<sub>12<s/ub>}*; it includes the foundations of character theory, as well as details on how to construct *M<sub>11</sub>* and *M<sub>12</sub>* via the notion of "transitive extension". I think Sam has done a beautiful job and should be congratulated!
+The dissertation studies the ordinary (complex) character theory of *M<sub>11</sub>* and *M<sub>12</sub>*; it includes the foundations of character theory, as well as details on how to construct *M<sub>11</sub>* and *M<sub>12</sub>* via the notion of "transitive extension". I think Sam has done a beautiful job and should be congratulated!
 
 We are in the process of writing up a paper including some of Sam's results. In fact the paper comes from a slightly different point of view. Our main result is the following:
 
