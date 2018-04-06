@@ -1,13 +1,12 @@
 ---
-id: 459
 title: 'MMath student submits thesis on Mathieu groups'
-date: 2017-12-19T14:27:08+00:00
+date: 2018-04-06
 author: nickgill
 layout: post
-guid: http://boolesrings.org/nickgill/?p=459
-permalink: /2017/12/19/successful-grant-on-cherlins-conjecture/
+permalink: /2018/04/06/sam-hughes-mmath-dissertation/
 categories:
-  - Uncategorized
+  - teaching
+  - research
 ---
 
 My MMath student, Sam Hughes, recently submitted his dissertation entitled "*Representation and character theory of the small {M}athieu groups*"; a copy is <a href = "MMath_Sam.Hughes.pdf">here</a>.
