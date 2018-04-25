@@ -34,7 +34,7 @@ The workshop will run from the afternoon of Monday 21 May until lunchtime Wednes
 
 ## Registration deadline
 
-The deadline for [registration](gregynog-registration.md) is Saturday 31 March 2018.
+Registration is now closed.
 
 ## Accommodation and subsistence
 
