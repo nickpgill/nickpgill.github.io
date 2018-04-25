@@ -21,7 +21,7 @@ layout: page
 <p>
 <table width="100%" border="1">
   <tr>
-    <td align="center"> <a href = "gregynog2018">Overview</a> </td><td align="center">  <a href = "gregynog-registration">Registration</a> </td><td align="center">  <a href = "gregynog-practical">Practical Information</a> </td><td align="center"> <a href = "gregynog-how-to-find-us">How to find us</a> </td><td align="center"> Programme </td><td align="center"> Abstracts </td></tr></table>
+    <td align="center"> <a href = "gregynog2018">Overview</a> </td><td align="center">  <a href = "gregynog-registration">Registration</a> </td><td align="center">  <a href = "gregynog-practical">Practical Information</a> </td><td align="center"> <a href = "gregynog-how-to-find-us">How to find us</a> </td><td align="center"> <a href = "Gregynog2018timetable.pdf">Programme</a> </td><td align="center"> <a href = "Gregynog2018abstracts.pdf">Abstracts</a> </td></tr></table>
 </p>
 
 
