@@ -11,7 +11,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/find/
 ## Submitted papers
 
 
-  * [The character table of sharply 5-transitive subgroup of Alt(12)](https://arxiv.org/find/grp_math/1/au:+AND+Gill+Nick/0/1/0/all/0/1) (with Sam Hughes)
+  * [The character table of sharply 5-transitive subgroup of Alt(12)](https://arxiv.org/abs/1806.09510) (with Sam Hughes)
   * [Binary groups: Alternating and classical groups](https://arxiv.org/abs/1610.01792) (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
 
 ## Published academic papers
