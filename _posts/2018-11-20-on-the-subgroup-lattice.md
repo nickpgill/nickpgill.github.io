@@ -21,7 +21,7 @@ For instance, is it possible to find a group *G* which has a second-maximal subg
 
 A preliminary observation: If *G* is elementary abelian of order *p^2* for some prime *p*, then the trivial subgroup is second-maximal, and basic linear algebra says that it lies in precisely *1+p* maximal subgroups of *G*. Thus, *p+1* is an sml-number, for every prime *p*.
 
-With a bit of ingenuity, one can generalize this example to conclude that *q+1* is an sml-number, for every prime power *q*. Now, here's a neat partial converse, due to Palfy and Pudlak: *If H is a second-maximal subgroup of a group G, then H is contained in q+1 maximal subgroups for some prime power q*.
+With a bit of ingenuity, one can generalize this example to conclude that *q+1* is an sml-number, for every prime power *q*. What is more one can construct these examples so that the groups in question are solvable. Now, here's a neat partial converse, due to Palfy and Pudlak: *If H is a second-maximal subgroup of a solvable group G, then H is contained in q+1 maximal subgroups for some prime power q*.
 
 For solvable groups, then, we have a complete answer. What about non-solvable groups? Here, the situation is still unclear. A 1983 paper of Walter Feit established that 7 is an sml-number -- he exhibits a second maximal subgroup *H* of the alternating group *A_31* which has this behaviour (I don't have access to Feit's paper, so can't describe *H* right now; I have also seen Feit's paper cited for an example yielding 11 as an sml-number, also using *A_31*!).
 
