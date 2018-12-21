@@ -1,6 +1,6 @@
 ---
 title: 'Matrices for classical groups'
-date: 2018-12-20
+date: 2019-01-01
 author: nickgill
 layout: post
 categories:
