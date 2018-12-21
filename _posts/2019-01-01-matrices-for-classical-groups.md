@@ -31,19 +31,23 @@ This family of groups has some weird behaviour, especially when $q$ is even. For
 # Finding some elements in $\Omega_4^+(q)$.
 
 Let $(e_1,f_1)$ and $(e_2, f_2)$ be hyperbolic pairs, and let $\mathcal{B}=\{e_1, e_2, f_2, f_1\}$ maintaining order. Then, one can calculate directly that $O_4^+(q)$ contains elements of the form
+
 $$
 \begin{pmatrix}
 1 & a & b & ab \\ & 1 & & b \\ & & 1 & a \\ & & & 1
 \end{pmatrix};
 $$
+
 these elements form a subgroup $S$ of size $q^2$; indeed, for $q$ odd, they form a Sylow $p$-subgroup of $O_4^+(q)$. 
 
 When $q$ is odd, one can look at orders to see directly that $S$ is actually a subgroup of $\Omega_4^+(q)$. Indeed, the same is true when $q$ is even, but to see this it is easiest to observe that $S$ is normalized by the element
+
 $$
 g=\begin{pmatrix}
 1 & & & \\ &  & 1 & \\ & 1 & & \\ & & & 1
 \end{pmatrix}.
 $$
+
 This element clearly takes one element $U=\langle e_1, e_2\rangle \in \mathcal{U}_2$ to another element $W=\langle e_1, f_2\rangle\in \mathcal{U}_2$. What is more $U\cap W$ has codimension $1$ in both $U$ and $W$. This allows us to conclude that $g\in SO_4^+(q)\setminus \Omega_4^+(q)$ (see Kleidman and Liebeck, p. 30). Now order considerations imply that $S$ must be a subgroup of $\Omega_4^+(q)$.
 
 # Finding all elements in $\Omega_4^+(q)$.
@@ -53,10 +57,12 @@ Let $R$ be the set of elements whose transpose is in $S$. One sees immediately t
 If one sets $a$ to equal $0$, while $b$ ranges across $\mathbb{F}_q$, in both $R$ and $S$, then one immediately observes a copy of $SL_2(q)$ in $\Omega_4^+(q)$. The same is true setting $b$ to equal $0$. Since these two copies effectively "avoid interaction" one immediately obtains a copy of $SL_2(q)\circ SL_2(q)$ inside $\Omega_4^+(q)$. (The central product is due to the fact that both copies of $SL_2(q)$ share $-I$ as an element.)
 
 Now one can observe that $\Omega_4^+(q)$ also contains the element
-\[
+
+$$
 \begin{pmatrix}
 & & & 1\\ & & 1 & \\ & 1 & & \\ 1 & & & 
 \end{pmatrix}
-\]
+$$
+
 Now order considerations allow us to conclude that $\Omega_4^+(q)\cong (SL_2(q)\circ SL_2(q)):2$, and we have written down all elements of the group.
 
