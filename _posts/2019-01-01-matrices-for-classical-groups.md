@@ -68,7 +68,7 @@ Now order considerations allow us to conclude that $\Omega_4^+(q)\cong (SL_2(q)\
 
 ## $Sp_{n_2}(2^a) < \Omega_n^+(2^a)$
 
-When $q$ is even, $\Omega_n^+(q)$ has a maximal subgroup -- the stabilizer of a non-degenerate $1$-space -- isomorphic to $Sp_{n-2}(q)$. I will write down the element of this subgroup for $n=4$; the general case follows similarly.
+When $q$ is even, $\Omega_n^+(q)$ has a maximal subgroup -- the stabilizer of a non-degenerate $1$-space -- isomorphic to $Sp_{n-2}(q)$. I will write down the elements of this subgroup for $n=4$; the general case follows similarly.
 
 First, we adjust our basis from before to be $\mathcal{C}=\{z_1, x_1, x_2, y_2\}$ where $z_1=x_1+y_1$. 
 
@@ -84,6 +84,6 @@ $$
 \end{pmatrix}.
 $$
 
-Doing the "transpose trick" like before, one immediately obtains a copy of $SL_2(q)$ in this stabilizer and (using the perfectness of $SL_2(q)$ for $q>3$ if necessary), one obtains that the stabilizer of $z_1$ in $\Omega_4^+(q)$ is isomorphic to $SL_2(q)\cont Sp_{2}(q)$.
+Doing the "transpose trick" like before, one immediately obtains a copy of $SL_2(q)$ in this stabilizer and (using the perfectness of $SL_2(q)$ for $q>3$ if necessary), one obtains that the stabilizer of $z_1$ in $\Omega_4^+(q)$ is isomorphic to $SL_2(q)\cong Sp_{2}(q)$.
 
 One can do this more generally for $n>2$ -- one simply has to exhibit the root groups of $\Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$, and these all take the form given above.
