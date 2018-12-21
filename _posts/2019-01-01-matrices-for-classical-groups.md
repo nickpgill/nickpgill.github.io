@@ -86,4 +86,4 @@ $$
 
 Doing the "transpose trick" like before, one immediately obtains a copy of $SL_2(q)$ in this stabilizer and (using the perfectness of $SL_2(q)$ for $q>3$ if necessary), one obtains that the stabilizer of $z_1$ in $\Omega_4^+(q)$ is isomorphic to $SL_2(q)\cong Sp_{2}(q)$.
 
-One can do this more generally for $n>2$ -- one simply has to exhibit the root groups of $\Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$, and these all take the form given above.
+One can do this more generally for $n>2$ -- one simply has to exhibit the root groups of $Sp_{n-2}(q)$ inside the stabilizer of $z_1$ in $\Omega_4^+(q)$, and these all take the form given above.
