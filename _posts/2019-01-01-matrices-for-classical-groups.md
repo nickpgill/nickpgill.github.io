@@ -50,13 +50,13 @@ This element clearly takes one element $U=\langle e_1, e_2\rangle \in \mathcal{U
 
 Let $R$ be the set of elements whose transpose is in $S$. One sees immediately that both $R$ and $S$ lie in $\Omega_4^+(q)$ and hence so does $\langle R,S\rangle$.
 
-If one sets $a$ to equal $0$, while $b$ ranges across $\mathbb{F}_q$, in both $R$ and $S$, then one immediately observes a copy of $SL_2(q)$ in $\Omega_4^+(q)$. The same is true setting $b$ to equal $0$. Since these two copies effectively "avoid interaction" one immediately obtains a copy of $\SL_2(q)\circ\SL_2(q)$ inside $\Omega_4^+(q)$. (The central product is due to the fact that both copies of $\SL_2(q)$ share $-I$ as an element.)
+If one sets $a$ to equal $0$, while $b$ ranges across $\mathbb{F}_q$, in both $R$ and $S$, then one immediately observes a copy of $SL_2(q)$ in $\Omega_4^+(q)$. The same is true setting $b$ to equal $0$. Since these two copies effectively "avoid interaction" one immediately obtains a copy of $SL_2(q)\circSL_2(q)$ inside $\Omega_4^+(q)$. (The central product is due to the fact that both copies of $SL_2(q)$ share $-I$ as an element.)
 
 Now one can observe that $\Omega_4^+(q)4 also contains the element
-$$
+\[
 \begin{pmatrix}
 & & & 1\\ & & 1 & \\ & 1 & & \\ 1 & & & 
 \end{pmatrix}
-$$
-Now order considerations allow us to conclude that $\Omega_4^+(q)\cong (\SL_2(q)\circ \SL_2(q)):2$, and we have written down all elements of the group.
+\]
+Now order considerations allow us to conclude that $\Omega_4^+(q)\cong (SL_2(q)\circ SL_2(q)):2$, and we have written down all elements of the group.
 
