@@ -66,7 +66,7 @@ $$
 
 Now order considerations allow us to conclude that $\Omega_4^+(q)\cong (SL_2(q)\circ SL_2(q)):2$, and we have written down all elements of the group.
 
-## $Sp_{n_2}(2^a) < \Omega_n^+(2^a)$
+## $Sp_{n-2}(2^a) < \Omega_n^+(2^a)$
 
 When $q$ is even, $\Omega_n^+(q)$ has a maximal subgroup -- the stabilizer of a non-degenerate $1$-space -- isomorphic to $Sp_{n-2}(q)$. I will write down the elements of this subgroup for $n=4$; the general case follows similarly.
 
