@@ -46,7 +46,7 @@ g=\begin{pmatrix}
 $$
 This element clearly takes one element $U=\langle e_1, e_2\rangle \in \mathcal{U}_2$ to another element $W=\langle e_1, f_2\rangle\in \mathcal{U}_2$. What is more $U\cap W$ has codimension $1$ in both $U$ and $W$. This allows us to conclude that $g\in SO_4^+(q)\setminus \Omega_4^+(q)$ (see Kleidman and Liebeck, p. 30). Now order considerations imply that $S$ must be a subgroup of $\Omega_4^+(q)$.
 
-# Finding all element in $\Omega_4^+(q)$.
+# Finding all elements in $\Omega_4^+(q)$.
 
 Let $R$ be the set of elements whose transpose is in $S$. One sees immediately that both $R$ and $S$ lie in $\Omega_4^+(q)$ and hence so does $\langle R,S\rangle$.
 
