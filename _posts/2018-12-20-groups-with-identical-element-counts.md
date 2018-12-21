@@ -9,7 +9,7 @@ categories:
 
 Some time ago I heard an interesting story about a remarkable mathematical fact. I can't locate the source right now, so here is the story as I understand it.
 
-If one consults the *Atlas of Finite Groups* and looks at the maximal subgroups of the Mathieu group M_23, one will observe that it has two rather different maximal subgroups, both of which have order 40320. The first is of form PSL_3(4):2; the second has form 2^4:A_7.
+If one consults the *Atlas of Finite Groups* and looks at the maximal subgroups of the Mathieu group M_23, one will observe that it has two rather different maximal subgroups, both of which have order 40320. The first is of form PSL_3(4):2; the second has form $2^4:A_7$.
 
 It's important to note how **very different** these two groups are, despite their shared order: in particular, they have different non-abelian composition factors.
 
