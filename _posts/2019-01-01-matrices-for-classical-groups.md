@@ -25,7 +25,7 @@ This means that I have never publicly written down any of these calculations, de
 
 ## Working with $\Omega_4^+(q)$
 
-This family of groups has some weird behaviour, especially when $q$ is even. For instance, let us write $\mathcal{U}_m$ for the set of maximal totally singular subspaces in a formed space of type $O_+$ and dimension $2m$. If $q$ is even, then, provided $(m,q)\neq (2,2)$, we can define $\Omega_{2m}^+(q)$ to be the group inducing odd permutations on $\mathcal{U}_m$.... If $(m,q)=(2,2)$, however, the group so defined is **not** $\Omega_4^+(2)$, and one needs to define it in a completely different way (see Kleidman and Liebeck, p.31).
+This family of groups has some weird behaviour, especially when $q$ is even. For instance, let us write $\mathcal{U}$ for the set of maximal totally singular subspaces in a formed space of type $O+$ and dimension $2m$. If $q$ is even, then, provided $(m,q)\neq (2,2)$, we can define $\Omega_{2m}^+(q)$ to be the group inducing odd permutations on $\mathcal{U}$.... If $(m,q)=(2,2)$, however, the group so defined is **not** $\Omega_4^+(2)$, and one needs to define it in a completely different way (see Kleidman and Liebeck, p.31).
 
 # Finding some elements in $\Omega_4^+(q)$.
 
