@@ -17,20 +17,19 @@ categories:
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-A finite classical groups is best thought of as a group of linear operators on some vector space defined over a finite field. Which means, of course, that I can take a basis for this vector space and then represent the elements of my group as matrices.
+A finite classical group is best thought of as a group of linear operators on some vector space defined over a finite field. Which means, of course, that I can take a basis for this vector space and then represent the elements of my group as matrices.
 
 However, I have almost **never** seen anyone do this in the literature. "Taking a basis" is thought of as a rather crude thing to do when doing linear algebra -- one generally tries to write general arguments that do not refer to any particular basis. However, speaking for myself, when I'm trying to work out what the hell is going on inside a finite matrix group, I often end up trying to write down individual elements as matrices... And then hiding all this when it comes to writing up the paper!
-
 
 This means that I have never publicly written down any of these calculations, despite using many of them over and over again. So this page is designed to be a little repository for me to note down interesting observations about such calculations... And perhaps they'll be useful for someone else some time...
 
 ## Working with $\Omega_4^+(q)$
 
-This family of groups has some weird behaviour, especially when $q$ is even. For instance, let us write $\mathcal{U}_m$ for the set of maximal totally singular subspaces. If $q$ is even and $q>2$, then $\Omega_4^+(q)$ is defined to be the group inducing odd permutations on $\mathcal{U}_m$.... If $q=2$, however, the group so defined is **not** $\Omega_4^+(2)$, and one needs to define it in a completely different way (see Kleidman and Liebeck, p.31).
+This family of groups has some weird behaviour, especially when $q$ is even. For instance, let us write $\mathcal{U}_m$ for the set of maximal totally singular subspaces in a formed space of type $O_+$ and dimension $2m$. If $q$ is even, then, provided $(m,q)\neq (2,2)$, we can define $\Omega_{2m}^+(q)$ to be the group inducing odd permutations on $\mathcal{U}_m$.... If $(m,q)=(2,2)$, however, the group so defined is **not** $\Omega_4^+(2)$, and one needs to define it in a completely different way (see Kleidman and Liebeck, p.31).
 
 # Finding some elements in $\Omega_4^+(q)$.
 
-Let $(e_1,f_1)$ and $(e_2, f_2)$ be hyperbolic pairs, and let $\mathcal{B}=\{e_1, e_2, f_2, f_1\}$ maintaining order. Then, one can calculate directly that $O_4^+(q)$ contains elements of the form
+Let $(e_1,f_1)$ and $(e_2, f_2)$ be hyperbolic pairs, and consider the basis $\mathcal{B}=\{e_1, e_2, f_2, f_1\}$ maintaining order. Then, one can calculate directly that $O_4^+(q)$ contains elements which are written with respect to $\mathcal{B}$ in the form
 
 $$
 \begin{pmatrix}
