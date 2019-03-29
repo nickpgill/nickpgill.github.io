@@ -6,7 +6,7 @@ author: nickgill
 layout: page
 guid: http://boolesrings.org/nickgill/?page_id=74
 ---
-Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/find/grp_math/1/au:+AND+Gill+Nick/0/1/0/all/0/1).
+Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gill_n_1).
 
 ## Submitted papers
 
