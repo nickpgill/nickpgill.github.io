@@ -21,17 +21,19 @@ Pyber, Szabó and I have recently completed a paper entitled *A generalization o
 
 Our result was inspired by a result of Rodgers and Saxl which appeared in *Communications of Algebra* in 2003:
 
-**Theorem**: Suppose that $\cC_1,\dots, \cC_k$ are conjugacy classes in $SL_n(q)$ such that $\prod_{i=1}^k |\cC_i|\geq |SL_n(q)|^{12}$. Then $\prod_{i=1}^k\cC_i = \SL_n(q)$.
+**Theorem**: Suppose that $\mathcal{C}_1,\dots, \mathcal{C}_k$ are conjugacy classes in $SL_n(q)$ such that $\prod_{i=1}^k |\mathcal{C}_i|\geq |SL_n(q)|^{12}$. Then $\prod_{i=1}^k\mathcal{C}_i = SL_n(q)$.
 
 Our result has a similar flavour.
 
-**Theorem**: Let $G=G_r(q)$ be a finite simple group of Lie type of rank $r$. There exists $c=f(r)$ such that if $S_1,\dots, S_k$ are subsets of $G$ satisfying $\prod_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such that $G=(S_1)^{g_1}\cdots (S_k)^{g_k}$.
+**Theorem**: Let $G=G_r(q)$ be a finite simple group of Lie type of rank $r$. There exists $c=f(r)$ such that if $S_1,\dots, S_k$ are subsets of $G$ satisfying 
+$\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such that $G=(S_1)^{g_1}\cdots (S_k)^{g_k}$.
 
 Our theorem differs to that of Rodgers and Saxl in three important respects, two good, one not so good: First, our result pertains to all finite simple groups $G$ of Lie type. Second, our result does not just pertain to conjugacy classes, but to subsets of the group, provided we are free to take conjugates.
 
-The third difference is a weak point: our result replaces the constant ``12''  in Theorem~\ref{t: rs} with an unspecified constant that depends on the rank of the group $G$. We conjecture that we should be able to do better, and not just for finite simple groups of Lie type, but for alternating groups as well:
+The third difference is a weak point: our result replaces the constant ``12''  in their thereom with an unspecified constant that depends on the rank of the group $G$. We conjecture that we should be able to do better, and not just for finite simple groups of Lie type, but for alternating groups as well:
 
-**Conjecture**: Let $G$ be a finite simple group. There exists $c$ such that if $S_1,\dots, S_k$ are  subsets of $G$ satisfying $\prod_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such that $G=(S_1)^{g_1}\cdots (S_k)^{g_k}$.
+**Conjecture**: Let $G$ be a finite simple group. There exists $c$ such that if $S_1,\dots, S_k$ are  subsets of $G$ satisfying 
+$\prod_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such that $G=(S_1)^{g_1}\cdots (S_k)^{g_k}$.
 
 This conjecture seems hard! Our theorem has a rank-dependency because it makes use of the "Product Theorem" which was proved, independently by Pyber-Szabó and by Breuillard-Green-Tao. To prove the conjecture we would need to replace the Product Theorem in our argument with, um, something else... But what?!
 
