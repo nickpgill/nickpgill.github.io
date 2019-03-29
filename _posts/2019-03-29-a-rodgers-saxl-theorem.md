@@ -21,7 +21,7 @@ Pyber, Szabó and I have recently completed a paper entitled *A generalization o
 
 Our result was inspired by a result of Rodgers and Saxl which appeared in *Communications of Algebra* in 2003:
 
-**Theorem**: Suppose that $\mathcal{C}_1,\dots, \mathcal{C}_k$ are conjugacy classes in $SL_n(q)$ such that $\Pi_{i=1}^k |\mathcal{C}_i|\geq |SL_n(q)|^{12}$. Then $\prod_{i=1}^k\mathcal{C}_i = SL_n(q)$.
+**Theorem**: Suppose that $C_1,\dots, C_k$ are conjugacy classes in $SL_n(q)$ such that $\Pi_{i=1}^k |C_i|\geq |SL_n(q)|^{12}$. Then $\prod_{i=1}^kC_i = SL_n(q)$.
 
 Our result has a similar flavour.
 
@@ -39,7 +39,7 @@ This conjecture seems hard! Our theorem has a rank-dependency because it makes u
 
 One last remark: there is a fourth sense in which our theorem differs to that of Rodgers and Saxl -- we are interested in finite simple groups, while they consider $SL_n(q)$ which is, in general, only quasi-simple. 
 
-It turns out that the distinction here is not significant: It is not hard to show that our theorem is true if and only if the analogous statement is true for quasi-simple groups... And the same is true of the conjecture stated above. So the stated conjecture would be a generalization of both our result and that of Rodgers and Saxl, albeit we don't specify the value of $c$ as Rodgers and Saxl did.
+It turns out that the distinction here is not significant: It is not hard to show that our theorem is true if and only if the analogous statement is true for quasi-simple groups (provided you require that the sets $S_i$ do not intersect the centre of $G$)... And the same is true of the conjecture stated above. So the stated conjecture would be a generalization of both our result and that of Rodgers and Saxl, albeit we don't specify the value of $c$ as Rodgers and Saxl did.
 
 Let me finish this post by thanking my two co-authors, Laci and Bandi. I have worked with these two guys on a previous paper, and they are both brilliant and generous with their many ideas. I hope to have the privilege of working with them more in the future.
 
