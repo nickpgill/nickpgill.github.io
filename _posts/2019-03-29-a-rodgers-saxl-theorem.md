@@ -22,7 +22,8 @@ Pyber, Szabó and I have recently completed a paper entitled *A generalization o
 Our result was inspired by a result of Rodgers and Saxl which appeared in *Communications of Algebra* in 2003:
 
 **Theorem**: Suppose that $C_1,\dots, C_k$ are conjugacy classes in $SL_n(q)$ such that 
-$\Pi_{i=1}^k|C_i|\geq |SL_n(q)|^{12}$. Then $\Pi_{i=1}^kC_i = SL_n(q)$.
+$\Pi_{i=1}^k|C_i|\geq|SL_n(q)|^{12}$. Then 
+$\Pi_{i=1}^kC_i=SL_n(q)$.
 
 Our result has a similar flavour.
 
