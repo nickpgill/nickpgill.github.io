@@ -27,7 +27,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
  0. On a conjecture of Degos, _Cah. Topol. Géom. Différ. Catég._
 57, No. 3, 229-237 (2016). 
   0. (with Neil Gillespie, [Tony Nixon](http://www.math.yorku.ca/~tnixon/) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)) Generating groups using hypergraphs. _Quarterly Journal of Mathematics,_ <span class="slug-pub-date">(2016) </span><span class="slug-vol">67 </span><span class="slug-issue">(1), </span><span class="slug-pages">29-52</span>_._
- 0. Transitive projective planes and insoluble groups. _Transactions of the American Mathematical Society _368 (2016), 3017-3057_._
+ 0. Transitive projective planes and insoluble groups. _Transactions of the American Mathematical Society_ 368 (2016), 3017-3057.
  0. (with Azizollah Azad and [John Britnell](http://www2.imperial.ac.uk/~jbritnel/)) Nilpotent covers and non-nilpotent subsets of finite groups of Lie type. _Forum Mathematicum_ 27 (2015), 3745-3782.
  0. (with [Harald Helfgott](http://www.math.ens.fr/~helfgott/anglais/) and [Misha Rudnev](http://www.maths.bris.ac.uk/~maxmr/)). On growth in an abstract plane. _Proceedings of the American Mathematical Society_ 143 no. 8 (2015), 3593-3602.
  0. (with [Harald Helfgott](http://www.math.ens.fr/~helfgott/anglais/)) Growth in solvable subgroups of GL_r(Z/pZ). _Mathematische Annalen_ 360 (2014), no. 1-2, 157-208.
@@ -47,7 +47,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
  0. PSL(3,q) and line-transitive linear spaces. _Beiträge zur Algebra und Geometrie_, 48 (2007), no.2, 591–620.
  0. Polar spaces and embeddings of classical groups. _New Zealand Journal of Mathematics_, 36 (2007), 175–184.
  0. Linear spaces with significant characteristic prime. __Innovations in Incidence Geometry, 3 (2006), 109–119.
- 0. Nilpotent Singer groups. _Electronic Journal of Combinatorics_, 13 (2006), no.1, R94.</ol> 
+ 0. Nilpotent Singer groups. _Electronic Journal of Combinatorics_, 13 (2006), no.1, R94.
 {: reversed="reversed"}
 
 ## Other activity
