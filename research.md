@@ -10,21 +10,22 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Submitted papers
 
-
-  * [The character table of sharply 5-transitive subgroup of Alt(12)](https://arxiv.org/abs/1806.09510) (with Sam Hughes)
-  * [Binary groups: Alternating and classical groups](https://arxiv.org/abs/1610.01792) (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
+  * [Nilpotent covers of dihedral groups]() (with Kimeu Arphaxad Ngwava)
+  * [The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters](https://arxiv.org/abs/1806.09510) (with Sam Hughes)
 
 ## Published academic papers
-        
-  0. Conway groupoids, regular two-graphs and supersimple designs (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), to appear in _Seminaire Lotharingien de Combinatoire_.
- 0. Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1 (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), to appear in _Mathematical Proceedings of the Cambridge Philosophical Society_. 
- 0. Cherlin&#8217;s conjecture for sporadic simple groups (with Francesca Dalla Volta and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), to appear in _Pacific Journal of Mathematics_.
+
+  0. [Binary groups: Alternating and classical groups](https://arxiv.org/abs/1610.01792) (with [Pablo Spiga] to appear in the _American Journal fo Mathematics_.
  0.  Conway&#8217;s groupoid and its relatives (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), to appear in the _AMS Contemporary Mathematics Series_ volume in honour of John H. Conway. 
- 0. Abelian covers of alternating groups (with Daniel Barrantes and Jeremias Ramirez), _Archiv der Mathematik._ 107, No. 2, 135-150 (2016).
- 0. Perfect commuting graphs (with [John Britnell](http://www2.imperial.ac.uk/~jbritnel/)), _Journal of Group Theory_ 20, No. 1, 71-102.
+ 0. Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1 (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), to appear in _Mathematical Proceedings of the Cambridge Philosophical Society_. 
+  0. Conway groupoids, regular two-graphs and supersimple designs (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), _Sémin. Lothar. Comb._ 79 (2017-2018), B79b, 24 p. (2018).
+ 0. Cherlin&#8217;s conjecture for sporadic simple groups (with Francesca Dalla Volta and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Pac. J. Math._ 297, No. 1, 47-66 (2018). 
+ 0. (with Neil Gillespie and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)) Conway groupoids and completely transitive codes, _Combinatorica_ 38, No. 2, 399-442 (2018). 
+ 0. Perfect commuting graphs (with [John Britnell](http://www2.imperial.ac.uk/~jbritnel/)), _J. Group Theory_ 20, No. 1, 71-102 (2017). 
  0. Quasirandom group actions, _Forum of Mathematics (Sigma) 4, Article ID e24, 35 p. (2016).
- 0. (with Neil Gillespie and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)) Conway groupoids and completely transitive codes, to appear in _Combinatorica._
- 0. On a conjecture of Degos, to appear in _Cahiers de topologie et geometrie differentielle categoriques_.
+ 0. Abelian covers of alternating groups (with Daniel Barrantes and Jeremias Ramirez), _Archiv der Mathematik._ 107, No. 2, 135-150 (2016).
+ 0. On a conjecture of Degos, _Cah. Topol. Géom. Différ. Catég._
+57, No. 3, 229-237 (2016). 
   0. (with Neil Gillespie, [Tony Nixon](http://www.math.yorku.ca/~tnixon/) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)) Generating groups using hypergraphs. _Quarterly Journal of Mathematics,_ <span class="slug-pub-date">(2016) </span><span class="slug-vol">67 </span><span class="slug-issue">(1), </span><span class="slug-pages">29-52</span>_._
  0. Transitive projective planes and insoluble groups. _Transactions of the American Mathematical Society _368 (2016), 3017-3057_._
  0. (with Azizollah Azad and [John Britnell](http://www2.imperial.ac.uk/~jbritnel/)) Nilpotent covers and non-nilpotent subsets of finite groups of Lie type. _Forum Mathematicum_ 27 (2015), 3745-3782.
