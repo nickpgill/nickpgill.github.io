@@ -46,7 +46,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
  0. Transitive projective planes, _Advances in Geometry_, 7 (2007), no.4, 475–528.
  0. PSL(3,q) and line-transitive linear spaces, _Beiträge zur Algebra und Geometrie_, 48 (2007), no.2, 591–620.
  0. Polar spaces and embeddings of classical groups, _New Zealand Journal of Mathematics_, 36 (2007), 175–184.
- 0. Linear spaces with significant characteristic prime, __Innovations in Incidence Geometry, 3 (2006), 109–119.
+ 0. Linear spaces with significant characteristic prime, _Innovations in Incidence Geometry, 3 (2006), 109–119.
  0. Nilpotent Singer groups, _Electronic Journal of Combinatorics_, 13 (2006), no.1, R94.
 {: reversed="reversed"}
 
