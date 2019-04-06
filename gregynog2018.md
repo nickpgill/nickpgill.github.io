@@ -7,7 +7,7 @@ layout: page
 #guid: http://boolesrings.org/nickgill/?page_id=4
 ---
 
-#### This year's meeting was held at Gregynog Hall, Newtown on 21-23 May 2018. 
+#### I organised the 2018 meeting of the Welsh Mathematical Colloquium at Gregynog Hall. This is the (now static) website for that meeting. 
 
 #### Thank you to all participants!
 
