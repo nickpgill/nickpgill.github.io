@@ -15,7 +15,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Published academic papers
 
-  0. [Binary groups: Alternating and classical groups](https://arxiv.org/abs/1610.01792) (with [Pablo Spiga] to appear in the _American Journal fo Mathematics_.
+  0. Binary groups: Alternating and classical groups (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) to appear in the _American Journal fo Mathematics_.
  0.  Conway&#8217;s groupoid and its relatives (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), to appear in the _AMS Contemporary Mathematics Series_ volume in honour of John H. Conway. 
  0. Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1 (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), to appear in _Mathematical Proceedings of the Cambridge Philosophical Society_. 
   0. Conway groupoids, regular two-graphs and supersimple designs (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), _Sémin. Lothar. Comb._ 79 (2017-2018), B79b, 24 p. (2018).
