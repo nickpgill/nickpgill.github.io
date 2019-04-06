@@ -10,7 +10,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Submitted papers
 
-  * [A generalization of a theorem of Rodgers and Saxl for finite simple groups of bounded rank](https://arxiv.org/abs/1901.09255)  (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
+  * [A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank](https://arxiv.org/abs/1901.09255)  (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
   * [Nilpotent covers of dihedral groups]() (with Kimeu Arphaxad Ngwava)
   * [The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters](https://arxiv.org/abs/1806.09510) (with Sam Hughes)
 
