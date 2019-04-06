@@ -22,7 +22,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
  0. Cherlin&#8217;s conjecture for sporadic simple groups (with Francesca Dalla Volta and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Pac. J. Math._ 297, No. 1, 47-66 (2018). 
  0. Conway groupoids and completely transitive codes (with Neil Gillespie and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), _Combinatorica_ 38, No. 2, 399-442 (2018). 
  0. Perfect commuting graphs (with [John Britnell](http://www2.imperial.ac.uk/~jbritnel/)), _J. Group Theory_ 20, No. 1, 71-102 (2017). 
- 0. Quasirandom group actions, _Forum of Mathematics (Sigma) 4, Article ID e24, 35 p. (2016).
+ 0. Quasirandom group actions, _Forum of Mathematics (Sigma)_ 4, Article ID e24, 35 p. (2016).
  0. Abelian covers of alternating groups (with Daniel Barrantes and Jeremias Ramirez), _Archiv der Mathematik._ 107, No. 2, 135-150 (2016).
  0. On a conjecture of Degos, _Cah. Topol. Géom. Différ. Catég._
 57, No. 3, 229-237 (2016). 
