@@ -87,11 +87,12 @@ That's a brilliant start, but it doesn't give us any information about what $M$ 
 
 Here's what Mark had to say on the subject:
 
-*Some experiments in MAGMA suggest rather intriguingly that one can take $M = n - 1$ for $Sym(n)$. This bound is sharp for $n = 3,\dots, 10$.*
+> *Some experiments in MAGMA suggest rather intriguingly that one can take 
+> $M = n - 1$ for $Sym(n)$. This bound is sharp for $n = 3,\dots, 10$.*
 
 Is this enough evidence to make a conjecture? Hell, yeah!
 
-**Conjecture**: Suppose that $f_1,\dots, f_{n-1}$ are faithful irreducible characters of $Sym(n)$. Then $f_1*\cdots*f_{n-1}$  contains the regular character as a constituent.
+**Conjecture**: Suppose that $f_1,\dots, f_{n-1}$ are faithful irreducible characters of $Sym(n)$. Then $f_1* \cdots* f_{n-1}$  contains the regular character as a constituent.
 
 I think of this as a "Rodgers-Saxl type conjecture for characters". Now, the challenge is to turn it into a theorem....
 
