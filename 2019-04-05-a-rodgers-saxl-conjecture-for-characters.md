@@ -27,12 +27,14 @@ The story starts with a talk I heard by Martin Liebeck in which he outlined a re
 
 This theorem can be interpreted as giving an upper bound on the diameter of the "Mackay graphs" of the symmetric group. I won't pursue this point of view, but it was within this context that the LST-team were working when they proved the theorem. I'm just stating the symmetric group version of their result -- they had more general statements for finite (almost) simple groups.
 
-Notice that the LPT-bound is pretty much as good as one could hope for: if $f^{*c}$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum dim(f_i)$ where the sum on the right hand sideranges over all irreducibles of $Sym(n)$. Now the theory of Frobenius-Schur indicators tells us that, since all complex reps of $Sym(n)$ are defined over the reals, then $\sum \dim(f_i)$ is equal to 1+ the number of elements of order $2$. Writing $I_n$ for this quantity, a result of Moser and Wyman asserts that
+Notice that the LPT-bound is pretty much as good as one could hope for: if $f^{*c}$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum \dim(f_i)$ where the sum on the right hand sideranges over all irreducibles of $Sym(n)$. Now the theory of Frobenius-Schur indicators tells us that, since all complex reps of $Sym(n)$ are defined over the reals, then $\sum \dim(f_i)$ is equal to 1+ the number of elements of order $2$. Writing $I_n$ for this quantity, a result of Moser and Wyman asserts that
 
-$$ I_n \tilde \frac{1}{\sqrt{2}} n^{n/2} exp(-n/2-1/4+\sqrt{n}).$$
+$ I_n \tilde \frac{1}{\sqrt{2}} n^{n/2} \exp(-n/2-1/4+\sqrt{n}).$
 
 Now, using the fact that there exists an irreducible of dimension $n-1$, we obtain that
-$$ c>= \log (\sum \dim(f_i)/ \log(dim(f)) = \log (I_n)/ \log (\dim(n-1)$$,
+
+$$ c>= \log (\sum \dim(f_i)/ \log(\dim(f)) = \log (I_n)/ \log (\dim(n-1),$$
+
 and we conclude that $c$ must be at least linear in $n$.
 
 A well-known heuristic in finite group theory says that whenever one proves statements about (ordinary) characters, there is probably a statement about conjugacy classes lurking nearby (and vice versa). This heuristic sounds very wooly, but it can be made rigorous in very many different contexts, and in very many different ways.
@@ -66,16 +68,18 @@ then $\chi^{*c}$ contains every irreducible of $G$ as a constituent.
 The Rodgers-Saxl analogue of this would be:
 
 **Conjecture** There exists $C>0$ such that if $\chi_1,..., \chi_t$ are non-trivial characters of a finite simple group $G$ and if
-$$dim(\chi_1)*dim(\chi_2)*...*dim(\chi_t) > (\textrm{sum of dimensions of all irreducibles of }G)^C$$
+
+$$\dim(\chi_1)*\dim(\chi_2)*...*\dim(\chi_t) > (\textrm{sum of dimensions of all irreducibles of }G)^C$$
+
 then $\chi_{1}*\cdots *\chi_{t}$ contains every irreducible of $G$ as a constituent.
 
 Let's think about whether proving something like this might be possible just for the special case of $G=Sym(n)$ (OK, it's not simple, but almost).
 
-First let me note that LST prove their result by showing that if $f$ is a faithful character of $Sym(n)$, then $f * f$ or $f *f *f *f$ always contains $chi_{1,n-1}$, from which the result follows (one just calculates how many tensor products of $\chi_{1,n-1}$ one needs to obtain all irreducibles as constituents).
+First let me note that LST prove their result by showing that if $f$ is a faithful character of $Sym(n)$, then $f * f$ or $f *f *f *f$ always contains $\chi_{1,n-1}$, from which the result follows (one just calculates how many tensor products of $\chi_{1,n-1}$ one needs to obtain all irreducibles as constituents).
 
 My go-to man for symmetric group rep theory is Mark Wildon. I dropped him an email with the following question.
 
-**Question**: Does there exist a positive integer $N$ such that if $k> N$ and $f_1, ..., f_k$ are irreducible characters of Sym(n), then the tensor product of $f_1,..., f_k$ (in that order) contains an irreducible constituent isomorphic to $\chi_{n-1,1}$? 
+**Question**: Does there exist a positive integer $N$ such that if $k> N$ and $f_1, ..., f_k$ are irreducible characters of Sym(n), then the tensor product of $f_1,..., f_k$ (in that order) contains an irreducible constituent isomorphic to $\chi_{1,n-1}$? 
 
 Mark was immediately able to shed light. This question can be answered affirmatively. Indeed the following argument (which is Mark's) shows that something much stronger is true:
 
@@ -85,7 +89,7 @@ In the language of characters: if $\chi$ is the character of $V$, and $\psi$ is 
 
 **Corollary**: there exists $M$ such that any product of any $M$ faithful irreducible characters of $Sym(n)$ contains the regular character as a constituent.
 
-**Proof**: let $P$ be the number of faithful irreducible characters of $Sym(n)$. (So $P$ is 2 less than the number of partitions of $n$, unless $n = 4$.) For each faithful character, let $N(\chi)$ be the $N$ given by Alperin's result, and let $N = max_\chi N(\chi)$. Take $M = NP$. Then in any product of $M$ faithful characters, some character appears at least $N$ times, and so the product contains the regular character. QED
+**Proof**: let $P$ be the number of faithful irreducible characters of $Sym(n)$. (So $P$ is 2 less than the number of partitions of $n$, unless $n = 4$.) For each faithful character, let $N(\chi)$ be the $N$ given by Alperin's result, and let $N = \max_\chi N(\chi)$. Take $M = NP$. Then in any product of $M$ faithful characters, some character appears at least $N$ times, and so the product contains the regular character. QED
 
 That's a brilliant start, but it doesn't give us any information about what $M$ can be. A little bit of fiddling about with dimensions is enough to tell us that $M$ must be bounded below by some linear function in $n$: so, then, it it possible that one can choose $M$ to be linear in $n$?
 
