@@ -1,6 +1,6 @@
 ---
 title: 'A Rodgers-Saxl type conjecture for characters'
-date: 2019-03-29
+date: 2019-04-05
 author: nickgill
 layout: post
 categories:
