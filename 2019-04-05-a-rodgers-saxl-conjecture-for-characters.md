@@ -27,9 +27,13 @@ The story starts with a talk I heard by Martin Liebeck in which he outlined a re
 
 This theorem can be interpreted as giving an upper bound on the diameter of the "Mackay graphs" of the symmetric group. I won't pursue this point of view, but it was within this context that the LST-team were working when they proved the theorem. I'm just stating the symmetric group version of their result -- they had more general statements for finite (almost) simple groups.
 
-Notice that the LPT-bound is pretty much as good as one could hope for: if $f*c$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum dim(f_i)$ where the sum ranges over all irreducibles of $Sym(n)$. Thus, one would require
-$$ c>= \log (\sum \dim(f_i)/ \log(dim(f))$$,
-and considering that $f$ can be as small as $n-1$, one quickly obtains that $c$ must be at least linear in $n$.
+Notice that the LPT-bound is pretty much as good as one could hope for: if $f^{*c}$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum dim(f_i)$ where the sum on the right hand sideranges over all irreducibles of $Sym(n)$. Now the theory of Frobenius-Schur indicators tells us that, since all complex reps of $Sym(n)$ are defined over the reals, then $\sum \dim(f_i)$ is equal to 1+ the number of elements of order $2$. Writing $I_n$ for this quantity, a result of Moser and Wyman asserts that
+
+$$ I_n \tilde \frac{1}{\sqrt{2}} n^{n/2} exp(-n/2-1/4+\sqrt{n}).$$
+
+Now, using the fact that there exists an irreducible of dimension $n-1$, we obtain that
+$$ c>= \log (\sum \dim(f_i)/ \log(dim(f)) = \log (I_n)/ \log (\dim(n-1)$$,
+and we conclude that $c$ must be at least linear in $n$.
 
 A well-known heuristic in finite group theory says that whenever one proves statements about (ordinary) characters, there is probably a statement about conjugacy classes lurking nearby (and vice versa). This heuristic sounds very wooly, but it can be made rigorous in very many different contexts, and in very many different ways.
 
@@ -71,13 +75,13 @@ First let me note that LST prove their result by showing that if $f$ is a faithf
 
 My go-to man for symmetric group rep theory is Mark Wildon. I dropped him an email with the following question.
 
-**Question**: Does there exist a positive integer $N$ such that if $k> N$ and $f_1, ..., f_k$ are irreducible characters of Sym(n), then the tensor product of $f_1,..., f_k$ (in that order) contains an irreducible constituent isomorphic to $chi_{n-1,1}$? 
+**Question**: Does there exist a positive integer $N$ such that if $k> N$ and $f_1, ..., f_k$ are irreducible characters of Sym(n), then the tensor product of $f_1,..., f_k$ (in that order) contains an irreducible constituent isomorphic to $\chi_{n-1,1}$? 
 
 Mark was immediately able to shed light. This question can be answered affirmatively. Indeed the following argument (which is Mark's) shows that something much stronger is true:
 
-Let $k$ be a field and let $G$ be a finite group. On page 45 of Alperin, *Local Representattion Theory*, it's shown that if $V$ is a faithful $k$G-module then there exists $N$ such that the $N$-fold tensor product $V \otimes ... \otimes V$ contains a free submodule. Since $V \otimes F \cong F \oplus ... \oplus F$ (with $\dim(V)$ summands) for any free $kG$-module $F$, it follows that any product with more factors (which may be arbitrary kG-modules) also contains a free submodule.
+Let $k$ be a field and let $G$ be a finite group. On page 45 of Alperin, *Local Representation Theory*, it's shown that if $V$ is a faithful $k$G-module then there exists $N$ such that the $N$-fold tensor product $V \otimes ... \otimes V$ contains a free submodule. Since $V \otimes F \cong F \oplus ... \oplus F$ (with $\dim(V)$ summands) for any free $kG$-module $F$, it follows that any product with more factors (which may be arbitrary kG-modules) also contains a free submodule.
 
-In the language of characters: if $\chi$ is the character of $V$ then any character $\chi^N \times \psi$ contains the regular character.
+In the language of characters: if $\chi$ is the character of $V$, and $\psi$ is any other character, then any character $\chi^N \times \psi$ contains the regular character.
 
 **Corollary**: there exists $M$ such that any product of any $M$ faithful irreducible characters of $Sym(n)$ contains the regular character as a constituent.
 
