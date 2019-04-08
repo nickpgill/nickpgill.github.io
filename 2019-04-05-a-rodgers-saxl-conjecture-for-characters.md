@@ -23,11 +23,11 @@ This is a follow-up to my <a href = "https://nickpgill.github.io/a-rodgers-saxl-
  
 The story starts with a talk I heard by Martin Liebeck in which he outlined a result due to him, Shalev & Tiep:
 
-**Theorem**: Let $f$ be a faithful irreducible of $Sym(n)$. Then $f*{4n}$ (i.e.tensor product $4n$ times) contains every irreducible as a constituent.
+**Theorem**: Let $f$ be a faithful irreducible of $Sym(n)$. Then $f^{*4n}$ (i.e.tensor product $4n$ times) contains every irreducible as a constituent.
 
 This theorem can be interpreted as giving an upper bound on the diameter of the "Mackay graphs" of the symmetric group. I won't pursue this point of view, but it was within this context that the LST-team were working when they proved the theorem. I'm just stating the symmetric group version of their result -- they had more general statements for finite (almost) simple groups.
 
-Notice that the LPT-bound is pretty much as good as one could hope for: if $f*c$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum dim(f_i)$ where the sum ranges over all irreducibles of $\Sym(n)$. Thus, one would require
+Notice that the LPT-bound is pretty much as good as one could hope for: if $f*c$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum dim(f_i)$ where the sum ranges over all irreducibles of $Sym(n)$. Thus, one would require
 $$ c>= \log (\sum \dim(f_i)/ \log(dim(f))$$,
 and considering that $f$ can be as small as $n-1$, one quickly obtains that $c$ must be at least linear in $n$.
 
@@ -56,18 +56,18 @@ I don't know how to prove this theorem, but it's possible that it's not out of r
 But back to chacters. What would be the character--theoretic version of the previous two conjectures? The first has, if I recall correctly, been stated by the LST-team:
 
 **Conjecture** There exists $C>0$ such that if $\chi$ is a non-trivial character of a finite simple group $G$ and if
-$$c>C \log(\textrm{sum of dimensions of all irreducibles of }G)/ \log(\textrm{dimension of }chi),$$ 
+$$c>C \log(\textrm{sum of dimensions of all irreducibles of }G)/ \log(\textrm{dimension of }\chi),$$ 
 then $\chi^{*c}$ contains every irreducible of $G$ as a constituent.
 
 The Rodgers-Saxl analogue of this would be:
 
 **Conjecture** There exists $C>0$ such that if $\chi_1,..., \chi_t$ are non-trivial characters of a finite simple group $G$ and if
-$$dim(\chi_1)*dim(\chi_2)*...*dim(\chi_t) > (\textrm{sum of dimensions of all irreducibles of }G) ^ C$$
-then $\chi_1*\cdots*\chi_t$ contains every irreducible of $G$ as a constituent.
+$$dim(\chi_1)*dim(\chi_2)*...*dim(\chi_t) > (\textrm{sum of dimensions of all irreducibles of }G)^C$$
+then $\chi_{1}*\cdots *\chi_{t}$ contains every irreducible of $G$ as a constituent.
 
 Let's think about whether proving something like this might be possible just for the special case of $G=Sym(n)$ (OK, it's not simple, but almost).
 
-First let me note that LST prove their result by showing that if $f$ is a faithful character of $\Sym(n)$, then $f*f$ or $f*f*f*f$ always contains $chi_{1,n-1}$, from which the result follows (one just calculates how many tensor products of $\chi_{1,n-1}$ one needs to obtain all irreducibles as constituents).
+First let me note that LST prove their result by showing that if $f$ is a faithful character of $Sym(n)$, then $f * f$ or $f *f *f *f$ always contains $chi_{1,n-1}$, from which the result follows (one just calculates how many tensor products of $\chi_{1,n-1}$ one needs to obtain all irreducibles as constituents).
 
 My go-to man for symmetric group rep theory is Mark Wildon. I dropped him an email with the following question.
 
@@ -81,7 +81,7 @@ In the language of characters: if $\chi$ is the character of $V$ then any charac
 
 **Corollary**: there exists $M$ such that any product of any $M$ faithful irreducible characters of $Sym(n)$ contains the regular character as a constituent.
 
-**Proof**: let $P$ be the number of faithful irreducible characters of $Sym(n)$. (So $P = |Par(n)| - 2$ unless $n = 4$.) For each faithful character, let $N(\chi)$ be the $N$ given by Alperin's result, and let $N = max_\chi N(\chi)$. Take $M = NP$. Then in any product of $M$ faithful characters, some character appears at least $N$ times, and so the product contains the regular character. QED
+**Proof**: let $P$ be the number of faithful irreducible characters of $Sym(n)$. (So $P$ is 2 less than the number of partitions of $n$, unless $n = 4$.) For each faithful character, let $N(\chi)$ be the $N$ given by Alperin's result, and let $N = max_\chi N(\chi)$. Take $M = NP$. Then in any product of $M$ faithful characters, some character appears at least $N$ times, and so the product contains the regular character. QED
 
 That's a brilliant start, but it doesn't give us any information about what $M$ can be. A little bit of fiddling about with dimensions is enough to tell us that $M$ must be bounded below by some linear function in $n$: so, then, it it possible that one can choose $M$ to be linear in $n$?
 
