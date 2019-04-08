@@ -29,7 +29,7 @@ This theorem can be interpreted as giving an upper bound on the diameter of the 
 
 Notice that the LPT-bound is pretty much as good as one could hope for: if $f^{*c}$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum \dim(f_i)$ where the sum on the right hand sideranges over all irreducibles of $Sym(n)$. Now the theory of Frobenius-Schur indicators tells us that, since all complex reps of $Sym(n)$ are defined over the reals, then $\sum \dim(f_i)$ is equal to 1+ the number of elements of order $2$. Writing $I_n$ for this quantity, a result of Moser and Wyman asserts that
 
-$ I_n \tilde \frac{1}{\sqrt{2}} n^{n/2} \exp(-n/2-1/4+\sqrt{n}).$
+$$I_n \sim\frac{1}{\sqrt{2}} n^{n/2} \exp(-n/2-1/4+\sqrt{n}).$$
 
 Now, using the fact that there exists an irreducible of dimension $n-1$, we obtain that
 
