@@ -21,13 +21,13 @@ categories:
 This is a follow-up to my <a href = "https://nickpgill.github.io/a-rodgers-saxl-theorem">previous post on a generalization of a theorem of Rodgers and Saxl</a>.
 
  
-The story starts with a talk I heard by Martin Liebeck in which he outlined a result due to him, Shalev & Tiep:
+The story starts with a beautiful talk I heard by Martin Liebeck in which he outlined a result due to him, Shalev & Tiep:
 
 **Theorem**: Let $f$ be a faithful irreducible of $Sym(n)$. Then $f^{*4n}$ (i.e.tensor product $4n$ times) contains every irreducible as a constituent.
 
-This theorem can be interpreted as giving an upper bound on the diameter of the "Mackay graphs" of the symmetric group. I won't pursue this point of view, but it was within this context that the LST-team were working when they proved the theorem. I'm just stating the symmetric group version of their result -- they had more general statements for finite (almost) simple groups.
+This theorem can be interpreted as giving an upper bound on the diameter of the <a href = "https://en.wikipedia.org/wiki/McKay_graph">McKay graphs</a> of the symmetric group. I won't pursue this point of view, but it was within this context that the LST-team were working when they proved the theorem. I'm just stating the symmetric group version of their result -- they had more general statements for finite (almost) simple groups.
 
-Notice that the LPT-bound is pretty much as good as one could hope for: if $f^{*c}$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum \dim(f_i)$ where the sum on the right hand sideranges over all irreducibles of $Sym(n)$. Now the theory of Frobenius-Schur indicators tells us that, since all complex reps of $Sym(n)$ are defined over the reals, then $\sum \dim(f_i)$ is equal to 1+ the number of elements of order $2$. Writing $I_n$ for this quantity, a result of Moser and Wyman asserts that
+Notice that the LPT-bound is pretty much as good as one could hope for: if $f^{*c}$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum \dim(f_i)$ where the sum on the right hand sideranges over all irreducibles of $Sym(n)$. Now the theory of Frobenius-Schur indicators tells us that, since all complex reps of $Sym(n)$ are defined over the reals, then $\sum \dim(f_i)$ is equal to 1+ the number of elements of order $2$. Writing $I_n$ for this quantity, <a href = "https://projecteuclid.org/download/pdf_1/euclid.bams/1183553478">a result of Moser and Wyman</a> asserts that
 
 $$I_n \sim\frac{1}{\sqrt{2}} n^{n/2} \exp(-n/2-1/4+\sqrt{n}).$$
 
