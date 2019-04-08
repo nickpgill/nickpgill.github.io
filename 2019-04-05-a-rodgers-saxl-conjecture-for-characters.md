@@ -27,13 +27,13 @@ The story starts with a beautiful talk I heard by Martin Liebeck in which he out
 
 This theorem can be interpreted as giving an upper bound on the diameter of the <a href = "https://en.wikipedia.org/wiki/McKay_graph">McKay graphs</a> of the symmetric group. I won't pursue this point of view, but it was within this context that the LST-team were working when they proved the theorem. I'm just stating the symmetric group version of their result -- they had more general statements for finite (almost) simple groups.
 
-Notice that the LPT-bound is pretty much as good as one could hope for: if $f^{*c}$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum \dim(f_i)$ where the sum on the right hand sideranges over all irreducibles of $Sym(n)$. Now the theory of Frobenius-Schur indicators tells us that, since all complex reps of $Sym(n)$ are defined over the reals, then $\sum \dim(f_i)$ is equal to 1+ the number of elements of order $2$. Writing $I_n$ for this quantity, <a href = "https://projecteuclid.org/download/pdf_1/euclid.bams/1183553478">a result of Moser and Wyman</a> asserts that
+Notice that the LPT-bound is pretty much as good as one could hope for: if $f^{*c}$ is to contain every irreducible as a constituent (for some positive integer $c$), then one needs $(\dim(f))^c > \sum \dim(f_i)$ where the sum on the right hand side ranges over all irreducibles of $Sym(n)$. Now the theory of Frobenius-Schur indicators tells us that, since all complex reps of $Sym(n)$ are defined over the reals, then $\sum \dim(f_i)$ is equal to 1+ the number of elements of order $2$. Writing $I_n$ for this quantity, <a href = "https://projecteuclid.org/download/pdf_1/euclid.bams/1183553478">a result of Moser and Wyman</a> asserts that
 
 $$I_n \sim\frac{1}{\sqrt{2}} n^{n/2} \exp(-n/2-1/4+\sqrt{n}).$$
 
 Now, using the fact that there exists an irreducible of dimension $n-1$, we obtain that
 
-$$ c>= \log (\sum \dim(f_i)/ \log(\dim(f)) = \log (I_n)/ \log (\dim(n-1),$$
+$$ c>= \log (\sum \dim(f_i))/ \log(\dim(f) = \log (I_n+1)/ \log (\dim(n-1),$$
 
 and we conclude that $c$ must be at least linear in $n$.
 
@@ -91,7 +91,7 @@ In the language of characters: if $\chi$ is the character of $V$, and $\psi$ is 
 
 **Proof**: let $P$ be the number of faithful irreducible characters of $Sym(n)$. (So $P$ is 2 less than the number of partitions of $n$, unless $n = 4$.) For each faithful character, let $N(\chi)$ be the $N$ given by Alperin's result, and let $N = \max_\chi N(\chi)$. Take $M = NP$. Then in any product of $M$ faithful characters, some character appears at least $N$ times, and so the product contains the regular character. QED
 
-That's a brilliant start, but it doesn't give us any information about what $M$ can be. A little bit of fiddling about with dimensions is enough to tell us that $M$ must be bounded below by some linear function in $n$: so, then, it it possible that one can choose $M$ to be linear in $n$?
+That's a brilliant start, but it doesn't give us any information about what $M$ can be. The same argument as I gave at the top of this post implies that $M$ must be bounded below by some linear function in $n$: so, then, it it possible that one can choose $M$ to be linear in $n$?
 
 Here's what Mark had to say on the subject:
 
