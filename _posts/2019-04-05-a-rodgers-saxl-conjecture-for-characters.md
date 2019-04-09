@@ -42,7 +42,7 @@ A well-known heuristic in finite group theory says that whenever one proves stat
 Sure enough, there is a "conjugacy class version" of the theorem above -- it was proved by Liebeck and Shalev:
 
 **Theorem**: There exists a constant $d$ such that if $C$ is a conjugacy class of $G$, a finite non-abelian simple group and if
-$$k >= d \log(|G|)/ \log|C|,$$
+$$k >= d \log|G|/ \log|C|,$$
 then $C^k = G$.
 
 Here we are taking products of conjugacy classes instead of tensor products of characters. But, again, the result is of the same kind -- it says that by taking a product $d$ times, then you will obtain all conjugacy classes, and $d$ is as small as one could possibly ask for, up to a multiplicative constant.
