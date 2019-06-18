@@ -10,12 +10,13 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Submitted papers
 
+  * [Groups obtained from 2-(n,4,L) designs](with Jeremias Ramirez)
   * [A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank](https://arxiv.org/abs/1901.09255)  (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
-  * [Nilpotent covers of dihedral groups]() (with Kimeu Arphaxad Ngwava)
-  * [The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters](https://arxiv.org/abs/1806.09510) (with Sam Hughes)
 
 ## Published academic papers
-
+ 
+ 0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava) to appear in _Ars Combinatoria_.
+ 0. The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters (with Sam Hughes) to appear in _International Journal of Group Theory_.
   0. Binary groups: Alternating and classical groups (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) to appear in the _American Journal of Mathematics_.
  0. Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1 (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), to appear in _Mathematical Proceedings of the Cambridge Philosophical Society_. 
  0.  Conway&#8217;s groupoid and its relatives (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)),  published in _Finite Simple Groups: Thirty Years of the Atlas and Beyond_. Vol. 694 Princeton, NJ : American Mathematical Society, 2017. (Contemporary Mathematics).
