@@ -10,7 +10,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Submitted papers
 
-  * [Groups obtained from 2-(n,4,L) designs]() with Jeremias Ramirez
+  * [Groups obtained from 2-(n,4,L) designs]() (with Jeremias Ramirez)
   * [A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank](https://arxiv.org/abs/1901.09255)  (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
 
 ## Published academic papers
