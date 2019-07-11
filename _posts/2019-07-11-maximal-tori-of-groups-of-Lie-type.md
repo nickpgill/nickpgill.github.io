@@ -57,7 +57,7 @@ Specific calculations now follow. These can be confirmed using Kantor-Seress "Pr
 
 We record the size of the maximal tori for $A_2(q)$. Note that, here and below, the isogeny class does not matter -- so, in this case, these calculations are valid for ${\rm PGL}_3(q)$ and ${\rm SL}_3(q)$.
 
-<img src = "../A2.png">
+<img src = "https://en.wikipedia.org/wiki/Root_system#/media/File:Root_system_A2_with_labels.png">
 
 We use the fact that the fundamental roots of $A_2$ -- labelled $\alpha$ and $\beta$ in the diagram -- form a basis for $X\otimes\mathbb{R}$. With respect to this basis we have
 $$
