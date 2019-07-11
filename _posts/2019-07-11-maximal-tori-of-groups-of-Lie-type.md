@@ -34,7 +34,7 @@ We will need the notion of $F$-conjugacy in $W$: if $w_1, w_2\in W$, then $w_1$ 
 Let $\Phi\subset X$ be the root system of $G$ with positive system $\Phi^+$ with respect to $T$ and $B$. In what follows we write $X_\mathbb{R}:=X\otimes_{\mathbb{Z}}\mathbb{R}$.
 
 Now the first three results of [MT, Section 22.1] imply that 
- - there exists a natural number $\delta$ such that $F^\delta|\_X=r.1\_X$, where $r$ is some power of $p$;
+ - there exists a natural number $\delta$ such that $F^\delta=r.1$ in its action on $X$, where $r$ is some power of $p$;
  - there exists a permutation $\rho$ of $\Phi^+$ such that, for each $\alpha\in\Phi^+$, $F(\rho(\alpha)) = q_\alpha \alpha$ where $q_\alpha>1$ is a power of $p$;
  - the parameter $q_\alpha$ is constant on root lengths; moreover, either $q_\alpha=q$ or else $(G,p)\in\{(B_2,2), (G_2,3), (F_4,2)\}$, $\rho$ interchanges long and short roots, and $q_{long}.q_{short}=q^2$ with $q_{short}/q_{long}=p$;
  - setting $q=r^{1/\delta}$, we have that $F=q\phi$, where $q$ is the Frobenius endomorphism, and $\phi\in {\rm Aut}(X_\mathbb{R})$ is of order $\delta$ inducing $\rho^{-1}$ on $\Phi^+$;
@@ -50,7 +50,7 @@ The following principles are important:
 
 These correspondences follow from the Lang-Steinberg theorem. More precisely the first correspondence is as follows: if $gTg^{-1}$ is $F$-stable, then it corresponds to the element $w:=g^{-1}F(g)T\in N_g(T)/T=W$. We are then able to write $T_w$ for the conjugate $gTg^{-1}$. Note that $T_1$ corresponds to an $F$-stable maximal torus in an $F$-stable Borel subgroup. Now [MT, Prop. 25.3] asserts:
  - $T\_w^F\cong X/(wF-1)X$;
- - $|T\_w^F| = |\det(wF-1)| = \det\(q-(w\phi)^{-1}$ where our determinant calculations treat the functions as endomorphisms of the real vector space ${X\otimes \mathbb{R}}$.
+ - $|T\_w^F| = |\det(wF-1)| = \det(q-(w\phi)^{-1})$ where our determinant calculations treat the functions as endomorphisms of the real vector space ${X\otimes \mathbb{R}}$.
 
 Specific calculations now follow. These can be confirmed using Kantor-Seress "Primie power graphs for groups of Lie type".
 
@@ -72,7 +72,7 @@ $$\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & 0 \\ 0 & q-1\end{matrix}\end{mat
 
 - $w=Ref_\alpha$. Then $$w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right)$$ and 
 
-$$\det(q-w^{-1}=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1.$$
+$$\det(q-w^{-1})=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1.$$
 
 - $w=Rot_{\pi/3}$. Then $w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right)$ and $\det(q-w^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1$.
 
