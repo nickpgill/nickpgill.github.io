@@ -120,21 +120,21 @@ $$\det(q-w^{-1})=\det\left(\begin{matrix} q+1 & 0 \\ 0 & q+1\end{matrix}\right) 
 
 - $w=Rot_{\pi/3}$. Then $$w=\left(\begin{matrix} 1 & -3\\ 1 & -2\end{matrix}\right)$$ and 
 
-$$\det(q-w^{-1}=\det\left(\begin{matrix} q-1 & -1 \\ 3 & q+2\end{matrix}\right) = q^2+q+1.$$
+$$\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & -1 \\ 3 & q+2\end{matrix}\right) = q^2+q+1.$$
 
 - $w=Rot_{\pi/6}$. Then $$w=\left(\begin{matrix} 2 & -3\\ 1 & -1\end{matrix}\right)$$ and 
 
-$$\det(q-w^{-1}=\det\left(\begin{matrix} q-2 & 3 \\ -1 & q+1\end{matrix}\right) = q^2-q+1.$$
+$$\det(q-w^{-1})=\det\left(\begin{matrix} q-2 & 3 \\ -1 & q+1\end{matrix}\right) = q^2-q+1.$$
 
 - $w=Ref_{3\alpha+2\beta}$. Then $$w=\left(\begin{matrix} 1 & -3\\ 0 & -1\end{matrix}\right)$$ and 
 
-$$\det(q-w^{-1}=\det\left(\begin{matrix} q-1 & 3 \\ 0 & q+1\end{matrix}\right) = q^2-1.$$
+$$\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & 3 \\ 0 & q+1\end{matrix}\right) = q^2-1.$$
 
 This yields all of the maximal tori that are listed in Kantor-Seress. However note that there are two conjugacy classes of reflections in $D_{12}$ -- here they correspond to reflections in long and short roots -- and so we obtain another example:
 
 - $w=Ref_{\alpha+\beta}$. Then $$w=\left(\begin{matrix} 2 & -3\\ 1 & -2\end{matrix}\right)$$ and 
 
-$$\det(q-w^{-1}=\det\left(\begin{matrix} q-2 & 3 \\ -1 & q+2\end{matrix}\right) = q^2-1.$$
+$$\det(q-w^{-1})=\det\left(\begin{matrix} q-2 & 3 \\ -1 & q+2\end{matrix}\right) = q^2-1.$$
 
 Thus it appears that there are two conjugacy classes of maximal torus of order $q^2-1$ -- I guess one occurs as a split torus in a Levi factor ${\rm GL}_2(q)=\langle U\_\alpha, U\_{-\alpha}\rangle$, while the other occurs in ${\rm GL}_2(q)=\langle U\_\beta, U\_{-\beta}\rangle$. I reconcile this to Kantor-Seress by noting that they do not necessarily claim to list all conjugacy classes of tori, although in some places they do note that there is more than one conjugacy class of a certain order.
  
