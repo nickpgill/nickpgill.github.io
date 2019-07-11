@@ -89,6 +89,20 @@ So now we need to write down $q-(\phi w)^{-1}$. The possibilities for $w$ are as
 - $w=Ref_\alpha$. Then $w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right)$ and $\det(q-(\phi w)^{-1}=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1$.
 - $w=Rot_{\pi/3}$. Then $w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right)$ and $\det(q-(\phi w)^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1$.
 
+---
+
+## Calculations for $G_2(q)$
+
+  \begin{tikzpicture}
+    \foreach\ang in {60,120,...,360}{
+     \draw[->,blue!80!black,thick] (0,0) -- (\ang:2cm);
+    }
+    \foreach\ang in {30,90,...,330}{
+     \draw[->,blue!80!black,thick] (0,0) -- (\ang:3cm);
+    }
+    \node[anchor=south west,scale=0.6] at (2,0) {$\alpha$};
+    \node[anchor=north,scale=0.6] at (1,3) {$G_{2}$};
+  \end{tikzpicture}
 
 
 
