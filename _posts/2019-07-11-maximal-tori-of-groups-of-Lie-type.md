@@ -27,9 +27,9 @@ Now the Lang-Steinberg theorem asserts that the map $L:G\to G, \, g\mapsto F(g) 
 \[
 F(\chi(t)):= \chi(F(t)) for $\chi \in X, t\in T.
 \]
-We will need the notion of **$F$-conjugacy** in $W$: if $w_1, w_2\in W$, then $w_1$ is **$F$-conjugate** with $w_2$ if there exists $g\in W$ such that $w_1=F(g)w_2g^{-1}$.
+We will need the notion of $F$-conjugacy in $W$: if $w_1, w_2\in W$, then $w_1$ is **$F$-conjugate** with $w_2$ if there exists $g\in W$ such that $w_1=F(g)w_2g^{-1}$.
 
-Let $\Phi\subset X$ be the root system of $G$ with positive system $\Phi^+$ with respect to $T$ and $B$. In what follows we write $X_\mathbb{R}$:=X\otimes_{\mathbb{Z}}\mathbb{R}$.
+Let $\Phi\subset X$ be the root system of $G$ with positive system $\Phi^+$ with respect to $T$ and $B$. In what follows we write $X_\mathbb{R}:=X\otimes_{\mathbb{Z}}\mathbb{R}$.
 
 Now the first three results of [MT, Section 22.1] imply that 
  - there exists a natural number $\delta$ such that $F^\delta|\_X=r.1\_X$, where $r$ is some power of $p$;
