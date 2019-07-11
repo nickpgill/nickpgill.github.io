@@ -24,9 +24,11 @@ In this post I want to use the theory in those books to write down the orders of
 The general set-up is as follows: $G$ is a simple linear algebraic groups, and $F:G\to G$ is a Steinberg endomorphism, i.e. some power $F^m:G\to G$ is a Frobenius endomorphism of $G$. (Some of this theory works more generally -- for $G$ connected reductive -- and, in particular, this can be important when one studies centralizers inside a simple LAG's.... But I'm not going there just now.) Now a theorem of Steinberg asserts that $G^F$, the set of fixed-points of $F$, is a finite set [MT, Theorem 21.5] -- such a group is an example of a **finite group of Lie type**. 
 
 Now the Lang-Steinberg theorem asserts that the map $L:G\to G, \, g\mapsto F(g) g^{-1}$ is surjective [MT, Theorem 21.7]. This theorem then implies that $G$ contains an $F$-stable maximal torus $T$ inside an $F$-stable Borel subgroup $B$. Since $T$ is $F$-stable, $N_G(T)$ is also $F$-stable, and so $F$ naturally acts on the Weyl group $W=N_G(T)/T$ of $G$. Similarly, $F$ acts on the character group $X:=X(T)$ via
-\[
+
+$$
 F(\chi(t)):= \chi(F(t)) for $\chi \in X, t\in T.
-\]
+$$
+
 We will need the notion of $F$-conjugacy in $W$: if $w_1, w_2\in W$, then $w_1$ is **$F$-conjugate** with $w_2$ if there exists $g\in W$ such that $w_1=F(g)w_2g^{-1}$.
 
 Let $\Phi\subset X$ be the root system of $G$ with positive system $\Phi^+$ with respect to $T$ and $B$. In what follows we write $X_\mathbb{R}:=X\otimes_{\mathbb{Z}}\mathbb{R}$.
@@ -48,7 +50,7 @@ The following principles are important:
 
 These correspondences follow from the Lang-Steinberg theorem. More precisely the first correspondence is as follows: if $gTg^{-1}$ is $F$-stable, then it corresponds to the element $w:=g^{-1}F(g)T\in N_g(T)/T=W$. We are then able to write $T_w$ for the conjugate $gTg^{-1}$. Note that $T_1$ corresponds to an $F$-stable maximal torus in an $F$-stable Borel subgroup. Now [MT, Prop. 25.3] asserts:
  - $T\_w^F\cong X/(wF-1)X$;
- - $|T\_w^F| = |\det\_{X\otimes \mathbb{R}}(wF-1)| = \det\_{X\otimes \mathbb{R}}(q-(w\phi)^{-1}$.
+ - $|T\_w^F| = |\det(wF-1)| = \det\(q-(w\phi)^{-1}$ where our determinant calculations treat the functions as endomorphisms of the real vector space ${X\otimes \mathbb{R}}$.
 
 Specific calculations now follow. These can be confirmed using Kantor-Seress "Primie power graphs for groups of Lie type".
 
@@ -65,8 +67,13 @@ q=\left(\begin{matrix} q & 0 \\ 0 & q \end{matrix}\right).
 $$
 In this case $\phi$ is trivial, so we just need to write down $q-w^{-1}$. The possibilities are as follows:
 - $w=1$. Then $$w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right)$$ and 
+
 $$\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & 0 \\ 0 & q-1\end{matrix}\end{matrix}\right) =(q-1)^2.$$
-- $w=Ref_\alpha$. Then $w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right)$ and $\det(q-w^{-1}=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1$.
+
+- $w=Ref_\alpha$. Then $$w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right)$$ and 
+
+$$\det(q-w^{-1}=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1.$$
+
 - $w=Rot_{\pi/3}$. Then $w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right)$ and $\det(q-w^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1$.
 
 ---
