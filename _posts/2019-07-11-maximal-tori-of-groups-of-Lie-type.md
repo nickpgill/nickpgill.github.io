@@ -50,7 +50,7 @@ The following principles are important:
 
 These correspondences follow from the Lang-Steinberg theorem. More precisely the first correspondence is as follows: if $gTg^{-1}$ is $F$-stable, then it corresponds to the element $w:=g^{-1}F(g)T\in N_g(T)/T=W$. We are then able to write $T_w$ for the conjugate $gTg^{-1}$. Note that $T_1$ corresponds to an $F$-stable maximal torus in an $F$-stable Borel subgroup. Now [MT, Prop. 25.3] asserts:
  - $T\_w^F\cong X/(wF-1)X$;
- - $|T\_w^F| = |\det(wF-1)| = \det(q-(w\phi)^{-1})$ where our determinant calculations treat the functions as endomorphisms of the real vector space ${X\otimes \mathbb{R}}$.
+ - $|T\_w^F|=|\det(wF-1)|=\det(q-(w\phi)^{-1})$ where our determinant calculations treat the functions as endomorphisms of the real vector space ${X\otimes \mathbb{R}}$.
 
 Specific calculations now follow. These can be confirmed using Kantor-Seress "Primie power graphs for groups of Lie type".
 
@@ -66,15 +66,17 @@ $$
 q=\left(\begin{matrix} q & 0 \\ 0 & q \end{matrix}\right).
 $$
 In this case $\phi$ is trivial, so we just need to write down $q-w^{-1}$. The possibilities are as follows:
-- $w=1$. Then $$w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right)$$ and 
+- $w=1$. Then $$w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right)$$ and
 
-$$\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & 0 \\ 0 & q-1\end{matrix}\end{matrix}\right) =(q-1)^2.$$
+$$\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & 0 \\ 0 & q-1\end{matrix}\right) =(q-1)^2.$$
 
 - $w=Ref_\alpha$. Then $$w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right)$$ and 
 
 $$\det(q-w^{-1})=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1.$$
 
-- $w=Rot_{\pi/3}$. Then $w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right)$ and $\det(q-w^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1$.
+- $w=Rot_{\pi/3}$. Then $$w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right)$$ and 
+
+$$\det(q-w^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1.$$
 
 ---
 
@@ -85,9 +87,17 @@ We record the size of the maximal tori for ${^2A_2}(q)$. The root system is as b
 Using the same basis as before -- $\{\alpha, \beta\}$, we can write $\phi$ as $\left(\begin{matrix} 0 & 1 \\ 1 & 0 \end{matrix}\right)$. This is just taking $\phi$ acting on the Dynkin diagram. (Stupid comment: I've never cottoned on to the fact, hitherto, that $\phi$ is also an automorphism of the root system. In particular it normalizes the Weyl group which here is $W\cong D\_6$. So we get $\langle W, \phi\rangle \cong D\_{12}$. This is clearly true in general.)
 
 So now we need to write down $q-(\phi w)^{-1}$. The possibilities for $w$ are as before:
-- $w=1$. Then $w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right)$ and $\det(q-(\phi w)^{-1}=\det\left(\begin{matrix} q & 1 \\ 1 & q\end{matrix}\end{matrix}\right) = q^2-1$.
-- $w=Ref_\alpha$. Then $w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right)$ and $\det(q-(\phi w)^{-1}=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1$.
-- $w=Rot_{\pi/3}$. Then $w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right)$ and $\det(q-(\phi w)^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1$.
+- $w=1$. Then $$w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right)$$ and 
+
+$$\det(q-(\phi w)^{-1}=\det\left(\begin{matrix} q & 1 \\ 1 & q\end{matrix}\right) = q^2-1.$$
+
+- $w=Ref_\alpha$. Then $$w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right)$$ and 
+
+$$\det(q-(\phi w)^{-1}=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1.$$
+
+- $w=Rot_{\pi/3}$. Then $$w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right)$$ and 
+
+$$\det(q-(\phi w)^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1.$$
 
 ---
 
