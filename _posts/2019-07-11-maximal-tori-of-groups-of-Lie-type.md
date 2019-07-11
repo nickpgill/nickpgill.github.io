@@ -26,7 +26,7 @@ The general set-up is as follows: $G$ is a simple linear algebraic groups, and $
 Now the Lang-Steinberg theorem asserts that the map $L:G\to G, \, g\mapsto F(g) g^{-1}$ is surjective [MT, Theorem 21.7]. This theorem then implies that $G$ contains an $F$-stable maximal torus $T$ inside an $F$-stable Borel subgroup $B$. Since $T$ is $F$-stable, $N_G(T)$ is also $F$-stable, and so $F$ naturally acts on the Weyl group $W=N_G(T)/T$ of $G$. Similarly, $F$ acts on the character group $X:=X(T)$ via
 
 $$
-F(\chi(t)):= \chi(F(t)) for $\chi \in X, t\in T.
+F(\chi(t)):= \chi(F(t)) \textrm{ for } \chi \in X, t\in T.
 $$
 
 We will need the notion of $F$-conjugacy in $W$: if $w_1, w_2\in W$, then $w_1$ is **$F$-conjugate** with $w_2$ if there exists $g\in W$ such that $w_1=F(g)w_2g^{-1}$.
@@ -50,7 +50,7 @@ The following principles are important:
 
 These correspondences follow from the Lang-Steinberg theorem. More precisely the first correspondence is as follows: if $gTg^{-1}$ is $F$-stable, then it corresponds to the element $w:=g^{-1}F(g)T\in N_g(T)/T=W$. We are then able to write $T_w$ for the conjugate $gTg^{-1}$. Note that $T_1$ corresponds to an $F$-stable maximal torus in an $F$-stable Borel subgroup. Now [MT, Prop. 25.3] asserts:
  - $T\_w^F\cong X/(wF-1)X$;
- - $\|T\_w^F\|=\|\det(wF-1)\|=\det(q-(w\phi)^{-1})$ where our determinant calculations treat the functions as endomorphisms of the real vector space $X\otimes \mathbb{R}$.
+ - $\|T\_w^F\|=\|\det\_{X\otimes \mathbb{R}}(wF-1)\|=\det\_{X\otimes \mathbb{R}}(q-(w\phi)^{-1})$.
 
 Specific calculations now follow. These can be confirmed using Kantor-Seress "Prime power graphs for groups of Lie type".
 
