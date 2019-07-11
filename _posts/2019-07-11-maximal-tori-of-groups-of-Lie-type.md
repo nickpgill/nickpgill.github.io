@@ -64,7 +64,8 @@ $$
 q=\left(\begin{matrix} q & 0 \\ 0 & q \end{matrix}\right).
 $$
 In this case $\phi$ is trivial, so we just need to write down $q-w^{-1}$. The possibilities are as follows:
-- $w=1$. Then $w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right)$ and $\det(q-w^{-1}=\det\left(\begin{matrix} q-1 & 0 \\ 0 & q-1\end{matrix}\end{matrix}\right) = (q-1)^2$.
+- $w=1$. Then $w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right)$ and 
+$\det(q-w^{-1})=\det\left(\begin{matrix} q-1 & 0 \\ 0 & q-1\end{matrix}\end{matrix}\right) =(q-1)^2$.
 - $w=Ref_\alpha$. Then $w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right)$ and $\det(q-w^{-1}=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1$.
 - $w=Rot_{\pi/3}$. Then $w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right)$ and $\det(q-w^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1$.
 
