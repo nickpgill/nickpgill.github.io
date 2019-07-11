@@ -84,7 +84,7 @@ $$\det(q-w^{-1}=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = 
 
 We record the size of the maximal tori for ${^2A_2}(q)$. The root system is as before, and we have the same value for $q$, but this time time $\phi$ is non-trivial.
 
-Using the same basis as before -- $\{\alpha, \beta\}$, we can write $\phi$ as $\left(\begin{matrix} 0 & 1 \\ 1 & 0 \end{matrix}\right)$. This is just taking $\phi$ acting on the Dynkin diagram. (Stupid comment: I've never cottoned on to the fact, hitherto, that $\phi$ is also an automorphism of the root system. In particular it normalizes the Weyl group which here is $W\cong D\_6$. So we get $\langle W, \phi\rangle \cong D\_{12}$. This is clearly true in general.)
+Using the same basis as before -- $\{\alpha, \beta\}$, we can write $\phi$ as $$\left(\begin{matrix} 0 & 1 \\ 1 & 0 \end{matrix}\right)$$. This is just taking $\phi$ acting on the Dynkin diagram. (Stupid comment: I've never cottoned on to the fact, hitherto, that $\phi$ is also an automorphism of the root system. In particular it normalizes the Weyl group which here is $W\cong D\_6$. So we get $\langle W, \phi\rangle \cong D\_{12}$. This is clearly true in general.)
 
 So now we need to write down $q-(\phi w)^{-1}$. The possibilities for $w$ are as before:
 - $w=1$. Then $$w=\left(\begin{matrix} 1 & 0 \\ 0 & 1\end{matrix}\right)$$ and 
@@ -93,26 +93,18 @@ $$\det(q-(\phi w)^{-1})=\det\left(\begin{matrix} q & 1 \\ 1 & q\end{matrix}\righ
 
 - $w=Ref_\alpha$. Then $$w=\left(\begin{matrix} -1 & 1\\ 0 & 1\end{matrix}\right)$$ and 
 
-$$\det(q-(\phi w)^{-1})=\det\left(\begin{matrix} q+1 & -1 \\ 0 & q-1\end{matrix}\right) = q^2-1.$$
+$$\det(q-(\phi w)^{-1})=\det\left(\begin{matrix} q-1 & 1 \\ -1 & q\end{matrix}\right) = q^2-q+1.$$
 
-- $w=Rot_{\pi/3}$. Then $$w=\left(\begin{matrix} 0 & -1\\ 1 & -1\end{matrix}\right)$$ and 
+- $w=Ref_{\alpha+\beta}$. Then $$w=\left(\begin{matrix} 0 & -1\\ -1 & 0\end{matrix}\right)$$ and 
 
-$$\det(q-(\phi w)^{-1})=\det\left(\begin{matrix} q & 1 \\ -1 & q+1\end{matrix}\right) = q^2+q+1.$$
+$$\det(q-(\phi w)^{-1})=\det\left(\begin{matrix} q+1 & 0 \\ 0 & q+1\end{matrix}\right) = (q+1)^2.$$
+
+Note that we need to choose different elements $w$ because the $\phi$-conjugacy classes in $W$ are different to the usual conjugacy classes.
 
 ---
 
 ## Calculations for $G_2(q)$
 
-  \begin{tikzpicture}
-    \foreach\ang in {60,120,...,360}{
-     \draw[->,blue!80!black,thick] (0,0) -- (\ang:2cm);
-    }
-    \foreach\ang in {30,90,...,330}{
-     \draw[->,blue!80!black,thick] (0,0) -- (\ang:3cm);
-    }
-    \node[anchor=south west,scale=0.6] at (2,0) {$\alpha$};
-    \node[anchor=north,scale=0.6] at (1,3) {$G_{2}$};
-  \end{tikzpicture}
 
 
 
