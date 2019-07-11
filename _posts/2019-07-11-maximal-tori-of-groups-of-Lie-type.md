@@ -46,20 +46,20 @@ The following principles are important:
  - [MT, Exercise 30.5] The $G^F$-classes of subgroups of the form $T^F$ ($T$ an $F$-stable maximal torus of $G$) are in 1-1 correspondence with the two previous sets. (I'm slightly unsure of this... But it seems correct.)
 These correspondences follow from the Lang-Steinberg theorem. More precisely the first correspondence is as follows: if $gTg^{-1}$ is $F$-stable, then it corresponds to the element $w:=g^{-1}F(g)T\in N_g(T)/T=W$. We are then able to write $T_w$ for the conjugate $gTg^{-1}$. Note that $T_1$ corresponds to an $F$-stable maximal torus in an $F$-stable Borel subgroup. Now [MT, Prop. 25.3] asserts:
  - $T\_w^F\cong X/(wF-1)X$;
- - $|T\_w^F| = |\det\_{X\otimes \mathbb{R}}(wF-1)| = \det_{X\otimes \mathbb{R}}(q-(w\phi)^{-1}$.
+ - $|T\_w^F| = |\det\_{X\otimes \mathbb{R}}(wF-1)| = \det\_{X\otimes \mathbb{R}}(q-(w\phi)^{-1}$.
 
 Specific calculations now follow. These can be confirmed using Kantor-Seress "Primie power graphs for groups of Lie type".
 
 ---
 ##  Calculations for $A_2(q)$
 
-We record the size of the maximal tori for $A_2(q)$. Note that, here and below, the isogeny class does not matter -- so, in this case, these calculations are valid for $\PGL_3(q)$ and $\SL_3(q)$.
+We record the size of the maximal tori for $A_2(q)$. Note that, here and below, the isogeny class does not matter -- so, in this case, these calculations are valid for ${\rm PGL}_3(q)$ and ${\rm SL}_3(q)$.
 
 ![The $A_2$ root system](../A2.png)
 
 We use the fact that the fundamental roots of $A_2$ -- labelled $\alpha$ and $\beta$ in the diagram -- form a basis for $X\otimes\mathbb{R}$. With respect to this basis we have
 $$
-q=\begin{matrix} q & 0 \\ 0 & q \end{matrix}.
+q=\left(\begin{matrix} q & 0 \\ 0 & q \end{matrix}\right).
 $$
 In this case $\phi$ is trivial, so we just need to write down $q-w^{-1}$. The possibilities are as follows:
 - $w=1$. Then $w=\begin{pmatrix} 1 & 0 \\ 0 & 1$ and $\det(q-w^{-1}=\begin{vmatrix} q-1 & 0 \\ 0 & q-1\end{vmatrix} = (q-1)^2.
