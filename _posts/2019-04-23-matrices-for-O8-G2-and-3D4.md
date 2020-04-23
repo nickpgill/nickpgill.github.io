@@ -20,8 +20,10 @@ categories:
 
 This post is a follow-up to <a href = "https://nickpgill.github.io/matrices-for-classical-groups">my earlier post on matrices for classical groups</a>.
 
-I wanted to do an investigation of the triality automorphism of the orthogonal group ${\rm O}_8^+(q)$. I finally got around to this today, and have written up some rough notes which are <a href = "https://nickpgill.github.io/omega8.pdf">here</a>. One unexpected bonus was that I was able to write down matrices for the natural 8-dimensional representation of $G_{2}(q)$ over $\mathbb{F}_{q}$ and ${^3\!D_4}(q)$ over $\mathbb{F}_{q^3}$. 
+I wanted to do an investigation of the triality automorphism of the orthogonal group $O8^+(q)$. I finally got around to this today, and have written up some rough notes which are <a href = "https://nickpgill.github.io/omega8.pdf">here</a>. One unexpected bonus was that I was able to write down matrices for the natural 8-dimensional representation of $G2(q)$ over $\mathbb{F}{q}$ and ${^3\!D4}(q)$ over $\mathbb{F}_{q^3}$. 
 
 Both of these families of exceptional groups lie inside $O_8^+$ groups. Their structure, when written as matrices, is surprisingly similar (surprising to me!). I've not seen the matrices written down before so I was pleased that I could nut it out...
+
+(By the way, I'm having trouble with underscores rendering correctly, so please do whatever's necessary to make that middle paragraph make sense.)
 
 
