@@ -1,6 +1,6 @@
 ---
 title: 'An investigation of triality'
-date: 2019-04-23
+date: 2020-04-23
 author: nickgill
 layout: post
 categories:
