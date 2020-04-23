@@ -1,0 +1,27 @@
+---
+title: 'An investigation of triality'
+date: 2019-01-01
+author: nickgill
+layout: post
+categories:
+  - research
+---
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
+This post is a follow-up to <a href = "https://nickpgill.github.io/matrices-for-classical-groups">my earlier post on matrices for classical groups</a>.
+
+I wanted to do an investigation of the triality automorphism of the orthogonal group ${\rm }O_8^+(q)$. I finally got around to this today, and have written up some rough notes which are <a href = "https://nickpgill.github.io/omega8.pdf">here</a>. One unexpected bonus was that I was able to write down matrices for the natural 8-dimensional representation of $G_2(q)$ over $\mathbb{F}_q$ and ${^3\!D_4}(q)$ over $\mathbb{F}_{q^3}$. 
+
+Both of these families of exceptional groups lie inside $O_8^+$ groups. Their structure, when written as matrices, is surprisingly similar (surprising to me!). I've not seen the matrices written down before so I was pleased that I could nut it out...
+
+
