@@ -22,5 +22,6 @@ Addendum: I've read a bunch of books on the subject of racism and thought I'd re
  * *Roots* by Alex Haley
  * Any of James Baldwin's books
  * Any of Toni Morrison's books, especially *Beloved*
+ * For am Australian angle, Sally Morgan's *My Place*
  * More controversially, perhaps: *To Kill a Mocking Bird* and the follow-up *Go Set a Watchman* by Harper Lee; the latter book is not as famous to TKAMB, but I found it very insightful as to the mindset of people in the deep South of America. This mindset isn't always what I want to hear, but if we are to change society, we have to start from where we are not from where we would like to be.
-
+ * If you don't have the time just now to read a whole novel, then the great Gil Scott-Heron was able to get his point across <a href = "https://www.youtube.com/watch?v=goh2x_G0ct4">in just over 2 minutes</a>.
