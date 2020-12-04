@@ -7,13 +7,14 @@ layout: page
 guid: http://boolesrings.org/nickgill/?page_id=95
 ---
 ## Lecture courses
-  
-  * 2018 -- [MS0T01: Foundations of mathematics](https://icis.southwales.ac.uk/studentmodules/12630/studentmodulespecifications): USW.
+
+  * 2018 -- 2020 [MS03S04: Codes and information](https://icis.southwales.ac.uk/studentmodules/13580/studentmodulespecifications): USW.
+  * 2018 -- 2020 [MS0T01: Foundations of mathematics](https://icis.southwales.ac.uk/studentmodules/12630/studentmodulespecifications): USW.
+  * 2016 -- 20 &#8211; [MS4S02: Knot Theory](https://icis.southwales.ac.uk/studentmodules/12336/studentmodulespecifications): USW.
+  * 2016 -- 20  &#8211; [MS1S424: Real analysis](https://icis.southwales.ac.uk/studentmodules/10232/studentmodulespecifications): USW.
+  * 2015 -- 20  &#8211; [MS2S01: Abstract and linear algebra](https://icis.southwales.ac.uk/studentmodules/8362/studentmodulespecifications): USW.
   * 2018 &#8211; [MS1S01: Algebra](https://icis.southwales.ac.uk/studentmodules/14061/studentmodulespecifications): USW. 
-  * 2016 -- 18 &#8211; [MS4S02: Knot Theory](https://icis.southwales.ac.uk/studentmodules/12336/studentmodulespecifications): USW.
-  * 2016 -- 18  &#8211; [MS1S424: Real analysis](https://icis.southwales.ac.uk/studentmodules/10232/studentmodulespecifications): USW.
   * 2015 -- 18 &#8211; [AM0S01: Foundations of mathematics](https://icis.southwales.ac.uk/studentmodules/8268/studentmodulespecifications): USW.
-  * 2015 -- 18  &#8211; [MS2S01: Abstract and linear algebra](https://icis.southwales.ac.uk/studentmodules/8362/studentmodulespecifications): USW.
   * 2015 -- 17 &#8211; [AM2H30: Further mathematics for engineers](https://icis.southwales.ac.uk/studentmodules/101/studentmodulespecifications): USW.
   * 2016 (summer) &#8211; [Crecimiento en grupos y otras estructuras](/2016/07/19/crecimiento-en-grupos-y-otras-estructuras/): Universidad de Costa Rica, Universidad Nacional Autònoma de Nicaragua &#8211; Leon.
   * 2016 (summer) &#8211; [Galois Theory](http://www.rnta.eu/nap/): 2 week module for an M.Phil. course at Tribhuvan University, Nepal.
