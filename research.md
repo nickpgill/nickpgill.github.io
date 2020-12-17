@@ -10,15 +10,18 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Submitted papers
 
-  * [Groups obtained from 2-(n,4,L) designs]() (with Jeremias Ramirez)
+  * [Large minimal invariable generating sets in the finite symmetric groups](https://arxiv.org/abs/2012.08815) (with Daniele Garzoni)
+  * [On the number of conjugacy classes of a primitive permutation group with nonabelian socle](https://arxiv.org/abs/2012.05547) (with Daniele Garzoni)
+  * [Nilpotent covers of symmetric groups](https://arxiv.org/abs/2005.13869) (with Kimeu Arphaxad Ngwava and Ian Short)
+  * [Groups obtained from 2-(n,4,L) designs](https://arxiv.org/abs/1906.07581) (with Jeremias Ramirez)
   * [A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank](https://arxiv.org/abs/1901.09255)  (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
 
 ## Published academic papers
  
  0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava) to appear in _Ars Combinatoria_.
  0. The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters (with Sam Hughes) to appear in _International Journal of Group Theory_.
-  0. Binary groups: Alternating and classical groups (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) to appear in the _American Journal of Mathematics_.
- 0. Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1 (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), to appear in _Mathematical Proceedings of the Cambridge Philosophical Society_. 
+  0. Binary groups: Alternating and classical groups (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Amer. J. Math._ 142, No. 1, 1-43 (2020). 
+ 0. Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1 (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Math. Proc. Camb. Philos. Soc._ 167, No. 3, 417-435 (2019). 
  0.  Conway&#8217;s groupoid and its relatives (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)),  published in _Finite Simple Groups: Thirty Years of the Atlas and Beyond_. Vol. 694 Princeton, NJ : American Mathematical Society, 2017. (Contemporary Mathematics).
   0. Conway groupoids, regular two-graphs and supersimple designs (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), _Sémin. Lothar. Comb._ 79 (2017-2018), B79b, 24 p. (2018).
  0. Cherlin&#8217;s conjecture for sporadic simple groups (with Francesca Dalla Volta and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Pac. J. Math._ 297, No. 1, 47-66 (2018). 
