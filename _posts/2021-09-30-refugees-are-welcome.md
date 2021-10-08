@@ -1,0 +1,28 @@
+---
+title: 'Refugees are welcome!'
+date: 2021-09-30
+author: nickgill
+layout: post
+categories:
+---
+
+This post is about an interview I didn't listen to and a book I didn't read. Well, sort of. Really it's about me wanting to say loud and clear that I want my country to do the right thing and welcome asylum seekers into our country to make their new home.
+
+So, to the interview: it was the TODAY programme last week some time. The host was welcoming Alexander Downer to the programme to talk about Australia's policy on migrants and refugees. I know that name, Alexander Downer, well: he was a minister in the Howard government when I was growing up in Australia in the late 90's. It's not a happy memory -- I turned the radio off.
+
+I didn't need to hear Alexander Downer explaining his involvement in the immigration debate because I remember it well. The Howard government, Downer included, used immigration as an election tactic: they whipped up fear about people arriving on boats and they demonstrated their tough-guy credentials by refusing to let people land. This led, ultimately, to subsequent Australian Governments setting up detention centres (read: concentration camps) on nearby islands, most notably, most infamously, on Manus Island and on Nauru.
+
+Politically this policy was brilliant. The Howard government romped to election victory after election victory. Howard (and Downer) were at the helm of government in Australia for a decade and the country became a different place because of it -- being "tough on migrants" has become the norm across the Australian political spectrum. No wonder this policy is being looked at admiringly by our current Tory masters.
+
+Ethically, though, this policy was appalling. In human terms it was devastating. People who had hoped to seek asylum in the richest country in the region instead spent years in appalling conditions in detention. Self-harm and suicide occurred in these centres at <a href = "https://www.theguardian.com/australia-news/2017/may/18/self-harm-suicide-and-assaults-brutality-on-manus-revealed">incredible levels</a>, sexual abuse <a href = "https://www.theguardian.com/australia-news/2016/aug/10/the-nauru-files-2000-leaked-reports-reveal-scale-of-abuse-of-children-in-australian-offshore-detention">likewise</a>. Perhaps most appalling of all, many of the people suffering these brutalities were <a href = "https://www.bbc.co.uk/news/world-asia-45327058">children</a>. The policy continues despite <a href = "https://www.hrw.org/news/2021/07/16/australia-8-years-abusive-offshore-asylum-processing">fierce criticism</a>.
+
+THIS is the future that Priti Patel evisions for the UK. It is a future where the UK ducks its obligations under international law; it is a future where innocent people who need our help are, instead, subjected to detention and abuse. It is a future that, in some ways, <a href = "https://www.politics.co.uk/reference/immigration-removal-detention-centres/">has already arrived</a>. It is not the future that I want for my country.
+
+I am writing this because it is easy to listen to radio interviews with (apparently) reasonable people and to be taken in by their sober tone, their claims of "the reality of the world today", their talk of "difficult decisions". It seems important to me to state very clearly that "I disagree". In fact these decisions are not so difficult at all -- we are a wealthy country and we have more than enough resources to help the people who need it. The only decision we need to make is to commit to honouring our obligations under international law and to providing the help and assistance that people need to get themselves on their feet. After this, we can feel certain that the contribution they make to our country will be a benefit to us all -- not that this is the reason for welcoming them in their hour of need, it is just an added bonus.
+
+Let me emphasise one point: I mentioned international law just now and it pertains directly here because Australia has been criticised by the UNHCR on a number of occasions for violating their legal obligations in international law. Australia's response has been to <a href = "https://www.unhcr.org/en-au/5ef99e0a4.pdf">repeatedly double-down</a>. It is despicable that such a law-breaking regime should be considered a valid model for our own government to emulate -- despicable, but hardly surprising given the people in charge in the UK right now. It is perhaps more of an aberration, though, that the BBC considers this a legitimate question to debate, to the point that they would invite an Australian politician to extol the virtues of law-breaking on the BBC's flagship political programme. I would argue that the only platform Downer should be given to discuss Australian immigration policy is in the dock at The Hague.
+
+And so to the book I haven't read: It is called "No friend but the mountains" and was written by Behrouz Boochani. Boochani was illegally detained on Manus Island for a number of years; the book was written during this time on his mobile phone, using his thumb, text by text, and sent out via Whatsapp. The book describes this ordeal. It is on my desk as I write; I expect it to be a difficult read.
+
+One line from the foreword has struck me: the writer Richard Flanagan discusses the politics of immigration in Australia and speaks of "policies in which both our major parties have publicly competed in cruelty". This line sums it up beautifully (and awfully ) -- this has indeed been the story in Australia for the last 25 years. We need to make damn sure that it isn't the story in the UK for the next 25.
+
