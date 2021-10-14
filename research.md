@@ -10,16 +10,19 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Submitted papers
 
-  * [Large minimal invariable generating sets in the finite symmetric groups](https://arxiv.org/abs/2012.08815) (with Daniele Garzoni)
+  * [Cherlin's conjecture on finite primitive binary permutation groups](https://arxiv.org/abs/2106.05154) (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
+  * [Statistics for S_n acting on k-sets](https://arxiv.org/abs/2101.08644) (with Bianca Loda)
   * [On the number of conjugacy classes of a primitive permutation group with nonabelian socle](https://arxiv.org/abs/2012.05547) (with Daniele Garzoni)
   * [Nilpotent covers of symmetric groups](https://arxiv.org/abs/2005.13869) (with Kimeu Arphaxad Ngwava and Ian Short)
   * [Groups obtained from 2-(n,4,L) designs](https://arxiv.org/abs/1906.07581) (with Jeremias Ramirez)
-  * [A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank](https://arxiv.org/abs/1901.09255)  (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
 
 ## Published academic papers
  
+ 0. Large minimal invariable generating sets in the finite symmetric groups (with Daniele Garzoni) to appear in _Israel J. Math_.
  0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava) to appear in _Ars Combinatoria_.
- 0. The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters (with Sam Hughes) to appear in _International Journal of Group Theory_.
+ 0. On the height and relational complexity of a finite permutation group, to appear in _Nagoya Math. J._ 
+ 0. A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo), _Bull. LMS_ 52, No. 3, 464-471 (2020).
+ 0. The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters (with [Sam Hughes](https://samhughesmaths.github.io/)), _Int. J. Group Theory_ 10, No. 1, 11-30 (2021).
   0. Binary groups: Alternating and classical groups (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Amer. J. Math._ 142, No. 1, 1-43 (2020). 
  0. Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1 (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Math. Proc. Camb. Philos. Soc._ 167, No. 3, 417-435 (2019). 
  0.  Conway&#8217;s groupoid and its relatives (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)),  published in _Finite Simple Groups: Thirty Years of the Atlas and Beyond_. Vol. 694 Princeton, NJ : American Mathematical Society, 2017. (Contemporary Mathematics).
@@ -64,9 +67,6 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
             
 I am a reviewer for [Zentralblatt](http://zbmath.org/?q=(rv:+Nick+Gill)), [MathSciNet](http://www.ams.org/mathscinet/) and the [Newsletter of the London Maths. Soc](http://www.lms.ac.uk/newsletter/10.html#2). I have refereed articles for many different journals, but [I won&#8217;t referee for Elsevier](2014/03/11/letter-to-the-journal-of-algebra/).
             
-I am an associate member of, and the webmaster for, the European Mathematical Society&#8217;s [Commission for Developing Countries](http://euro-math-soc.eu/EMS-CDC/index.php).
+I am an associate member of, and the webmaster for, the European Mathematical Society&#8217;s [Commission for Developing Countries](http://ems-cdc.org).
             
-And finally, two talks that I&#8217;ve given at Banff:
-            
- * [The width of a finite simple group](http://www.birs.ca/events/2012/5-day-workshops/12w5034/videos/watch/201209050941-Gill.html) at _Groups and Geometries 2011_.
- * [Constructing groupoids from designs](http://www.birs.ca/events/2015/5-day-workshops/15w5017/videos/watch/201505071749-Gill.html) at _Groups and Geometries 2015_.
+

@@ -8,6 +8,8 @@ guid: http://boolesrings.org/nickgill/?page_id=95
 ---
 ## Lecture courses
 
+  * 2021 -- [MT365: Graphs, networks and design](https://www.open.ac.uk/courses/modules/mt365): Open University
+  * 2021 -- [M303: Further pure maths](https://www.open.ac.uk/courses/modules/m303): Open University
   * 2018 -- 21 [MS03S04: Codes and information](https://icis.southwales.ac.uk/studentmodules/13580/studentmodulespecifications): USW.
   * 2018 -- 21 [MS0T01: Foundations of mathematics](https://icis.southwales.ac.uk/studentmodules/12630/studentmodulespecifications): USW.
   * 2016 -- 21 [MS4S02: Knot Theory](https://icis.southwales.ac.uk/studentmodules/12336/studentmodulespecifications): USW.
