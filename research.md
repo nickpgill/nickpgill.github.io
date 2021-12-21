@@ -11,13 +11,13 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 ## Submitted papers
 
   * [Cherlin's conjecture on finite primitive binary permutation groups](https://arxiv.org/abs/2106.05154) (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
-  * [Statistics for S_n acting on k-sets](https://arxiv.org/abs/2101.08644) (with Bianca Loda)
-  * [On the number of conjugacy classes of a primitive permutation group with nonabelian socle](https://arxiv.org/abs/2012.05547) (with Daniele Garzoni)
-  * [Nilpotent covers of symmetric groups](https://arxiv.org/abs/2005.13869) (with Kimeu Arphaxad Ngwava and Ian Short)
+   * [Nilpotent covers of symmetric groups](https://arxiv.org/abs/2005.13869) (with Kimeu Arphaxad Ngwava and Ian Short)
   * [Groups obtained from 2-(n,4,L) designs](https://arxiv.org/abs/1906.07581) (with Jeremias Ramirez)
 
 ## Published academic papers
  
+ 0. Statistics for S_n acting on k-sets](https://arxiv.org/abs/2101.08644) (with Bianca Loda) to appear in _J. Algebra_.
+ 0. On the number of conjugacy classes of a primitive permutation group (with Daniele Garzoni) to appear in _Proc. R. Soc. Edinb., Sect. A, Math._
  0. Large minimal invariable generating sets in the finite symmetric groups (with Daniele Garzoni) to appear in _Israel J. Math_.
  0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava) to appear in _Ars Combinatoria_.
  0. On the height and relational complexity of a finite permutation group, to appear in _Nagoya Math. J._ 
