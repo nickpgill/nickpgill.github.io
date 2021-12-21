@@ -20,7 +20,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
  0. On the number of conjugacy classes of a primitive permutation group (with Daniele Garzoni) to appear in _Proc. R. Soc. Edinb., Sect. A, Math._
  0. Large minimal invariable generating sets in the finite symmetric groups (with Daniele Garzoni) to appear in _Israel J. Math_.
  0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava) to appear in _Ars Combinatoria_.
- 0. On the height and relational complexity of a finite permutation group, to appear in _Nagoya Math. J._ 
+ 0. On the height and relational complexity of a finite permutation group (with Bianca Loda and Pablo Spiga), to appear in _Nagoya Math. J._ 
  0. A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo), _Bull. LMS_ 52, No. 3, 464-471 (2020).
  0. The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters (with [Sam Hughes](https://samhughesmaths.github.io/)), _Int. J. Group Theory_ 10, No. 1, 11-30 (2021).
   0. Binary groups: Alternating and classical groups (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Amer. J. Math._ 142, No. 1, 1-43 (2020). 
