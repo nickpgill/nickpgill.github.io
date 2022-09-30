@@ -10,7 +10,7 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Submitted papers
 
-  * [A generalization of Szep's conjecture for almost simple groups](https://arxiv.org/abs/2208.08763) with [Michael Guidici](https://research-repository.uwa.edu.au/en/persons/michael-giudici) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
+  * [A generalization of Szep's conjecture for almost simple groups](https://arxiv.org/abs/2208.08763) (with [Michael Guidici](https://research-repository.uwa.edu.au/en/persons/michael-giudici) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
   * [Groups obtained from 2-(n,4,L) designs](https://arxiv.org/abs/1906.07581) (with Jeremias Ramirez)
 
 ## Published academic papers
