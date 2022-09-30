@@ -10,17 +10,18 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Submitted papers
 
-  * [Cherlin's conjecture on finite primitive binary permutation groups](https://arxiv.org/abs/2106.05154) (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
-   * [Nilpotent covers of symmetric groups](https://arxiv.org/abs/2005.13869) (with Kimeu Arphaxad Ngwava and Ian Short)
+  * [A generalization of Szep's conjecture for almost simple groups](https://arxiv.org/abs/2208.08763) with [Michael Guidici](https://research-repository.uwa.edu.au/en/persons/michael-giudici) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
   * [Groups obtained from 2-(n,4,L) designs](https://arxiv.org/abs/1906.07581) (with Jeremias Ramirez)
 
 ## Published academic papers
  
- 0. Statistics for S_n acting on k-sets (with Bianca Loda) to appear in _J. Algebra_.
- 0. On the number of conjugacy classes of a primitive permutation group (with Daniele Garzoni) to appear in _Proc. R. Soc. Edinb., Sect. A, Math._
+ 0. Nilpotent covers of symmetric groups (with Kimeu Arphaxad Ngwava and Ian Short) to appear in _Bulletin of the Belgian Mathematical Society -- Simon Stevin_.
  0. Large minimal invariable generating sets in the finite symmetric groups (with Daniele Garzoni) to appear in _Israel J. Math_.
  0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava) to appear in _Ars Combinatoria_.
- 0. On the height and relational complexity of a finite permutation group (with Bianca Loda and Pablo Spiga), to appear in _Nagoya Math. J._ 
+ 0. On the number of conjugacy classes of a primitive permutation group (with Daniele Garzoni) [Appeared online](https://doi.org/10.1017/prm.2021.74) in _Proc. R. Soc. Edinb., Sect. A, Math._
+ 0. Cherlin's conjecture on finite primitive binary permutation groups (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), Lecture Notes in Mathematics, Vol 2302, Springer, 213p. 2022.
+ 0. Statistics for S_n acting on k-sets (with Bianca Loda) _J. Algebra_ 607, Part A, 286-299 (2022).
+ 0. On the height and relational complexity of a finite permutation group (with Bianca Loda and Pablo Spiga), _Nagoya Math. J._ 246, 372-411 (2022).
  0. The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters (with [Sam Hughes](https://samhughesmaths.github.io/)), _Int. J. Group Theory_ 10, No. 1, 11-30 (2021).
  0. A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo), _Bull. LMS_ 52, No. 3, 464-471 (2020).
   0. Binary groups: Alternating and classical groups (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Amer. J. Math._ 142, No. 1, 1-43 (2020). 
@@ -67,6 +68,6 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
             
 I am a reviewer for [Zentralblatt](http://zbmath.org/?q=(rv:+Nick+Gill)), [MathSciNet](http://www.ams.org/mathscinet/) and the [Newsletter of the London Maths. Soc](http://www.lms.ac.uk/newsletter/10.html#2). I have refereed articles for many different journals, but [I won&#8217;t referee for Elsevier](2014/03/11/letter-to-the-journal-of-algebra/).
             
-I am an associate member of, and the webmaster for, the European Mathematical Society&#8217;s [Commission for Developing Countries](http://ems-cdc.org).
+I am a member of the European Mathematical Society&#8217;s [Committee for Developing Countries](http://ems-cdc.org).
             
 

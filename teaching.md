@@ -30,14 +30,10 @@ guid: http://boolesrings.org/nickgill/?page_id=95
 
 ## Seminars
 
-Below are slides and lecture notes for various seminars and short courses that I&#8217;ve given. I generally prefer to give \`chalk-talks&#8217; so only a small number of my seminars are represented.
+Some recordings of talks I've given:
 
-  * [On Cherlin&#8217;s conjecture](files/2016/07/cherlin_herst.pdf), Talk at Herstmonceux conference on Algebraic Combinatorics and Group Actions, July 2016 (some slides are a little warped by the &#8220;handout&#8221; command).
-  * [On Cherlin&#8217;s conjecture](files/2016/04/cherlin.pdf), Invited talk at Open University Winter Combinatorics Meeting, January 2016 (more general than the previous).
-  * [Conway groupoids](files/2016/04/groupoids.pdf), Seminar Slides, 2015, Conference on Groups and Geometries, Banff, Canada. [Video](https://www.birs.ca/events/2015/5-day-workshops/15w5017/videos/watch/201505071749-Gill.html) also available.
-  * [Regular maps and finite simple groups](files/2014/03/regularmaps.pdf), Invited talk at international conference [GEMS 2013](http://univac.savbb.sk:8080/gems13/), Slovakia.
-  * <a>Regular maps</a>, Contributed talk to conference on Geometric and Topological Graph Theory 2013, Bristol.
-  * Finite simple groups [1](files/2014/03/fg1.pdf) and [2](files/2014/03/fg2.pdf): Seminar slides, 2012, two colloquia on the classification of finite simple groups, Open University.
-  * [The width of a finite simple group](files/2014/03/Banfftalk.pdf): Seminar slides, 2012, Conference on Groups and Geometries, Banff, Canada. [Video](http://www.birs.ca/events/2012/5-day-workshops/12w5034/videos/watch/201209050941-Gill.mp4) also available.
-  * [Approximate groups, growth and width](files/2014/03/modeltalk.pdf): Seminar slides, 2012, Model Theory Workshop, Royal Holloway.
-  * [Is Babai afraid of spiders?: Seminar slides, 2011, British Combinatorial Conference, Exeter.](files/2014/03/spidertalk2.pdf)
+  * [On a result of Rodgers and Saxl](https://www.newton.ac.uk/seminar/36580/), July 2022 talk at the University of Cambridge as part of a day of tribute to my late PhD supervisor, Jan Saxl.
+  * [Simple binary groups](https://www.newton.ac.uk/seminar/35683/), June 2022 talk at Isaac Newton Institute discussing recent work with Pierre Guillot, including a nice conjecture!
+  * [On the relational complexity of a finite group](https://www.birs.ca/events/2019/5-day-workshops/19w5046/videos/watch/201908261531-Gill.html), 2019 talk at Conference on Groups and Geometries, Banff, Canada.
+  * [Conway groupoids](https://www.birs.ca/events/2015/5-day-workshops/15w5017/videos/watch/201505071749-Gill.html), 2015 talk at Conference on Groups and Geometries, Banff, Canada.
+  * [The width of a finite simple group](http://www.birs.ca/events/2012/5-day-workshops/12w5034/videos/watch/201209050941-Gill.mp4), 2012 talk at Conference on Groups and Geometries, Banff, Canada.
