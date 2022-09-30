@@ -15,13 +15,13 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Published academic papers
  
- 0. Nilpotent covers of symmetric groups (with Kimeu Arphaxad Ngwava and Ian Short) to appear in _Bulletin of the Belgian Mathematical Society -- Simon Stevin_.
- 0. Large minimal invariable generating sets in the finite symmetric groups (with Daniele Garzoni) to appear in _Israel J. Math_.
+ 0. Nilpotent covers of symmetric groups (with Kimeu Arphaxad Ngwava and [Ian Short](http://users.mct.open.ac.uk/is3649/index.php)) to appear in _Bulletin of the Belgian Mathematical Society -- Simon Stevin_.
+ 0. Large minimal invariable generating sets in the finite symmetric groups (with [Daniele Garzoni](https://www.danielemath.com/)) to appear in _Israel J. Math_.
  0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava) to appear in _Ars Combinatoria_.
- 0. On the number of conjugacy classes of a primitive permutation group (with Daniele Garzoni) [Appeared online](https://doi.org/10.1017/prm.2021.74) in _Proc. R. Soc. Edinb., Sect. A, Math._
+ 0. On the number of conjugacy classes of a primitive permutation group (with [Daniele Garzoni](https://www.danielemath.com/)) [Appeared online](https://doi.org/10.1017/prm.2021.74) in _Proc. R. Soc. Edinb., Sect. A, Math._
  0. Cherlin's conjecture on finite primitive binary permutation groups (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), Lecture Notes in Mathematics, Vol 2302, Springer, 213p. 2022.
  0. Statistics for S_n acting on k-sets (with Bianca Loda) _J. Algebra_ 607, Part A, 286-299 (2022).
- 0. On the height and relational complexity of a finite permutation group (with Bianca Loda and Pablo Spiga), _Nagoya Math. J._ 246, 372-411 (2022).
+ 0. On the height and relational complexity of a finite permutation group (with Bianca Loda and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Nagoya Math. J._ 246, 372-411 (2022).
  0. The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters (with [Sam Hughes](https://samhughesmaths.github.io/)), _Int. J. Group Theory_ 10, No. 1, 11-30 (2021).
  0. A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo), _Bull. LMS_ 52, No. 3, 464-471 (2020).
   0. Binary groups: Alternating and classical groups (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Amer. J. Math._ 142, No. 1, 1-43 (2020). 
