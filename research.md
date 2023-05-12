@@ -10,12 +10,13 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
 
 ## Submitted papers
 
-  * [A generalization of Szep's conjecture for almost simple groups](https://arxiv.org/abs/2208.08763) (with [Michael Guidici](https://research-repository.uwa.edu.au/en/persons/michael-giudici) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
-  * [Groups obtained from 2-(n,4,L) designs](https://arxiv.org/abs/1906.07581) (with Jeremias Ramirez)
+  * [The binary actions of alternating groups and other simple groups](https://arxiv.org/abs/2303.06003) (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/))
 
 ## Published academic papers
  
- 0. Nilpotent covers of symmetric groups (with Kimeu Arphaxad Ngwava and [Ian Short](http://users.mct.open.ac.uk/is3649/index.php)) to appear in _Bulletin of the Belgian Mathematical Society -- Simon Stevin_.
+ 0. Irredundant bases for finite groups of Lie type (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/)), to appear in _Pacific J. Math._
+ 0. A generalization of Szep's conjecture for almost simple groups (with [Michael Guidici](https://research-repository.uwa.edu.au/en/persons/michael-giudici) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) to appear in _Vietnam J. Math._
+ 0.  Nilpotent covers of symmetric groups (with Kimeu Arphaxad Ngwava and [Ian Short](http://users.mct.open.ac.uk/is3649/index.php)) to appear in _Bulletin of the Belgian Mathematical Society -- Simon Stevin_.
  0. Large minimal invariable generating sets in the finite symmetric groups (with [Daniele Garzoni](https://www.danielemath.com/)) to appear in _Israel J. Math_.
  0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava) to appear in _Ars Combinatoria_.
  0. On the number of conjugacy classes of a primitive permutation group (with [Daniele Garzoni](https://www.danielemath.com/)) [Appeared online](https://doi.org/10.1017/prm.2021.74) in _Proc. R. Soc. Edinb., Sect. A, Math._
