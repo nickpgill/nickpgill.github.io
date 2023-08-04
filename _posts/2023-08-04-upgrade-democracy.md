@@ -19,13 +19,15 @@ My approach was one of a mathematician: start with some basic axioms and see whe
 
 The second axiom is this: *humans have trouble making decisions that conflict with their own self-interest*. This doesn't seem too contentious to me! And I was thinking about it because I wanted to avoid writing a piece that said "democracy would be fine if our politicians weren't such a horrible bunch". This seems a lazy criticism to me and, moreover, a critique aimed at inducing less engagement with democracy rather than more. I wanted a better, truer answer.
 
-My interest, then, was seeing how this axiom interacted with our current configuration of democracy, i.e. via representatives elected at regular intervals by the citizens, with representatives arranged into parties. I proposed that this interaction results in four problems:
- 1. Short-termism: decisions are made with an eye on the electoral cycle;
- 2. Vested interests: decision makers need resources to win elections, and so make decisions that are more likely to attract support (donations) from those with resources;
- 3. Lack of representation: again, due to the need for significant resourcing to be elected, decision makers are typically drawn from a particular stratum of society and our axiom implies that they will make decisions that benefit that stratum;
- 4. Adversarial discourse: decision makers are not incentivized to change their mind, or to moderate their point of view in light of other people's experience, for fear of being perceived as weak or (heaven bid) as having performed a u-turn.
+These two axioms, taken together, form a kind of *specification for a democratic system*. The first axiom tells us what we want our democratic system; the second axiom tells us one of the problems that such a democratic system must overcome. Now the question is whether our current democratic system satisfies these axioms: i.e. it achieves the stated aim, despite the existence of the stated problem.
+
+In the blog I sought to interrogate our current system, in which representatives are elected at regular intervals by the citizens, with representatives arranged into parties, etc. I highlighted four problems that seem to arise:
+ 1. **Short-termism**: decisions are made with an eye on the electoral cycle;
+ 2. **Vested interests**: decision makers need resources to win elections, and so make decisions that are more likely to attract support (donations) from those with resources;
+ 3. **Lack of representation**: again, due to the need for significant resourcing to be elected, decision makers are typically drawn from a particular stratum of society and our axiom implies that they will make decisions that benefit that stratum;
+ 4. **Adversarial discourse**: parliamentary debate is adversial; decision makers are not incentivized to change their mind, or to moderate their point of view in light of other people's experience, for fear of being perceived as weak or (heaven bid) as having performed a u-turn.
  
- All of these four problems constitute a failure of our system to achieve the aim which is encoded in our first axiom.  My contention is, indeed, that the problems listed here are **exacerbated** by the way democracy is currently configured. If we are looking for ways to improve, or upgrade, our democractic system so that it achieves our stated aim, then we should look at systems that **mitigate against** the problems I've just described.
+ All of these four problems constitute a failure of our current democratic system to achieve the aim laid out in our first axiom. What is more, each of these problems is a direct consequence of the way the problem of self-interest laid out in our second axiom interacts with our current democratic system. If we are looking for ways to improve, or upgrade, our democractic system so that it achieves our stated aim, then we should look at systems that **mitigate against** the problems I've just described.
  
  In the blog, I propose that such an upgrade should involve [deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy) based on [sortition](https://en.wikipedia.org/wiki/Sortition) (reminisicent of the way the Athenians did democracy in the first place)!
  
