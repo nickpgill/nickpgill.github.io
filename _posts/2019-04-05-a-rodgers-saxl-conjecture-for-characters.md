@@ -49,25 +49,25 @@ Here we are taking products of conjugacy classes instead of tensor products of c
 
 So, now, recall that in the previous post, I made the following conjecture: 
 
-**Conjecture**: There exists a constant $c$ such that if $G$ is a finite simple group, and $S_1,\dots, S_k$ are  subsets of $G$ satisfying 
+**Conjecture 1**: There exists a constant $c$ such that if $G$ is a finite simple group, and $S_1,\dots, S_k$ are  subsets of $G$ satisfying 
 $\Pi_{i=1}^k|S_i|\geq|G|^c$, then there exist elements $g_1,\dots, g_k$ such that $G=(S_1)^{g_1}\cdots (S_k)^{g_k}$.
 
 A special case of this conjecture occurs when our sets $S_1,\dots, S_k$ are conjugacy classes of $G$. In this case, we obtain the following statement:
 
-**Conjecture**: There exists a constant $c$ such that if $G$ is a finite simple group, and $C_1,\dots, C_k$ are conjugacy classes of $G$ satisfying 
+**Conjecture 2**: There exists a constant $c$ such that if $G$ is a finite simple group, and $C_1,\dots, C_k$ are conjugacy classes of $G$ satisfying 
 $\Pi_{i=1}^k|S_i|\geq|G|^c$, then $G=C_1\cdot C_2\cdots C_k$.
 
 I don't know how to prove this theorem, but it's possible that it's not out of reach. The Rodgers--Saxl theorem that started all this off implies that the conjecture is true for the family $PSL(n,q)$ with the constant $c=12$. The theorem I proved with Pyber and Szabo implies it for groups of Lie type of bounded rank, so one is left with (some of) the classicals of unbounded rank, and the alternating groups.
 
 But back to chacters. What would be the character--theoretic version of the previous two conjectures? The first has, if I recall correctly, been stated by the LST-team:
 
-**Conjecture** There exists $C>0$ such that if $\chi$ is a non-trivial character of a finite simple group $G$ and if
+**Conjecture 3** There exists $C>0$ such that if $\chi$ is a non-trivial character of a finite simple group $G$ and if
 $c>C \log(\textrm{sum of dimensions of all irreducibles of }G)/ \log(\textrm{dimension of }\chi),$ 
 then $\chi^{*c}$ contains every irreducible of $G$ as a constituent.
 
 The Rodgers-Saxl analogue of this would be:
 
-**Conjecture** There exists $C>0$ such that if $\chi_1,..., \chi_t$ are non-trivial characters of a finite simple group $G$ and if
+**Conjecture 4** There exists $C>0$ such that if $\chi_1,..., \chi_t$ are non-trivial characters of a finite simple group $G$ and if
 
 $$\dim(\chi_1)*\dim(\chi_2)*...*\dim(\chi_t) > (\textrm{sum of dimensions of all irreducibles of }G)^C$$
 
@@ -87,7 +87,7 @@ Let $k$ be a field and let $G$ be a finite group. On page 45 of Alperin, *Local 
 
 In the language of characters: if $\chi$ is the character of $V$, and $\psi$ is any other character, then any character $\chi^N \times \psi$ contains the regular character.
 
-**Corollary**: there exists $M$ such that any product of any $M$ faithful irreducible characters of $Sym(n)$ contains the regular character as a constituent.
+**Corollary 5**: there exists $M$ such that any product of any $M$ faithful irreducible characters of $Sym(n)$ contains the regular character as a constituent.
 
 **Proof**: let $P$ be the number of faithful irreducible characters of $Sym(n)$. (So $P$ is 2 less than the number of partitions of $n$, unless $n = 4$.) For each faithful character, let $N(\chi)$ be the $N$ given by Alperin's result, and let $N = \max_\chi N(\chi)$. Take $M = NP$. Then in any product of $M$ faithful characters, some character appears at least $N$ times, and so the product contains the regular character. QED
 
@@ -100,10 +100,10 @@ Here's what Mark had to say on the subject:
 
 Is this enough evidence to make a conjecture? Hell, yeah!
 
-**Conjecture**: Suppose that $f_1,\dots, f_{n-1}$ are faithful irreducible characters of $Sym(n)$. Then $f_1* \cdots* f_{n-1}$  contains the regular character as a constituent.
+**Conjecture 6**: Suppose that $f_1,\dots, f_{n-1}$ are faithful irreducible characters of $Sym(n)$. Then $f_1* \cdots* f_{n-1}$  contains the regular character as a constituent.
 
 I think of this as a "Rodgers-Saxl type conjecture for characters". Now, the challenge is to turn it into a theorem....
 
-**Edit on 4 August 2023**: My Rodgers-Saxl conjecture above has been proved by [Larsen, Shalev and Tiep](https://arxiv.org/abs/2104.11716). Theorem 7 of the linked paper gives the result in question. Wonderful! 
+**Edit on 4 August 2023**: Conjecture 4 above has been proved by [Larsen, Shalev and Tiep](https://arxiv.org/abs/2104.11716). Theorem 7 of the linked paper gives the result in question. Wonderful! 
 
 
