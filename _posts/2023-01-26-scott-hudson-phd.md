@@ -37,7 +37,7 @@ Let $G=PSL_2(q)$ with $q\geq 11$, and consider the action of $G$ on the cosets o
 |$A_5| 3 | 4 |
 |Subfield | 3 | 4 |
 
-Scott was able to extend this result to $PSL_2(q)$.
+Scott was able to extend this result to $PGL_2(q)$.
 
 **Theorem** 
 Let $G=PGL_2(q)$ with $q\geq 11$, and consider the action of $G$ on the cosets of a maximal subgroup $H$. The height and relational complexity of this action are as follows:
@@ -50,6 +50,6 @@ Let $G=PGL_2(q)$ with $q\geq 11$, and consider the action of $G$ on the cosets o
 |$S_4| 3 | 3 or 4 |
 |Subfield | 3 | 4 |
 
-The case when $q<11$ is easy to deal with using a computer. It is not included in the statement because there are some strange anomalies there, typically due to isomorphisms with other simple groups. For instance $PGL_2(5)$ acts on its $S_4$ subgroup with relational complexity equal to $2$ (you might say that this is due to the fact that $PGL_2(5)\cong S_5$).
+The case when $q<11$ is easy to deal with using a computer. It is not included in the statement because there are some strange anomalies there, typically due to isomorphisms with other simple groups. For instance $PGL_2(5)$ acts on the cosets of a maximal $S_4$ subgroup with relational complexity equal to $2$ (you might say that this is due to the fact that $PGL_2(5)\cong S_5$).
  
 Scott had a number of other very interesting results pertaining to the group $P\Gamma L_2(q)$ and, indeed, to actions which were transitive but not primitive. It seems possible that one day it might be possible to completely understand the height and relational complexity of all of the transitive actions of a group with socle equal to $PSL_2(q)$... 

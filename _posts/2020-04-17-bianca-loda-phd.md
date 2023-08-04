@@ -28,7 +28,7 @@ A corollary of the main result of Bianca's thesis yields this classification in 
 **Theorem** 
 Let $G$ be a finite primitive group on a set of $\Omega$ of size $t$. Then one of the following holds:
  1. G is a subgroup of $S_m \wr S_t$ containing $(A_m)^t$, where the action of $S_m$ is on $k$-subsets of $\{1,\dots, m\}$ and the wreath product has the product action of degree $t=\choose{m}{k}^t$;
- 2. The **height** of the action of $G$ on $\Omega$ is at most $22\log_2 t$.
+ 2. The height of the action of $G$ on $\Omega$ is at most $22\log_2 t$.
  
 An immediate corollary of this theorem is that if $G$ is a finite primitive group of degree $t$, then either the first listed possibility of the theorem holds or else the relational complexity of the action of $G$ on $\Omega$ is at most $22\log_2 t +1$.
 
