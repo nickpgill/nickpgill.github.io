@@ -62,7 +62,7 @@ I don't know how to prove this theorem, but it's possible that it's not out of r
 But back to chacters. What would be the character--theoretic version of the previous two conjectures? The first has, if I recall correctly, been stated by the LST-team:
 
 **Conjecture** There exists $C>0$ such that if $\chi$ is a non-trivial character of a finite simple group $G$ and if
-$$c>C \log(\textrm{sum of dimensions of all irreducibles of }G)/ \log(\textrm{dimension of }\chi),$$ 
+$c>C \log(\textrm{sum of dimensions of all irreducibles of }G)/ \log(\textrm{dimension of }\chi),$ 
 then $\chi^{*c}$ contains every irreducible of $G$ as a constituent.
 
 The Rodgers-Saxl analogue of this would be:
@@ -103,4 +103,7 @@ Is this enough evidence to make a conjecture? Hell, yeah!
 **Conjecture**: Suppose that $f_1,\dots, f_{n-1}$ are faithful irreducible characters of $Sym(n)$. Then $f_1* \cdots* f_{n-1}$  contains the regular character as a constituent.
 
 I think of this as a "Rodgers-Saxl type conjecture for characters". Now, the challenge is to turn it into a theorem....
+
+**Edit on 4 August 2023**: My Rodgers-Saxl conjecture above has been proved by [Larsen, Shalev and Tiep](https://arxiv.org/abs/2104.11716). Theorem 7 of the linked paper gives the result in question. Wonderful! 
+
 
