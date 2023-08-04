@@ -1,5 +1,5 @@
 ---
-title: 'Congratulations to Scott Hudson
+title: 'Congratulations to Scott Hudson'
 date: 2023-01-26
 author: nickgill
 layout: post

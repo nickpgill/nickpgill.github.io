@@ -1,5 +1,5 @@
 ---
-title: 'Congratulations to Bianca Loda
+title: 'Congratulations to Bianca Loda'
 date: 2020-04-17
 author: nickgill
 layout: post
