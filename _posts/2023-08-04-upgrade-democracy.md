@@ -1,5 +1,5 @@
 ---
-title: 'Let's upgrade democracy!'
+title: 'Upgrading democracy'
 date: 2023-08-04
 author: nickgill
 layout: post
