@@ -7,7 +7,7 @@ categories:
 ---
 In February, I wrote a blog for Extinction Rebellion entitled [Why do politicians keep making bad decisions?](https://rebellion.global/blog/2023/02/15/politiciansmakingbaddecisions/).
 
-The blog was tied in with XR's third main demand for governments "to create and be led by the decisions of citizens’ assemblies on climate and ecological justice". The idea is that governments are, typically, not great at making decisions on the environment and it would be far better, and more democratic, if these decisions were made by randomly selected members of the public, i.e. made by *Citizens' Assemblies*.
+The blog was tied in with XR's third main demand for governments "to create and be led by the decisions of citizens’ assemblies on climate and ecological justice". XR's point of view is, I think, that governments are, typically, not great at making decisions on the environment and it would be far better, and more democratic, if these decisions were made by randomly selected members of the public, i.e. made by *Citizens' Assemblies*.
 
 Part of my work at Sortition Foundation involves advocating for citizens' assemblies, not just for decisions about the environment, but for all areas of public policy. Sortition Foundation doesn't take a position on **what** those decisions should be (e.g. our job is not to tell people how to respond to climate change), rather we advocate around **how** those decisions should be made.
 
