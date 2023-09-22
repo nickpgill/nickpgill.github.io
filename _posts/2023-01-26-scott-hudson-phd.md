@@ -75,12 +75,12 @@ But now, distinct Sylow $p$-subgroups of $G$ intersect trivially, hence the poin
 We are left with the case when $RC(B,\Gamma)=2$. The same argument works here since assuming the result is false allows us to take $k\geq 3$. **QED**
 
 
- We can describe the action of $B$ on $(B:H)$ in a particularly easy way. We think of $U$ as an $a$-dimensional vector space over $\mathbb{F}_2$. Notice that $H$ is a hyperplane in $U$ and notice that there are $q-1$ of these. We let $\Delta$ be the set of all **affine hyperplanes** -- these are the usual linear hyperplanes as well as their translates. Since we are working over $\mathbb{F}_2$, each hyperplane has 2 cosets (itself and one other) thus $|\Delta|=2q$. It is easy enough to see that $B$ acts transitively on $\Delta$ with stabilizers conjugates of $H$. Thus the action of $B$ on $\Gamma$ is isomorphic to the action of $B$ on $\Delta$.
+ We can describe the action of $B$ on $(B:H)$ in a particularly easy way. We think of $U$ as an $a$-dimensional vector space over $\mathbb{F}_2$. Notice that $H$ is a hyperplane in $U$ and notice that there are $q-1$ of these. We let $\Delta$ be the set of all **affine hyperplanes** -- these are the usual linear hyperplanes as well as their translates. Since we are working over $\mathbb{F}_2$, each hyperplane has 2 cosets (itself and one other) thus $\Delta$ has size $2q$. It is easy enough to see that $B$ acts transitively on $\Delta$ with stabilizers conjugates of $H$. Thus the action of $B$ on $\Gamma$ is isomorphic to the action of $B$ on $\Delta$.
 
-For the action of $G$ on $\Omega$ we write $I(G,\Omega)$ for the maximum length of an irredundant base; we write $B(G,\Omega)$ for the maximum size of a minimal base. The definitions imply that $B(G,\Omega)\leq I(G,\Omega)$.
+For the action of $G$ on $\Omega$ we write $I(G,\Omega)$ for the maximum length of an irredundant base; we write $B(G,\Omega)$ for the maximum size of a minimal base; we write $H(G,\Omega)$ for the height of the action (as considered by Scott in the results above). The definitions imply that $B(G,\Omega)\leq I(G,\Omega)$.
 
 
-**Lemma 2**. $B(B,\Delta)=B(G,\Omega)=\Height(G,\Omega)=I(G,\Omega)=a$.
+**Lemma 2**. $B(B,\Delta)=B(G,\Omega)=H(G,\Omega)=I(G,\Omega)=a$.
  
  **Proof**. Since $|H|=2^{a-1}$, the longest possible stabilizer chain is of length $a$. Thus $I(G,\Omega)\leq a$. Since $B(B,\Delta)=B(B,\Gamma)$ and, clearly, $B(B,\Gamma)\leq B(G,\Omega)$ it is sufficient to show that $B(B,\Delta)\geq a$. To do this we let $e_1,\dots, e_a$ be the usual vectors in the natural basis of $U$ (so $e_i$ has $0$'s in all places except the $i$-th where the entry is $1$). Now, for $i=1,\dots, a$, define
 \[
@@ -94,7 +94,7 @@ It is clear that $\{I_1,\dots, I_a\}$ is an independent set (intersections just 
 
 **Proof**. Lemma 1 implies that it is sufficient to prove that $RC(B,\Gamma)=a+1$. Since $B(B,\Delta)=a$ we know that $B(B,\Gamma)=a$ and so $RC(B,\Gamma)\leq a+1$. 
 
-Thus, to show that $RC(B,\Gamma)=a+1$ we need to find $I=(I_1,\dots, I_{a+1})$ and $J=(I_1,\dots, I_a, J_{a+1})$ such that $I\stb{a} J$ and $I\nstb{a+1} J$.
+Thus, to show that $RC(B,\Gamma)=a+1$ we need to find $I=(I_1,\dots, I_{a+1})$ and $J=(I_1,\dots, I_a, J_{a+1})$ such that $I$ and $J$ are $a$-equivalent but not $(a+1)$-equivalent.
 
 To do this take $I_1,\dots, I_a$ as above. Take $I_{a+1}$ to be the hyperplane whose vectors contain an even number of $1$'s; let $J_{a+1}$ be the other coset of this hyperplane, so $J_{a+1}$ is the affine hyperplane whose vectors contain an odd number of $1$'s.
 
