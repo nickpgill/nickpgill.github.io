@@ -56,7 +56,7 @@ The case when $q<11$ is easy to deal with using a computer. It is not included i
 
 Given Scott's beautiful results for the relational complexity of the primitive actions of $PSL_2(q)$ and $PGL_2(q)$, one might ask to what extent these can be extended. Two natural questions occur to me:
  - Is there an absolute upper bound for the relational complexity of the primitive actions of all almost simple groups with socle $PSL_2(q)$?
- - Is there an absolute upper bound for the relational complexity of the **transitive** actions of the simple group $PSL_2(q)$
+ - Is there an absolute upper bound for the relational complexity of the **transitive** actions of the simple group $PSL_2(q)$?
 
 A nice example shows that the answer to the second question is **No**. To explain it, a little notation: for a group $G$ acting on a set $\Omega$, we write $RC(G,\Omega)$ for the relational complexity of the action. For a subgroup $H$ in $G$, we write $(G:H)$ for the set of right cosets of $H$ in $G$, so $RC(G,(G:H))$ is the relational complexity of the group $G$ acting naturally on the set of right cosets of $H$ in $G$.
 
