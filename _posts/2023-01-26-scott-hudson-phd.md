@@ -82,7 +82,7 @@ For any action of a group $G$ on a set $\Omega$ we write $I(G,\Omega)$ for the m
 
 **Lemma 2**. $B(B,\Delta)=B(G,\Omega)=H(G,\Omega)=I(G,\Omega)=a$.
  
- **Proof**. Since $|H|=2^{a-1}$, the longest possible stabilizer chain is of length $a$. Thus $I(G,\Omega)\leq a$. Since $B(B,\Delta)=B(B,\Gamma)$ and, clearly, $B(B,\Gamma)\leq B(G,\Omega)$ it is sufficient to show that $B(B,\Delta)\geq a$. To do this we let $e_1,\dots, e_a$ be the usual vectors in the natural basis of $U$ (so $e_i$ has $0$'s in all places except the $i$-th where the entry is $1$). Now, for $i=1,\dots, a$, define
+ **Proof**. Since $H$ has order $2^{a-1}$, the longest possible stabilizer chain is of length $a$. Thus $I(G,\Omega)\leq a$. Since $B(B,\Delta)=B(B,\Gamma)$ and, clearly, $B(B,\Gamma)\leq B(G,\Omega)$ it is sufficient to show that $B(B,\Delta)\geq a$. To do this we let $e_1,\dots, e_a$ be the usual vectors in the natural basis of $U$ (so $e_i$ has $0$'s in all places except the $i$-th where the entry is $1$). Now, for $i=1,\dots, a$, define
 
 $$I_i:=\langle e_1,\dots, e_{i-1}, e_{i+1},\dots, e_a\rangle.$$
 
