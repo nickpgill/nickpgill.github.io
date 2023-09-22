@@ -62,7 +62,7 @@ A nice example shows that the answer to the second question is **No**. To explai
 
 Now let $G=SL_2(2^a)$, let $B$ be a Borel subgroup of $G$ and let $U=O_2(B)$. We know that $RC(G,(G:U))=2$ -- I mention this just because it contrasts with what is to follow... Now define $H$ to be an index 2-subgroup of $U$. We will see that if $a\geq 2$, then $RC(G, (G:H))=a+1$.
 
-I will use a bunch of standard results about relational complexity, all of which can be found in Chapter 1 of (this book)[https://arxiv.org/abs/2106.05154]. One particularly useful result is that if $H < B < G$, then we have $RC(G:(G,H))\geq RC(B, (B:H))$. In what follows we write $\Omega$ for $(G:H)$ and $\Gamma$ for $(B:H)$. so we have $RC(G,\Omega)\geq RC(B,\Gamma)$. First, a lemma that will allow us to work inside $B$.
+I will use a bunch of standard results about relational complexity, all of which can be found in Chapter 1 of <a href = "https://arxiv.org/abs/2106.05154">this book</a>. One particularly useful result is that if $H < B < G$, then we have $RC(G:(G,H))\geq RC(B, (B:H))$. In what follows we write $\Omega$ for $(G:H)$ and $\Gamma$ for $(B:H)$. so we have $RC(G,\Omega)\geq RC(B,\Gamma)$. First, a lemma that will allow us to work inside $B$.
 
 **Lemma 1**. Either $RC(G,\Omega)=RC(B,\Gamma)$ or else $RC(B,\Gamma)=2$ and $RC(G,\Omega)=3$.
 
