@@ -63,7 +63,7 @@ Preprints of all of my mathematics papers can be found [on the arXiv](http://arx
 {: reversed="reversed"}
 
 ## Published papers on deliberative democracy
- 0.  0. [Can we do inclusive politics in urgent times?](https://www.tandfonline.com/doi/pdf/10.1080/13511610.2024.2332229) (with [Brett Hennig](https://www.bretthennig.com/) and Thomas Lord), published online 9 March 2024. Not yet in print.
+ 1. [Can we do inclusive politics in urgent times?](https://www.tandfonline.com/doi/pdf/10.1080/13511610.2024.2332229) (with [Brett Hennig](https://www.bretthennig.com/) and Thomas Lord), published online 9 March 2024. Not yet in print.
 
 ## Other activity
             
