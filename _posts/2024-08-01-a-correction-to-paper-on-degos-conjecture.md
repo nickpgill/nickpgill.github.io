@@ -17,7 +17,7 @@ categories:
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-Some years ago I wrote a paper called <a href = "https://arxiv.org/abs/1502.03341">"*On a conjecture of Degos*</a> appearing as _Cah. Topol. Géom. Différ. Catég._ 57, No. 3, 229-237 (2016). Some years later, <a href="https://blogs.gwu.edu/jblewis/">Joel Brewster Lewis</a> got in touch with me to say that the main theorem of that paper was not true when $n=2$. The correct statement should be:
+Some years ago I wrote a paper called <a href = "https://arxiv.org/abs/1502.03341">*On a conjecture of Degos*</a> appearing as _Cah. Topol. Géom. Différ. Catég._ 57, No. 3, 229-237 (2016). Some years later, <a href="https://blogs.gwu.edu/jblewis/">Joel Brewster Lewis</a> got in touch with me to say that the main theorem of that paper was not true when $n=2$. The correct statement should be:
 
 **Theorem**: Let $f,g\in \mathbb{F}_q[x]$ be distinct monic polynomials of degree $n>2$ such that $f$ is primitive and the constant term of $g$ is non-zero. Then $\langle C_f, C_g\rangle=\textrm{GL}_n(q)$.
 
