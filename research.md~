@@ -6,24 +6,24 @@ author: nickgill
 layout: page
 guid: http://boolesrings.org/nickgill/?page_id=74
 ---
-Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gill_n_1).
+Preprints of all of my mathematics papers can be found [on the arXiv](http://arxiv.org/a/gill_n_1).
 
 ## Submitted papers
 
-  * [The binary actions of simple groups of Lie type of characteristic 2](https://arxiv.org/abs/2402.08357) (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/)) and [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/))
+  * [The binary actions of simple groups of Lie type of characteristic 2](https://arxiv.org/abs/2402.08357) (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/) and [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/))
   * [The binary actions of simple groups with a single conjugacy class of involutions](https://arxiv.org/abs/2402.02269) (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/))
   * [The binary actions of alternating groups](https://arxiv.org/abs/2303.06003) (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/))
 
-## Published academic papers
+## Published mathematics papers
  
- 0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava) to appear in _Ars Combinatoria_.
- 0. A generalization of Szep's conjecture for almost simple groups (with [Michael Guidici](https://research-repository.uwa.edu.au/en/persons/michael-giudici) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)) _Vietnam J. Math._ 52, No. 2, 325--259 (2024)
+ 0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava), to appear in _Ars Combinatoria_.
+ 0. A generalization of Szep's conjecture for almost simple groups (with [Michael Guidici](https://research-repository.uwa.edu.au/en/persons/michael-giudici) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Vietnam J. Math._ 52, No. 2, 325--259 (2024)
  0. Irredundant bases for finite groups of Lie type (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/)), _Pacific J. Math._ 322, No. 2, 281--200 (2023).
- 0. Large minimal invariable generating sets in the finite symmetric groups (with [Daniele Garzoni](https://www.danielemath.com/)) _Israel J. Math._ 255, No. 2, 581--598 (2023).
- 0. On the number of conjugacy classes of a primitive permutation group (with [Daniele Garzoni](https://www.danielemath.com/)) _Proc. R. Soc. Edinb., Sect. A, Math._ Sect. A, Math. 153, No. 1, 115--136 (2023).
- 0.  Nilpotent covers of symmetric groups (with Kimeu Arphaxad Ngwava and [Ian Short](http://users.mct.open.ac.uk/is3649/index.php)) _Bulletin of the Belgian Mathematical Society -- Simon Stevin_ 29, No. 2, 249--256 (2022).
+ 0. Large minimal invariable generating sets in the finite symmetric groups (with [Daniele Garzoni](https://www.danielemath.com/)),_Israel J. Math._ 255, No. 2, 581--598 (2023).
+ 0. On the number of conjugacy classes of a primitive permutation group (with [Daniele Garzoni](https://www.danielemath.com/)), _Proc. R. Soc. Edinb., Sect. A, Math._ Sect. A, Math. 153, No. 1, 115--136 (2023).
+ 0.  Nilpotent covers of symmetric groups (with Kimeu Arphaxad Ngwava and [Ian Short](http://users.mct.open.ac.uk/is3649/index.php)), _Bulletin of the Belgian Mathematical Society -- Simon Stevin_ 29, No. 2, 249--256 (2022).
  0. Cherlin's conjecture on finite primitive binary permutation groups (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), Lecture Notes in Mathematics, Vol 2302, Springer, 213p. 2022.
- 0. Statistics for S_n acting on k-sets (with Bianca Loda) _J. Algebra_ 607, Part A, 286-299 (2022).
+ 0. Statistics for S_n acting on k-sets (with Bianca Loda), _J. Algebra_ 607, Part A, 286-299 (2022).
  0. On the height and relational complexity of a finite permutation group (with Bianca Loda and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Nagoya Math. J._ 246, 372-411 (2022).
  0. The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters (with [Sam Hughes](https://samhughesmaths.github.io/)), _Int. J. Group Theory_ 10, No. 1, 11-30 (2021).
  0. A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo), _Bull. LMS_ 52, No. 3, 464-471 (2020).
@@ -61,6 +61,9 @@ Preprints of all of my papers can be found [on the arXiv](http://arxiv.org/a/gil
  0. Linear spaces with significant characteristic prime, _Innovations in Incidence Geometry_, 3 (2006), 109–119.
  0. Nilpotent Singer groups, _Electronic Journal of Combinatorics_, 13 (2006), no.1, R94.
 {: reversed="reversed"}
+
+## Published papers on deliberative democracy
+ 0.  0. [Can we do inclusive politics in urgent times?](https://www.tandfonline.com/doi/pdf/10.1080/13511610.2024.2332229) (with [Brett Hennig](https://www.bretthennig.com/) and Thomas Lord), published online 9 March 2024. Not yet in print.
 
 ## Other activity
             

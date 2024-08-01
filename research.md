@@ -37,7 +37,7 @@ Preprints of all of my mathematics papers can be found [on the arXiv](http://arx
  0. Quasirandom group actions, _Forum of Mathematics (Sigma)_ 4, Article ID e24, 35 p. (2016).
  0. Abelian covers of alternating groups (with Daniel Barrantes and Jeremias Ramirez), _Archiv der Mathematik._ 107, No. 2, 135-150 (2016).
  0. On a conjecture of Degos, _Cah. Topol. Géom. Différ. Catég._
-57, No. 3, 229-237 (2016). (<a href= "https://nickpgill.github.io/2024/08/1/a-correction-to-a-paper-on-degos-conjecture/">Details of erratum</a>.)
+57, No. 3, 229-237 (2016). (<a href= "https://nickpgill.github.io/2024/08/01/a-correction-to-a-paper-on-degos-conjecture/">Details of erratum</a>.)
   0.  Generating groups using hypergraphs (with Neil Gillespie, [Tony Nixon](http://www.math.yorku.ca/~tnixon/) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)), _Quarterly Journal of Mathematics,_ <span class="slug-pub-date">(2016) </span><span class="slug-vol">67 </span><span class="slug-issue">(1), </span><span class="slug-pages">29-52</span>_._
  0. Transitive projective planes and insoluble groups. _Transactions of the American Mathematical Society_ 368 (2016), 3017-3057.
  0. Nilpotent covers and non-nilpotent subsets of finite groups of Lie type (with Azizollah Azad and [John Britnell](http://www2.imperial.ac.uk/~jbritnel/)). _Forum Mathematicum_ 27 (2015), 3745-3782.
