@@ -24,6 +24,4 @@ I wanted to do an investigation of the triality automorphism of the orthogonal g
 
 Both of these families of exceptional groups lie inside $O_8^+$ groups. Their structure, when written as matrices, is surprisingly similar (surprising to me!). Although all of this is well-known to experts, I've not seen the matrices written down before so I was pleased that I could nut it out...
 
-(By the way, I'm having trouble with underscores rendering correctly, so please do whatever's necessary to make that middle paragraph make sense.)
-
 
