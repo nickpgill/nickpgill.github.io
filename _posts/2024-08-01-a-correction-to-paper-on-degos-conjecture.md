@@ -1,0 +1,35 @@
+---
+title: 'Erratum: On a conjecture of Degos'
+date: 2024-08-01
+author: nickgill
+layout: post
+categories:
+  - research
+---
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+        inlineMath: [['$','$']]
+      }
+    });
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+Some years ago I wrote a paper called <a href = "https://arxiv.org/abs/1502.03341">"*On a conjecture of Degos*</a> appearing as _Cah. Topol. Géom. Différ. Catég._ 57, No. 3, 229-237 (2016). Some years later, <a href="https://blogs.gwu.edu/jblewis/">"Joel Brewster Lewis</a> got in touch with me to say that the main theorem of that paper was not true when $n=2$. The correct statement should be:
+
+**Theorem**: Let $f,g\in \mathbb{F}_q[x]$ be distinct monic polynomials of degree $n>2$ such that $f$ is primitive and the constant germ of $g$ is non-zero. Then $\langle C_f, C_g\rangle=\textrm{GL}_n(q)$.
+
+(Here $C_f$ means the *companion matrix of f*.) My error was in omitting that "$>2$".
+
+I should have published an erratum but I did not get to it and, in the meantime, Joel has written up a paper on a connected subject, where he explains the error completely. Joel's paper is called <a href = "https://arxiv.org/abs/2407.20347">$\textrm{GL}_n(\mathbb{F}_q)$-analogues of some properties of $n$-cycles in $S_n$</a>.
+
+I am very grateful to Joel for, first, taking the time to find and correct my error; and, second, for then writing up a proper account of it -- a task that I should have done myself. At the very least, then, to show my gratitude I should advertise the main result of his paper. It is a very striking result which, as the title of his paper indicates, gives two properties of the general linear group, $\textrm{GL}_n(\mathbb{F}_q),$ which are direct analogues of properties of the symmetric group, $S_n$. Here's the result:
+
+**Theorem**
+ 1. An element $g\in \textrm{GL}_n(\mathbb{F}_q)$ is a Singer cycle if and only if the factors in every minimum-length factorization of $g$ as a product of reflections form a generating set for $\textrm{GL}_n(\mathbb{F}_q)$.
+ 2. Suppose that $c\in \textrm{GL}_n(\mathbb{F}_q)$ is a Singer cycle and $t\in \textrm{GL}_n(\mathbb{F}_q)$ is a reflection that does not normalize the cyclic subgroup $\langle c \rangle$; then $\langle c, t\rangle=\textrm{GL}_n(\mathbb{F}_q)$.
+
+
+
