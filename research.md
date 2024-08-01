@@ -74,6 +74,6 @@ Preprints of all of my mathematics papers can be found [on the arXiv](http://arx
             
 I am a reviewer for [Zentralblatt](http://zbmath.org/?q=(rv:+Nick+Gill)), [MathSciNet](http://www.ams.org/mathscinet/) and the [Newsletter of the London Maths. Soc](http://www.lms.ac.uk/newsletter/10.html#2). I have refereed articles for many different journals, but [I won&#8217;t referee for Elsevier](2014/03/11/letter-to-the-journal-of-algebra/).
             
-I am a member of the European Mathematical Society&#8217;s [Committee for Developing Countries](http://ems-cdc.org).
+Until recently (2023), I was a member of the European Mathematical Society&#8217;s [Committee for Developing Countries](http://ems-cdc.org).
             
 
