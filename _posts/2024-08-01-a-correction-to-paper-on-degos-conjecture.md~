@@ -25,7 +25,7 @@ Some years ago I wrote a paper called <a href = "https://arxiv.org/abs/1502.0334
 
 I should have published an erratum but I did not get to it and, in the meantime, Joel has written up a paper on a connected subject, where he explains the error completely. Joel's paper is called <a href = "https://arxiv.org/abs/2407.20347">$\textrm{GL}_n(\mathbb{F}_q)$-analogues of some properties of $n$-cycles in $S_n$</a>.
 
-I am very grateful to Joel for, first, taking the time to find and correct my error; and, second, for then writing up a proper account of it -- a task that I should have done myself. At the very least, then, to show my gratitude I should advertise the main result of his paper. It is a very striking result which, as the title of his paper indicates, gives two properties of the general linear group, $\textrm{GL}_n(\mathbb{F}_q),$ which are direct analogues of properties of the symmetric group, $S_n$. Here's the result:
+I am very grateful to Joel for, first, taking the time to find and correct my error; and, second, for then writing up a proper account of it -- a task that I should have done myself. At the very least, then, to show my gratitude I should advertise the main result of his paper! It is a very striking result which, as the title of his paper indicates, gives two properties of the general linear group, $\textrm{GL}_n(\mathbb{F}_q),$ which are direct analogues of properties of the symmetric group, $S_n$. Here is his result:
 
 **Theorem**
  1. An element $g\in \textrm{GL}_n(\mathbb{F}_q)$ is a Singer cycle if and only if the factors in every minimum-length factorization of $g$ as a product of reflections form a generating set for $\textrm{GL}_n(\mathbb{F}_q)$.
