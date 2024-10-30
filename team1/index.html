@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="cache-control" content="public" />
+        <meta name="language" content="English" />
+        <meta name="robots" content="index, follow" />
+        <meta name="copyright" content="Philopater Hany" />
+        <meta name="author" content="Philopater Hany" />
+        <meta name="title" id="metaTitle" content="" />
+        <meta name="description" id="metaDescription" content="" />
+        <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap"/>
+        <link rel="stylesheet" href="css/animate.min.css" />
+        <link rel="stylesheet" href="css/main.css" />
+        <title></title>
+    </head>
+    <body>
+        <header>
+            <h1></h1>
+        </header>
+        <main>
+            <section class="game-area">
+                <div class="inputs"></div>
+                <button class="check">Check Word</button>
+            </section>
+            <section class="instructions">
+                <div class="description">
+                    <h2>Description</h2>
+                    <p>
+                        Wordle is a word-guessing game where players try to
+                        figure out a hidden word. They input guesses, and the
+                        game provides feedback on correct letters and their
+                        positions. Players aim to solve the puzzle within a set
+                        number of attempts by strategically deducing the
+                        concealed word.
+                    </p>
+                </div>
+                <div class="key-colors">
+                    <h2>Key Colors</h2>
+                    <div class="key-color animate__bounceInUp">
+                        <div class="key in-place"></div>
+                        <div class="key-text">The letter is correct and in its place.</div>
+                    </div>
+                    <div class="key-color animate__bounceIn">
+                        <div class="key not-in-place"></div>
+                        <div class="key-text">The letter is correct, but not in its place.</div>
+                    </div>
+                    <div class="key-color animate__bounceInDown">
+                        <div class="key no"></div>
+                        <div class="key-text">The letter is wrong.</div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <p>
+                <span class="name"></span> - <span class="year"></span> &copy;
+            </p>
+            <p>All Rights Reserved &reg;</p>
+            <p>
+                Made By
+                <a href="https://github.com/PhilopaterHany" target="_blank">
+                    Philopater Hany
+                </a>
+            </p>
+        </footer>
+        <script src="js/sweetalert2.js"></script>
+        <script src="js/master.js" type="module"></script>
+    </body>
+</html>
