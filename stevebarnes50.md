@@ -6,9 +6,9 @@ author: nickgill
 layout: page
 ---
 
-##How much do we love Steve Barnes?
-
-<img src="sb1.jpg" width = 80%>
+<p align="center">
+<img src="sb1.jpg" width = 80% />
+</p>
 
  * <a href = "team1a.md">Team 1</a>
  * <a href = "team2a.md">Team 2</a>
