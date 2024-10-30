@@ -7,9 +7,12 @@ layout: page
 ---
 
 <p align="center">
-<img src="sb1.jpg" width = 80% />
+<img src="sb1.jpg" width="80%" alt="legend" />
 </p>
 
- * <a href = "team1a.md">Team 1</a>
- * <a href = "team2a.md">Team 2</a>
- * <a href = "team3a.md">Team 3</a>
+
+<table width="100%" cellspacing="20">
+  <tr><td align="center"><a href = "team1a.md">Team 1</a></td></tr>
+  <tr><td align="center"><a href = "team2a.md">Team 2</a></td></tr>
+  <tr><td align="center"><a href = "team3a.md">Team 3</a></td></tr>
+
