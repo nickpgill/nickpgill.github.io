@@ -8,7 +8,7 @@ let currentTry = 1;
 var currentGame = null;
 
 if(localStorage.getItem("currentGame")){
-     currentGame = localStorage.getItem("currentGame") % 3;
+     currentGame = (localStorage.getItem("currentGame")+1) % 3;
 }
 else {
      currentGame=0;
@@ -146,8 +146,7 @@ function handleGuesses() {
                 `,
             },
         }).then((result) => {
-            if (result.isConfirmed) currentGame++;
-            		            window.location.reload();
+            if (result.isConfirmed) window.location.reload();
         });
 
         // Add Disabled Class On All Try Divs
@@ -201,8 +200,7 @@ function handleGuesses() {
                     `,
                 },
             }).then((result) => {
-                if (result.isConfirmed) currentGame++; 
-                			window.location.reload();
+                if (result.isConfirmed) window.location.reload();
             });
         }
     }
