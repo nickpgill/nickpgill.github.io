@@ -7,7 +7,7 @@ const numberOfLetters = 5;
 let currentTry = 1;
 var currentGame = null;
 
-if(localStorage.getItem("currentGame")){
+if( localStorage.getItem("currentGame") != null ){
      currentGame = (localStorage.getItem("currentGame")+1) % 3;
 }
 else {
@@ -18,7 +18,7 @@ let wordToGuess = WORDS[currentGame].toLowerCase();
 
 
 // Setting game name
-const gameName = "Wordle";
+const gameName = "Barnacle";
 document.title = gameName;
 document.getElementById("metaTitle").setAttribute("content", `${gameName} Game`);
 document.getElementById("metaDescription").setAttribute("content", `${gameName} Game`);
