@@ -7,7 +7,7 @@ layout: page
 ---
 
 <p align="center">
-<img src="sb3.jpg" width="80%" alt="legend" />
+<img src="sb3.jpg" width="50%" alt="legend" />
 </p>
 
 
