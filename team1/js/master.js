@@ -8,7 +8,7 @@ let currentTry = 1;
 var currentGame;
 
 if( localStorage.getItem("currentGame") != null ){
-     currentGame = (localStorage.getItem("currentGame")+1) % 3;
+     currentGame = (localStorage.getItem("currentGame")) % 3;
 }
 else {
      currentGame=0;
@@ -146,7 +146,9 @@ function handleGuesses() {
                 `,
             },
         }).then((result) => {
-            if (result.isConfirmed) window.location.reload();
+            if (result.isConfirmed) {
+               localStorage.setItem("currentGame", currentGame+1); 
+               window.location.reload();}
         });
 
         // Add Disabled Class On All Try Divs
@@ -200,7 +202,9 @@ function handleGuesses() {
                     `,
                 },
             }).then((result) => {
-                if (result.isConfirmed) window.location.reload();
+            if (result.isConfirmed) {
+               localStorage.setItem("currentGame", currentGame+1); 
+               window.location.reload();}
             });
         }
     }
