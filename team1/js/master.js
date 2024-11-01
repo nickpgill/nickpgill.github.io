@@ -5,7 +5,7 @@ import { WORDS } from "./words.js";
 const numberOfTries = 7;
 const numberOfLetters = 5;
 let currentTry = 1;
-var currentGame = null;
+var currentGame;
 
 if( localStorage.getItem("currentGame") != null ){
      currentGame = (localStorage.getItem("currentGame")+1) % 3;
