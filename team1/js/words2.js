@@ -1,3 +1,3 @@
 export const WORDS = [
-  'stars', 'harsh', 'twist'
+  'tulip', 'hours', 'model'
 ];
