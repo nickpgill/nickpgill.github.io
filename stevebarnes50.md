@@ -12,7 +12,7 @@ layout: page
 
 
 <table width="100%" cellspacing="20">
-  <tr><td align="center"><a href = "/team1/p1.md">Team 1</a></td></tr>
+  <tr><td align="center"><a href = "/team1/p1">Team 1</a></td></tr>
   <tr><td align="center"><a href = "team2a.md">Team 2</a></td></tr>
   <tr><td align="center"><a href = "team3a.md">Team 3</a></td></tr>
 </table>
