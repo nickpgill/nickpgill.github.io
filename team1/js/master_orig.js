@@ -1,20 +1,12 @@
 // Manage words
 import { WORDS } from "./words.js";
+let wordToGuess = WORDS[Math.floor(Math.random() * WORDS.length)].toLowerCase();
 
 // Setting game options
 const numberOfTries = 7;
 const numberOfLetters = 5;
 let currentTry = 1;
-var currentGame = null;
-
-if(localStorage.getItem("currentGame")){
-     currentGame = localStorage.getItem("currentGame") % 3;
-}
-else {
-     currentGame=0;
-}
-
-let wordToGuess = WORDS[currentGame].toLowerCase();
+let currentGame = 1;
 
 
 // Setting game name
@@ -146,8 +138,7 @@ function handleGuesses() {
                 `,
             },
         }).then((result) => {
-            if (result.isConfirmed) currentGame++;
-            		            window.location.reload();
+            if (result.isConfirmed) window.location.reload();
         });
 
         // Add Disabled Class On All Try Divs
@@ -201,8 +192,7 @@ function handleGuesses() {
                     `,
                 },
             }).then((result) => {
-                if (result.isConfirmed) currentGame++; 
-                			window.location.reload();
+                if (result.isConfirmed) window.location.reload();
             });
         }
     }
