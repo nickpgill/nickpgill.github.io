@@ -5,16 +5,16 @@ import { WORDS } from "./words3.js";
 const numberOfTries = 7;
 const numberOfLetters = 5;
 let currentTry = 1;
-var currentGameTwo;
+var currentGameThree;
 
-if( localStorage.getItem("currentGameTwo") != null ){
-     currentGameTwo = (localStorage.getItem("currentGameTwo")) % 3;
+if( localStorage.getItem("currentGameThree") != null ){
+     currentGameThree = (localStorage.getItem("currentGameThree")) % 3;
 }
 else {
-     currentGameTwo=0;
+     currentGameThree=0;
 }
 
-let wordToGuess = WORDS[currentGameTwo].toLowerCase();
+let wordToGuess = WORDS[currentGameThree].toLowerCase();
 
 
 // Setting game name
@@ -147,7 +147,7 @@ function handleGuesses() {
             },
         }).then((result) => {
             if (result.isConfirmed) {
-               localStorage.setItem("currentGameTwo", currentGameTwo+1); 
+               localStorage.setItem("currentGameThree", currentGameThree+1); 
                window.location.reload();}
         });
 
@@ -203,7 +203,7 @@ function handleGuesses() {
                 },
             }).then((result) => {
             if (result.isConfirmed) {
-               localStorage.setItem("currentGameTwo", currentGameTwo+1); 
+               localStorage.setItem("currentGameThree", currentGameThree+1); 
                window.location.reload();}
             });
         }
