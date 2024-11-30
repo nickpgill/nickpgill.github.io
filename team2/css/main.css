@@ -1,0 +1,256 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --body-bg: #eee;
+    --green: #18ba89;
+    --yellow: #f89e13;
+    --grey: #607d8b;
+    --primary-color: #d21152;
+    --main-duration: 0.15s;
+}
+span,
+a {
+    display: inline-block;
+}
+a {
+    color: #000;
+    text-decoration: none;
+}
+body {
+    background-color: var(--body-bg);
+    font-family: "Josefin Sans", sans-serif;
+}
+header,
+footer {
+    padding: 19.5px;
+    background-color: #fff;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+}
+header {
+    font-size: 20px;
+    user-select: none;
+}
+main {
+    margin: 25px auto;
+    padding-inline: 40px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    .game-area {
+        width: fit-content;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 25px;
+        .inputs {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            > div {
+                width: fit-content;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 15px;
+            }
+            .disabled-inputs {
+                opacity: 0.5;
+                pointer-events: none;
+            }
+            input {
+                width: 60px;
+                height: 60px;
+                text-align: center;
+                font-size: 45px;
+                font-weight: bold;
+                padding-top: 12px;
+                font-family: inherit;
+                caret-color: transparent;
+                user-select: none;
+                background-color: #ccc;
+                border: 3px solid transparent;
+                -webkit-transition: var(--main-duration) ease-in-out;
+                -moz-transition: var(--main-duration) ease-in-out;
+                -ms-transition: var(--main-duration) ease-in-out;
+                -o-transition: var(--main-duration) ease-in-out;
+                transition: var(--main-duration) ease-in-out;
+                &:focus,
+                &.active {
+                    outline: none;
+                    background-color: #fff;
+                    border-color: #333;
+                }
+                &.yes-in-place {
+                    background-color: var(--green);
+                    border: var(--green);
+                    color: #fff;
+                }
+                &.not-in-place {
+                    background-color: var(--yellow);
+                    border: var(--yellow);
+                    color: #fff;
+                }
+                &.no {
+                    background-color: var(--grey);
+                    border: var(--grey);
+                    color: #fff;
+                }
+            }
+        }
+        button {
+            padding: 15px 20px;
+            width: 100%;
+            font-size: 20px;
+            font-weight: bold;
+            color: #fff;
+            cursor: pointer;
+            background-color: var(--primary-color);
+            border: none;
+            -webkit-border-radius: 6px;
+            -moz-border-radius: 6px;
+            -ms-border-radius: 6px;
+            -o-border-radius: 6px;
+            border-radius: 6px;
+        }
+        button:disabled {
+            background-color: #000;
+            opacity: 0.4;
+            cursor: no-drop;
+        }
+    }
+    .instructions {
+        .description {
+            p {
+                margin-block: 15px;
+                padding: 15px;
+                display: flex;
+                align-items: center;
+                background-color: #fff;
+                animation-duration: calc(var(--animate-duration) * 0.75);
+                max-width: 500px;
+                text-wrap: balance;
+                line-height: 1.25;
+                font-size: 18px;
+            }
+        }
+        .key-colors {
+            h2 {
+                margin-bottom: 15px;
+            }
+            .key-color {
+                padding: 15px;
+                display: flex;
+                align-items: center;
+                background-color: #fff;
+                animation-duration: calc(var(--animate-duration) * 0.75);
+                &:nth-of-type(2) {
+                    margin-block: 15px;
+                }
+                .key {
+                    margin-right: 10px;
+                    width: 25px;
+                    height: 25px;
+                    -webkit-border-radius: 5px;
+                    -moz-border-radius: 5px;
+                    -ms-border-radius: 5px;
+                    -o-border-radius: 5px;
+                    border-radius: 5px;
+                    &.in-place {
+                        background-color: var(--green);
+                    }
+                    &.not-in-place {
+                        background-color: var(--yellow);
+                    }
+                    &.no {
+                        background-color: var(--grey);
+                    }
+                }
+                .key-text {
+                    margin-top: 5px;
+                    font-size: 18px;
+                    font-weight: bold;
+                    text-align: left;
+                }
+            }
+        }
+    }
+}
+footer {
+    color: #fff;
+    background-color: #333;
+    p {
+        line-height: 1.5;
+        a,
+        span {
+            color: var(--primary-color);
+            font-weight: bold;
+        }
+    }
+}
+.swal2-title {
+    font-size: 44px;
+    &.good {
+        color: var(--green);
+    }
+    &.bad {
+        color: var(--grey);
+    }
+}
+.swal2-html-container {
+    p {
+        line-height: 1.25;
+        span {
+            margin: 8px auto;
+            padding: 10px 20px 6px;
+            display: block;
+            width: fit-content;
+            border: 4px dashed;
+            letter-spacing: 1px;
+        }
+    }
+}
+div:where(.swal2-container) div:where(.swal2-actions) {
+    margin: 5px auto 0 !important;
+}
+.swal2-confirm {
+    box-shadow: none !important;
+}
+.swal2-footer {
+    a {
+        color: #2196f3;
+        text-decoration: underline;
+    }
+}
+@media (max-width: 991px) {
+    main {
+        padding: 10px;
+        align-items: center;
+        flex-direction: column-reverse;
+        gap: 40px;
+        .game-area {
+            .inputs {
+                > div {
+                    gap: 10px;
+                    input {
+                        width: 50px;
+                        height: 50px;
+                    }
+                }
+            }
+        }
+        .instructions {
+            .description {
+                p {
+                    max-width: unset;
+                    margin-block: 15px 30px;
+                }
+            }
+        }
+    }
+}
