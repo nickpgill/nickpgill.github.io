@@ -8,7 +8,7 @@ guid: http://boolesrings.org/nickgill/?page_id=95
 ---
 ## Lecture courses
 
-  * 2025 [Finite Classical Groups](https://nickpgill.github.io/blog: [London Taught Course Center](http://www.ltcc.ac.uk/)
+  * 2025 [Finite Classical Groups](https://nickpgill.github.io/finite-classical-groups-2025): [London Taught Course Center](http://www.ltcc.ac.uk/)
   * 2021 -- [MT365: Graphs, networks and design](https://www.open.ac.uk/courses/modules/mt365): Open University
   * 2021 -- [M303: Further pure maths](https://www.open.ac.uk/courses/modules/m303): Open University
   * 2018 -- 21 [MS03S04: Codes and information](https://icis.southwales.ac.uk/studentmodules/13580/studentmodulespecifications): USW.
