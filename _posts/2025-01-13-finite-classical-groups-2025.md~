@@ -20,12 +20,12 @@ Course material follows.
       * Peter Cameron&#8217;s notes on [Classical Groups](http://www.maths.qmul.ac.uk/~pjc/class_gps/);
       * Peter Cameron&#8217;s notes on [Projective and polar spaces](http://www.maths.qmul.ac.uk/~pjc/pps/).
   * Lecture notes: 
-      * [Lecture 0]() on _Group theory background_ (this was not covered in class); 
-      * [Lecture 1]() on _Permutation Groups_ and _Fields and Vector Spaces_; 
-      * [Lecture 2]() on _Projective space_ and _Linear groups_; 
-      * [Lecture 3]() on _Forms and polar spaces_ and _Isometries and Witt&#8217;s Lemma_; 
-      * [Lecture 4]() in which we finish off _Isometries and Witt&#8217;s Lemma_, and then cover _Polar spaces_ and _Symplectic groups_; 
-      * [Lecture 5]() on _Unitary groups_ and _Orthogonal groups_. 
+      * [Lecture 0](cg_lect_0.pdf) on _Group theory background_ (this was not covered in class); 
+      * [Lecture 1](cg_lect_1.pdf)) on _Permutation Groups_ and _Fields and Vector Spaces_; 
+      * [Lecture 2](cg_lect_2.pdf)) on _Projective space_ and _Linear groups_; 
+      * [Lecture 3](cg_lect_3.pdf)) on _Forms and polar spaces_ and _Isometries and Witt&#8217;s Lemma_; 
+      * [Lecture 4](cg_lect_4.pdf)) in which we finish off _Isometries and Witt&#8217;s Lemma_, and then cover _Polar spaces_ and _Symplectic groups_; 
+      * [Lecture 5]()cg_lect_5.pdf) on _Unitary groups_ and _Orthogonal groups_. 
   * Exercises and discussion class: 
       * [Exercises 0]() (including solutions); 
       * [Exercises 1]() (including solutions); 
