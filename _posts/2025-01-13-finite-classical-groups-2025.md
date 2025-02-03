@@ -24,12 +24,12 @@ Course material follows.
       * [Lecture 1](cg_lect_1.pdf) on _Permutation Groups_ and _Fields and Vector Spaces_; 
       * [Lecture 2](cg_lect_2.pdf) on _Projective space_ and _Linear groups_ (we didn't cover Chapter 4 in class but, still, it's included for interest); 
       * [Lecture 3](cg_lect_3.pdf) on _Forms and polar spaces_ and _Isometries and Witt&#8217;s Lemma_; 
-      * [Lecture 4](cg_lect_4.pdf) in which we finish off _Isometries and Witt&#8217;s Lemma_, and then cover _Polar spaces_ and _Symplectic groups_; 
+      * [Lecture 4](cg_lect_4.pdf) on_Polar spaces_ and _Symplectic groups_; 
       * [Lecture 5](cg_lect_5.pdf) on _Unitary groups_ and _Orthogonal groups_. 
   * Solutions for starred exercises (these are the ones that I think are most important): 
       * [Exercises 0](cg_ex_0.pdf) (including solutions); 
       * [Exercises 1](cg_ex_1.pdf) (including solutions); 
       * [Exercises 2](cg_ex_2.pdf) (including solutions); 
-      * [Exercises 3]() (including solutions); 
-      * [Exercises 4]() (including solutions); 
-      * [Exercises 5]() (including solutions).
+      * [Exercises 3](cg_ex_3.pdf) (including solutions); 
+      * [Exercises 4](cg_ex_4.pdf) (including solutions); 
+      * [Exercises 5](cg_ex_5.pdf) (including solutions).
