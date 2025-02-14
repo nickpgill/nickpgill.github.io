@@ -8,14 +8,15 @@ guid: http://boolesrings.org/nickgill/?page_id=74
 ---
 Preprints of all of my mathematics papers can be found [on the arXiv](http://arxiv.org/a/gill_n_1).
 
-## Submitted papers
+## Preprints
 
-  * [The binary actions of simple groups of Lie type of characteristic 2](https://arxiv.org/abs/2402.08357) (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/) and [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/))
-  * [The binary actions of simple groups with a single conjugacy class of involutions](https://arxiv.org/abs/2402.02269) (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/))
+  * [Initiating the proof of the Liebeck-Nikolov-Shalev conjecture](https://arxiv.org/abs/2408.07800) (with [Noam Lifshitz](https://scholar.google.com/citations?user=E-KzKRMAAAAJ&hl=en), [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
   * [The binary actions of alternating groups](https://arxiv.org/abs/2303.06003) (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/))
 
 ## Published mathematics papers
- 
+
+ 0. The binary actions of simple groups of Lie type of characteristic 2 (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/) and [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/)), to appear in _Pacific J. Math._ 
+ 0. The binary actions of simple groups with a single conjugacy class of involutions] (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/)), to appear in _J. Group Theory_. 
  0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava), to appear in _Ars Combinatoria_.
  0. A generalization of Szep's conjecture for almost simple groups (with [Michael Guidici](https://research-repository.uwa.edu.au/en/persons/michael-giudici) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Vietnam J. Math._ 52, No. 2, 325--259 (2024)
  0. Irredundant bases for finite groups of Lie type (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/)), _Pacific J. Math._ 322, No. 2, 281--200 (2023).
