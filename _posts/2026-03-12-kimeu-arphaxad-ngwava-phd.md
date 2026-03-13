@@ -16,6 +16,7 @@ Congratulations to Kimeu Arphaxad Ngwava who has been awarded his PhD. His PhD t
 Kimeu's work was impressive for many reasons. First, it produced two lovely papers:
  - [Nilpotent covers of symmetric and alternating groups](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin/volume-29/issue-2/Nilpotent-covers-of-symmetric-and-alternating-groups/10.36045/j.bbms.220218.short). The authors were Kimeu, Ian Short and I.
  - [Nilpotent covers of dihedral groups](https://combinatorialpress.com/article/ars/Volume%20160/nilpotent-covers-of-dihedral-groups.pdf). The authors were Kimeu and I.
+
 That Kimeu was able to produce such interesting mathematics, despite having supervisors in another country, is a testament to his talent.
 
 Second, I want to pay tribute to Kimeu's astounding perseverance and indefatigability in the face of tremendous obstacle. Kimeu enrolled in the doctoral programme at Moi in 2014 and spent two years completing courses. Then, in 2016, Ian and I started work with Kimeu, funded by the London Mathematical Society's [Mentoring African Research in Mathematics](https://www.lms.ac.uk/grants/marm) programme. That funding lasted for 2 years and during that period we initiated the programme of research that was the basis for Kimeu's PhD.
