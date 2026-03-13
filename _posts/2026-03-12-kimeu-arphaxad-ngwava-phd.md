@@ -27,7 +27,7 @@ But Kimeu kept at it. Throughout all of this time he was providing for his four 
 
 But, still, he kept at it.
 
-On 16 September 2025 Kimeu successfully defended his thesis. He faced one final hurdle: the final tranche of fees for his studies at Moi University were due -- [with the generous help of many supporters](https://www.justgiving.com/crowdfunding/kenya-phd) Kimeu was able to pay the fees. On 19 December 2026 Kimeu graduated. Cue much rejoicing.
+On 16 September 2025 Kimeu successfully defended his thesis. He faced one final hurdle: the final tranche of fees for his studies at Moi University were due -- [with the generous help of many supporters](https://www.justgiving.com/crowdfunding/kenya-phd) Kimeu was able to pay the fees. On 19 December 2025 Kimeu graduated. Cue much rejoicing.
 
 Well done Kimeu, it has been a pleasure to work with you.
 
