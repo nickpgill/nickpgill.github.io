@@ -11,7 +11,7 @@ categories:
 
 <img src="../kimeu1.jpg" width="450pt" alt="me" />
 
-Congratulations to Kimeu Arphaxad Ngwava who has been awarded his PhD. His PhD thesis entitled *Calculating the minimal size of a nilpotent cover of the finite symmetric, alternating and dihedral groups*. I was the lead supervisor for Kimeu; my colleague, Ian Short, and Fredrick Nyamwala from Moi University in Kenya were the other supervisors. Kimeu's PhD was awarded by Moi University. Ian and I were remote supervisors.
+Congratulations to Kimeu Arphaxad Ngwava who has been awarded his PhD. His PhD thesis was entitled *Calculating the minimal size of a nilpotent cover of the finite symmetric, alternating and dihedral groups*. I was the lead supervisor for Kimeu; my colleague, Ian Short, and Fredrick Nyamwala from Moi University in Kenya were the other supervisors. Kimeu's PhD was awarded by Moi University. Ian and I were remote supervisors.
 
 Kimeu's work was impressive for many reasons. First, it produced two lovely papers:
  - [Nilpotent covers of symmetric and alternating groups](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin/volume-29/issue-2/Nilpotent-covers-of-symmetric-and-alternating-groups/10.36045/j.bbms.220218.short). The authors were Kimeu, Ian Short and I.
