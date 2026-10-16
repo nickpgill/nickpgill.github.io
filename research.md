@@ -11,8 +11,8 @@ Preprints of all of my mathematics papers can be found [on the arXiv](http://arx
 ## Preprints
 
  * [On the maximum relational complexity of affine groups](https://arxiv.org/abs/2610.20077) (with [Coen del Valle](https://coendelvalle.github.io/) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
- * [The binary actions of sporadic groups](https://arxiv.org/abs/2609.02508) with [Coen del Valle](https://coendelvalle.github.io/))
- * [Initiating the proof of the Liebeck-Nikolov-Shalev conjecture](https://arxiv.org/abs/2408.07800) (with [Noam Lifshitz](https://scholar.google.com/citations?user=E-KzKRMAAAAJ&hl=en), [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
+ * [The binary actions of sporadic groups](https://arxiv.org/abs/2609.02508) (with [Coen del Valle](https://coendelvalle.github.io/))
+ * [Initiating the proof of the Liebeck-Nikolov-Shalev conjecture](https://arxiv.org/abs/2408.07800) (with [Noam Lifshitz](https://scholar.google.com/citations?user=E-KzKRMAAAAJ&hl=en), [Laszlo Pyber](http://www.renyi.hu/~pyber/) and [Endre Szabó](https://scholar.google.com/citations?user=XmLO6VEAAAAJ&hl=hu))
 
 ## Published mathematics papers
 
@@ -30,7 +30,7 @@ Preprints of all of my mathematics papers can be found [on the arXiv](http://arx
  0. Statistics for S_n acting on k-sets (with Bianca Loda), _J. Algebra_ 607, Part A, 286-299 (2022).
  0. On the height and relational complexity of a finite permutation group (with Bianca Loda and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Nagoya Math. J._ 246, 372-411 (2022).
  0. The character table of a sharply 5-transitive subgroup of the alternating group on 12 letters (with [Sam Hughes](https://samhughesmaths.github.io/)), _Int. J. Group Theory_ 10, No. 1, 11-30 (2021).
- 0. A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo), _Bull. LMS_ 52, No. 3, 464-471 (2020).
+ 0. A generalization of a theorem of Rodgers and Saxl for simple groups of bounded rank (with [Laszlo Pyber](http://www.renyi.hu/~pyber/) and [Endre Szabó](https://scholar.google.com/citations?user=XmLO6VEAAAAJ&hl=hu)), _Bull. LMS_ 52, No. 3, 464-471 (2020).
   0. Binary groups: Alternating and classical groups (with [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Amer. J. Math._ 142, No. 1, 1-43 (2020). 
  0. Cherlin&#8217;s conjecture for almost simple groups of Lie rank 1 (with Francis Hunt and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Math. Proc. Camb. Philos. Soc._ 167, No. 3, 417-435 (2019). 
  0.  Conway&#8217;s groupoid and its relatives (with Neil Gillespie, [Cheryl Praeger](http://www.web.uwa.edu.au/people/cheryl.praeger) and [Jason Semeraro](http://www.maths.bristol.ac.uk/~js13525/)),  published in _Finite Simple Groups: Thirty Years of the Atlas and Beyond_. Vol. 694 Princeton, NJ : American Mathematical Society, 2017. (Contemporary Mathematics).
@@ -47,7 +47,7 @@ Preprints of all of my mathematics papers can be found [on the arXiv](http://arx
  0. Nilpotent covers and non-nilpotent subsets of finite groups of Lie type (with Azizollah Azad and [John Britnell](http://www2.imperial.ac.uk/~jbritnel/)). _Forum Mathematicum_ 27 (2015), 3745-3782.
  0. On growth in an abstract plane (with [Harald Helfgott](http://www.math.ens.fr/~helfgott/anglais/) and [Misha Rudnev](http://www.maths.bris.ac.uk/~maxmr/)), _Proceedings of the American Mathematical Society_ 143 no. 8 (2015), 3593-3602.
  0. Growth in solvable subgroups of GL_r(Z/pZ) (with [Harald Helfgott](http://www.math.ens.fr/~helfgott/anglais/)), _Mathematische Annalen_ 360 (2014), no. 1-2, 157-208.
- 0. On the product decomposition conjecture for finite simple groups (with [Laszlo Pyber](http://www.renyi.hu/~pyber/), [Ian Short](http://users.mct.open.ac.uk/is3649/) and Endre Szabo), _Groups, Geometry, and Dynamics_, 7 (2013), no.4, 867–882.
+ 0. On the product decomposition conjecture for finite simple groups (with [Laszlo Pyber](http://www.renyi.hu/~pyber/), [Ian Short](http://users.mct.open.ac.uk/is3649/) and [Endre Szabó](https://scholar.google.com/citations?user=XmLO6VEAAAAJ&hl=hu)), _Groups, Geometry, and Dynamics_, 7 (2013), no.4, 867–882.
  0. Orientably regular maps with Euler characteristic divisible by few primes. _Journal of the London Mathematical Society_, 88 (2013), no.1, 118–136.
  0. Conjugacy in Thompson&#8217;s group F (with [Ian Short](http://users.mct.open.ac.uk/is3649/)), _Proceedings of the American Mathematical Society_, 141 (2013)1529–1538.
  0. (2,m,n)-groups with Euler characteristic equal to -2^as^b. _Electronic Journal of Combinatorics_, 20 (2013), no. 3, R8.
