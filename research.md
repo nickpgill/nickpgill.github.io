@@ -10,14 +10,17 @@ Preprints of all of my mathematics papers can be found [on the arXiv](http://arx
 
 ## Preprints
 
-  * [Initiating the proof of the Liebeck-Nikolov-Shalev conjecture](https://arxiv.org/abs/2408.07800) (with [Noam Lifshitz](https://scholar.google.com/citations?user=E-KzKRMAAAAJ&hl=en), [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
-  * [The binary actions of alternating groups](https://arxiv.org/abs/2303.06003) (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/))
+ * [On the maximum relational complexity of affine groups](https://arxiv.org/abs/2610.20077) (with [Coen del Valle](https://coendelvalle.github.io/) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/))
+ * [The binary actions of sporadic groups](https://arxiv.org/abs/2609.02508) with [Coen del Valle](https://coendelvalle.github.io/))
+ * [Initiating the proof of the Liebeck-Nikolov-Shalev conjecture](https://arxiv.org/abs/2408.07800) (with [Noam Lifshitz](https://scholar.google.com/citations?user=E-KzKRMAAAAJ&hl=en), [Laszlo Pyber](http://www.renyi.hu/~pyber/) and Endre Szabo)
 
 ## Published mathematics papers
 
- 0. The binary actions of simple groups of Lie type of characteristic 2 (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/) and [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/)), to appear in _Pacific J. Math._ 
- 0. The binary actions of simple groups with a single conjugacy class of involutions] (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/)), to appear in _J. Group Theory_. 
- 0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava), to appear in _Ars Combinatoria_.
+ 0. Non-orientable regular maps with negative prime-power Euler characteristic (with [Marston Conder](https://www.math.auckland.ac.nz/~conder/) and [Jozef Širáň](https://scholar.google.com/citations?user=gqyz48YAAAAJ&hl=en), to appear in _J. Algebra_.
+ 0. The binary actions of alternating groups(with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/)), Confluentes Math. 17, 73-89 (2025).
+ 0. The binary actions of simple groups of Lie type of characteristic 2 (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/) and [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/)), _Pacific J. Math._ 336, No. 1-2, 113-135 (2025).
+ 0. The binary actions of simple groups with a single conjugacy class of involutions] (with [Pierre Guillot](https://irma.math.unistra.fr/~guillot/)), _J. Group Theory_ 28, No. 1, 215-240 (2025).
+ 0. Nilpotent covers of dihedral groups (with Kimeu Arphaxad Ngwava), _Ars Comb._ 160, 7-12 (2024).
  0. A generalization of Szep's conjecture for almost simple groups (with [Michael Guidici](https://research-repository.uwa.edu.au/en/persons/michael-giudici) and [Pablo Spiga](http://www.matapp.unimib.it/~spiga/)), _Vietnam J. Math._ 52, No. 2, 325--259 (2024)
  0. Irredundant bases for finite groups of Lie type (with [Martin Liebeck](https://www.ma.ic.ac.uk/~mwl/)), _Pacific J. Math._ 322, No. 2, 281--200 (2023).
  0. Large minimal invariable generating sets in the finite symmetric groups (with [Daniele Garzoni](https://www.danielemath.com/)),_Israel J. Math._ 255, No. 2, 581--598 (2023).

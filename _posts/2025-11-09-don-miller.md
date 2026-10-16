@@ -24,7 +24,7 @@ I was reminded of this, recently, while reading Susan Fletcher's beautiful book 
 
 The book is told from the point of view of Corrag and one gets a clear sense of her bewilderment at the way people treat her: she sees love and life in the natural world that surrounds her and cannot understand why people feel so threatened by her. It is as if Corrag does not fit into the story that the "ordinary people" of the day inhabit -- she has a way of being in the world which cannot be accommodated by their sense of how to live.
 
-Is this, perhaps, what the word "witch", this poisonous centuries-old epithet, really signifies? Your story does not fit ours, and so we mark you, we cast you out. We feel threatened by your different way of living because it shines a light on the choices we have made, the boxes within which we have chosen to dwell.
+I guess this, then, is what the word "witch", this poisonous centuries-old epithet, really signifies: Your story does not fit ours, and so we mark you, we cast you out. We feel threatened by your different way of living because it shines a light on the choices we have made, the boxes within which we have chosen to dwell.
 
 How many have been cast out in this way? For being Jewish, or black, or gay, or being a wild woman, or a wyrd gender... From this point of view, bigotry and prejudice are a consequence of a failure of imagination: We let our stories set too hard, become too rigid, and we lose the capacity to let them flex and bend and take new and different and unexpected turns.
 
